@@ -1,0 +1,4441 @@
+state,ward_id,month,consumption_kwh
+Chandigarh,W1,2014-04,20.99
+Chandigarh,W1,2014-05,21.26
+Chandigarh,W1,2014-06,19.68
+Chandigarh,W1,2014-07,21.87
+Chandigarh,W1,2014-08,21.63
+Chandigarh,W1,2014-09,19.59
+Chandigarh,W1,2014-10,17.76
+Chandigarh,W1,2014-11,16.54
+Chandigarh,W1,2014-12,17.05
+Chandigarh,W1,2015-01,17.44
+Chandigarh,W1,2015-02,17.48
+Chandigarh,W1,2015-03,21.44
+Chandigarh,W2,2014-04,0.51
+Chandigarh,W2,2014-05,0.47
+Chandigarh,W2,2014-06,0.49
+Chandigarh,W2,2014-07,0.51
+Chandigarh,W2,2014-08,0.47
+Chandigarh,W2,2014-09,0.45
+Chandigarh,W2,2014-10,0.42
+Chandigarh,W2,2014-11,0.41
+Chandigarh,W2,2014-12,0.4
+Chandigarh,W2,2015-01,0.43
+Chandigarh,W2,2015-02,0.46
+Chandigarh,W2,2015-03,0.5
+Chandigarh,W3,2014-04,15.78
+Chandigarh,W3,2014-05,14.98
+Chandigarh,W3,2014-06,15.45
+Chandigarh,W3,2014-07,17.93
+Chandigarh,W3,2014-08,15.63
+Chandigarh,W3,2014-09,15.39
+Chandigarh,W3,2014-10,14.64
+Chandigarh,W3,2014-11,14.41
+Chandigarh,W3,2014-12,12.8
+Chandigarh,W3,2015-01,14.21
+Chandigarh,W3,2015-02,15.33
+Chandigarh,W3,2015-03,17.36
+Chandigarh,W4,2014-04,12.39
+Chandigarh,W4,2014-05,12.64
+Chandigarh,W4,2014-06,12.38
+Chandigarh,W4,2014-07,12.55
+Chandigarh,W4,2014-08,13.26
+Chandigarh,W4,2014-09,10.7
+Chandigarh,W4,2014-10,11.07
+Chandigarh,W4,2014-11,10.01
+Chandigarh,W4,2014-12,9.31
+Chandigarh,W4,2015-01,10.63
+Chandigarh,W4,2015-02,11.55
+Chandigarh,W4,2015-03,12.67
+Chandigarh,W5,2014-04,2.92
+Chandigarh,W5,2014-05,2.73
+Chandigarh,W5,2014-06,2.88
+Chandigarh,W5,2014-07,2.87
+Chandigarh,W5,2014-08,2.67
+Chandigarh,W5,2014-09,2.65
+Chandigarh,W5,2014-10,2.38
+Chandigarh,W5,2014-11,2.6
+Chandigarh,W5,2014-12,2.29
+Chandigarh,W5,2015-01,2.53
+Chandigarh,W5,2015-02,2.11
+Chandigarh,W5,2015-03,2.95
+Chandigarh,W6,2014-04,1.41
+Chandigarh,W6,2014-05,1.57
+Chandigarh,W6,2014-06,1.58
+Chandigarh,W6,2014-07,1.52
+Chandigarh,W6,2014-08,1.5
+Chandigarh,W6,2014-09,1.42
+Chandigarh,W6,2014-10,1.29
+Chandigarh,W6,2014-11,1.17
+Chandigarh,W6,2014-12,1.32
+Chandigarh,W6,2015-01,1.3
+Chandigarh,W6,2015-02,1.31
+Chandigarh,W6,2015-03,1.53
+Chandigarh,W7,2014-04,5.58
+Chandigarh,W7,2014-05,5.4
+Chandigarh,W7,2014-06,5.96
+Chandigarh,W7,2014-07,5.81
+Chandigarh,W7,2014-08,5.7
+Chandigarh,W7,2014-09,4.46
+Chandigarh,W7,2014-10,5.02
+Chandigarh,W7,2014-11,5.14
+Chandigarh,W7,2014-12,4.91
+Chandigarh,W7,2015-01,5.23
+Chandigarh,W7,2015-02,5.58
+Chandigarh,W7,2015-03,5.3
+Chandigarh,W8,2014-04,12.12
+Chandigarh,W8,2014-05,14.4
+Chandigarh,W8,2014-06,14.52
+Chandigarh,W8,2014-07,14.64
+Chandigarh,W8,2014-08,15.2
+Chandigarh,W8,2014-09,11.87
+Chandigarh,W8,2014-10,11.62
+Chandigarh,W8,2014-11,12.18
+Chandigarh,W8,2014-12,12.55
+Chandigarh,W8,2015-01,12.72
+Chandigarh,W8,2015-02,13.54
+Chandigarh,W8,2015-03,13.38
+Chandigarh,W9,2014-04,1.79
+Chandigarh,W9,2014-05,1.86
+Chandigarh,W9,2014-06,1.85
+Chandigarh,W9,2014-07,2.03
+Chandigarh,W9,2014-08,1.94
+Chandigarh,W9,2014-09,1.83
+Chandigarh,W9,2014-10,1.73
+Chandigarh,W9,2014-11,1.66
+Chandigarh,W9,2014-12,1.53
+Chandigarh,W9,2015-01,1.72
+Chandigarh,W9,2015-02,1.83
+Chandigarh,W9,2015-03,1.92
+Chandigarh,W10,2014-04,15.94
+Chandigarh,W10,2014-05,16.13
+Chandigarh,W10,2014-06,14.69
+Chandigarh,W10,2014-07,17.69
+Chandigarh,W10,2014-08,17.06
+Chandigarh,W10,2014-09,15.18
+Chandigarh,W10,2014-10,14.58
+Chandigarh,W10,2014-11,14.7
+Chandigarh,W10,2014-12,13.76
+Chandigarh,W10,2015-01,15.14
+Chandigarh,W10,2015-02,15.56
+Chandigarh,W10,2015-03,15.4
+Delhi,W1,2014-04,6.18
+Delhi,W1,2014-05,6.67
+Delhi,W1,2014-06,7.68
+Delhi,W1,2014-07,7.03
+Delhi,W1,2014-08,6.91
+Delhi,W1,2014-09,5.02
+Delhi,W1,2014-10,5.92
+Delhi,W1,2014-11,5.45
+Delhi,W1,2014-12,5.37
+Delhi,W1,2015-01,5.98
+Delhi,W1,2015-02,6.35
+Delhi,W1,2015-03,6.61
+Delhi,W2,2014-04,14.6
+Delhi,W2,2014-05,14.49
+Delhi,W2,2014-06,15.29
+Delhi,W2,2014-07,15.09
+Delhi,W2,2014-08,14.38
+Delhi,W2,2014-09,13.77
+Delhi,W2,2014-10,12.2
+Delhi,W2,2014-11,12.01
+Delhi,W2,2014-12,11.39
+Delhi,W2,2015-01,13.5
+Delhi,W2,2015-02,13.6
+Delhi,W2,2015-03,13.38
+Delhi,W3,2014-04,22.19
+Delhi,W3,2014-05,22.1
+Delhi,W3,2014-06,26.78
+Delhi,W3,2014-07,27.49
+Delhi,W3,2014-08,24.15
+Delhi,W3,2014-09,22.24
+Delhi,W3,2014-10,22.82
+Delhi,W3,2014-11,20.54
+Delhi,W3,2014-12,19.57
+Delhi,W3,2015-01,21.29
+Delhi,W3,2015-02,20.48
+Delhi,W3,2015-03,22.34
+Delhi,W4,2014-04,14.49
+Delhi,W4,2014-05,17.05
+Delhi,W4,2014-06,15.42
+Delhi,W4,2014-07,17.16
+Delhi,W4,2014-08,15.52
+Delhi,W4,2014-09,12.82
+Delhi,W4,2014-10,14.12
+Delhi,W4,2014-11,13.52
+Delhi,W4,2014-12,12.43
+Delhi,W4,2015-01,14.08
+Delhi,W4,2015-02,13.98
+Delhi,W4,2015-03,14.8
+Delhi,W5,2014-04,24.53
+Delhi,W5,2014-05,24.61
+Delhi,W5,2014-06,26.21
+Delhi,W5,2014-07,25.98
+Delhi,W5,2014-08,25.09
+Delhi,W5,2014-09,23.45
+Delhi,W5,2014-10,22.37
+Delhi,W5,2014-11,20.5
+Delhi,W5,2014-12,20.53
+Delhi,W5,2015-01,22.99
+Delhi,W5,2015-02,22.36
+Delhi,W5,2015-03,24.9
+Delhi,W6,2014-04,8.13
+Delhi,W6,2014-05,8.01
+Delhi,W6,2014-06,8.44
+Delhi,W6,2014-07,8.42
+Delhi,W6,2014-08,8.01
+Delhi,W6,2014-09,7.75
+Delhi,W6,2014-10,6.75
+Delhi,W6,2014-11,6.34
+Delhi,W6,2014-12,6.45
+Delhi,W6,2015-01,7.17
+Delhi,W6,2015-02,6.99
+Delhi,W6,2015-03,7.52
+Delhi,W7,2014-04,16.97
+Delhi,W7,2014-05,15.02
+Delhi,W7,2014-06,15.46
+Delhi,W7,2014-07,18.39
+Delhi,W7,2014-08,17.08
+Delhi,W7,2014-09,16.14
+Delhi,W7,2014-10,15.28
+Delhi,W7,2014-11,15.67
+Delhi,W7,2014-12,15.87
+Delhi,W7,2015-01,16.32
+Delhi,W7,2015-02,15.67
+Delhi,W7,2015-03,15.61
+Delhi,W8,2014-04,17.77
+Delhi,W8,2014-05,18.48
+Delhi,W8,2014-06,19.02
+Delhi,W8,2014-07,19.41
+Delhi,W8,2014-08,17.79
+Delhi,W8,2014-09,16.63
+Delhi,W8,2014-10,15.95
+Delhi,W8,2014-11,14.17
+Delhi,W8,2014-12,14.98
+Delhi,W8,2015-01,15.31
+Delhi,W8,2015-02,15.92
+Delhi,W8,2015-03,16.0
+Delhi,W9,2014-04,1.91
+Delhi,W9,2014-05,2.1
+Delhi,W9,2014-06,2.12
+Delhi,W9,2014-07,2.06
+Delhi,W9,2014-08,2.1
+Delhi,W9,2014-09,1.95
+Delhi,W9,2014-10,1.77
+Delhi,W9,2014-11,1.56
+Delhi,W9,2014-12,1.58
+Delhi,W9,2015-01,1.6
+Delhi,W9,2015-02,1.97
+Delhi,W9,2015-03,1.97
+Delhi,W10,2014-04,7.34
+Delhi,W10,2014-05,7.87
+Delhi,W10,2014-06,8.09
+Delhi,W10,2014-07,7.84
+Delhi,W10,2014-08,7.7
+Delhi,W10,2014-09,7.11
+Delhi,W10,2014-10,6.54
+Delhi,W10,2014-11,6.52
+Delhi,W10,2014-12,6.69
+Delhi,W10,2015-01,6.7
+Delhi,W10,2015-02,7.25
+Delhi,W10,2015-03,8.08
+Haryana,W1,2014-04,26.99
+Haryana,W1,2014-05,28.27
+Haryana,W1,2014-06,30.21
+Haryana,W1,2014-07,28.64
+Haryana,W1,2014-08,28.2
+Haryana,W1,2014-09,23.99
+Haryana,W1,2014-10,22.69
+Haryana,W1,2014-11,24.69
+Haryana,W1,2014-12,22.87
+Haryana,W1,2015-01,25.36
+Haryana,W1,2015-02,24.69
+Haryana,W1,2015-03,28.85
+Haryana,W2,2014-04,25.31
+Haryana,W2,2014-05,25.79
+Haryana,W2,2014-06,28.43
+Haryana,W2,2014-07,26.91
+Haryana,W2,2014-08,26.75
+Haryana,W2,2014-09,26.77
+Haryana,W2,2014-10,22.55
+Haryana,W2,2014-11,22.55
+Haryana,W2,2014-12,23.28
+Haryana,W2,2015-01,25.32
+Haryana,W2,2015-02,23.41
+Haryana,W2,2015-03,27.12
+Haryana,W3,2014-04,47.63
+Haryana,W3,2014-05,49.73
+Haryana,W3,2014-06,51.83
+Haryana,W3,2014-07,58.87
+Haryana,W3,2014-08,56.53
+Haryana,W3,2014-09,47.43
+Haryana,W3,2014-10,46.78
+Haryana,W3,2014-11,42.62
+Haryana,W3,2014-12,46.41
+Haryana,W3,2015-01,49.94
+Haryana,W3,2015-02,52.18
+Haryana,W3,2015-03,52.8
+Haryana,W4,2014-04,7.19
+Haryana,W4,2014-05,6.61
+Haryana,W4,2014-06,6.84
+Haryana,W4,2014-07,7.39
+Haryana,W4,2014-08,7.16
+Haryana,W4,2014-09,6.64
+Haryana,W4,2014-10,6.43
+Haryana,W4,2014-11,5.57
+Haryana,W4,2014-12,5.43
+Haryana,W4,2015-01,6.35
+Haryana,W4,2015-02,6.33
+Haryana,W4,2015-03,6.99
+Haryana,W5,2014-04,6.41
+Haryana,W5,2014-05,6.89
+Haryana,W5,2014-06,6.45
+Haryana,W5,2014-07,6.69
+Haryana,W5,2014-08,7.07
+Haryana,W5,2014-09,6.35
+Haryana,W5,2014-10,5.87
+Haryana,W5,2014-11,5.25
+Haryana,W5,2014-12,5.38
+Haryana,W5,2015-01,5.53
+Haryana,W5,2015-02,5.57
+Haryana,W5,2015-03,6.9
+Haryana,W6,2014-04,4.35
+Haryana,W6,2014-05,4.05
+Haryana,W6,2014-06,5.0
+Haryana,W6,2014-07,4.71
+Haryana,W6,2014-08,4.72
+Haryana,W6,2014-09,4.03
+Haryana,W6,2014-10,4.02
+Haryana,W6,2014-11,3.87
+Haryana,W6,2014-12,4.06
+Haryana,W6,2015-01,4.22
+Haryana,W6,2015-02,4.27
+Haryana,W6,2015-03,4.29
+Haryana,W7,2014-04,22.43
+Haryana,W7,2014-05,23.3
+Haryana,W7,2014-06,26.76
+Haryana,W7,2014-07,26.95
+Haryana,W7,2014-08,24.65
+Haryana,W7,2014-09,21.0
+Haryana,W7,2014-10,22.58
+Haryana,W7,2014-11,20.94
+Haryana,W7,2014-12,22.54
+Haryana,W7,2015-01,23.28
+Haryana,W7,2015-02,23.25
+Haryana,W7,2015-03,22.98
+Haryana,W8,2014-04,9.56
+Haryana,W8,2014-05,10.1
+Haryana,W8,2014-06,9.73
+Haryana,W8,2014-07,10.99
+Haryana,W8,2014-08,9.28
+Haryana,W8,2014-09,8.78
+Haryana,W8,2014-10,8.47
+Haryana,W8,2014-11,8.64
+Haryana,W8,2014-12,8.51
+Haryana,W8,2015-01,9.63
+Haryana,W8,2015-02,9.65
+Haryana,W8,2015-03,8.98
+Haryana,W9,2014-04,3.41
+Haryana,W9,2014-05,3.19
+Haryana,W9,2014-06,3.25
+Haryana,W9,2014-07,3.18
+Haryana,W9,2014-08,3.29
+Haryana,W9,2014-09,2.96
+Haryana,W9,2014-10,2.7
+Haryana,W9,2014-11,2.48
+Haryana,W9,2014-12,2.34
+Haryana,W9,2015-01,3.11
+Haryana,W9,2015-02,3.02
+Haryana,W9,2015-03,3.16
+Haryana,W10,2014-04,3.93
+Haryana,W10,2014-05,4.28
+Haryana,W10,2014-06,4.48
+Haryana,W10,2014-07,4.96
+Haryana,W10,2014-08,4.24
+Haryana,W10,2014-09,3.8
+Haryana,W10,2014-10,3.83
+Haryana,W10,2014-11,3.47
+Haryana,W10,2014-12,3.88
+Haryana,W10,2015-01,3.97
+Haryana,W10,2015-02,4.03
+Haryana,W10,2015-03,4.01
+Himachal Pradesh,W1,2014-04,2.59
+Himachal Pradesh,W1,2014-05,2.71
+Himachal Pradesh,W1,2014-06,2.9
+Himachal Pradesh,W1,2014-07,3.06
+Himachal Pradesh,W1,2014-08,2.86
+Himachal Pradesh,W1,2014-09,2.44
+Himachal Pradesh,W1,2014-10,2.39
+Himachal Pradesh,W1,2014-11,2.25
+Himachal Pradesh,W1,2014-12,2.28
+Himachal Pradesh,W1,2015-01,2.43
+Himachal Pradesh,W1,2015-02,2.52
+Himachal Pradesh,W1,2015-03,2.67
+Himachal Pradesh,W2,2014-04,5.98
+Himachal Pradesh,W2,2014-05,6.16
+Himachal Pradesh,W2,2014-06,6.76
+Himachal Pradesh,W2,2014-07,6.46
+Himachal Pradesh,W2,2014-08,6.82
+Himachal Pradesh,W2,2014-09,5.91
+Himachal Pradesh,W2,2014-10,4.98
+Himachal Pradesh,W2,2014-11,5.9
+Himachal Pradesh,W2,2014-12,5.55
+Himachal Pradesh,W2,2015-01,5.53
+Himachal Pradesh,W2,2015-02,5.7
+Himachal Pradesh,W2,2015-03,6.07
+Himachal Pradesh,W3,2014-04,19.78
+Himachal Pradesh,W3,2014-05,19.58
+Himachal Pradesh,W3,2014-06,21.72
+Himachal Pradesh,W3,2014-07,19.06
+Himachal Pradesh,W3,2014-08,20.48
+Himachal Pradesh,W3,2014-09,17.67
+Himachal Pradesh,W3,2014-10,16.44
+Himachal Pradesh,W3,2014-11,17.01
+Himachal Pradesh,W3,2014-12,16.71
+Himachal Pradesh,W3,2015-01,16.36
+Himachal Pradesh,W3,2015-02,17.84
+Himachal Pradesh,W3,2015-03,21.7
+Himachal Pradesh,W4,2014-04,14.08
+Himachal Pradesh,W4,2014-05,13.49
+Himachal Pradesh,W4,2014-06,12.59
+Himachal Pradesh,W4,2014-07,14.88
+Himachal Pradesh,W4,2014-08,12.94
+Himachal Pradesh,W4,2014-09,11.85
+Himachal Pradesh,W4,2014-10,11.82
+Himachal Pradesh,W4,2014-11,10.52
+Himachal Pradesh,W4,2014-12,11.64
+Himachal Pradesh,W4,2015-01,11.22
+Himachal Pradesh,W4,2015-02,11.48
+Himachal Pradesh,W4,2015-03,12.75
+Himachal Pradesh,W5,2014-04,20.0
+Himachal Pradesh,W5,2014-05,20.04
+Himachal Pradesh,W5,2014-06,21.25
+Himachal Pradesh,W5,2014-07,21.54
+Himachal Pradesh,W5,2014-08,21.99
+Himachal Pradesh,W5,2014-09,19.14
+Himachal Pradesh,W5,2014-10,20.54
+Himachal Pradesh,W5,2014-11,17.09
+Himachal Pradesh,W5,2014-12,18.74
+Himachal Pradesh,W5,2015-01,18.06
+Himachal Pradesh,W5,2015-02,20.41
+Himachal Pradesh,W5,2015-03,18.59
+Himachal Pradesh,W6,2014-04,6.81
+Himachal Pradesh,W6,2014-05,7.38
+Himachal Pradesh,W6,2014-06,7.96
+Himachal Pradesh,W6,2014-07,8.24
+Himachal Pradesh,W6,2014-08,7.74
+Himachal Pradesh,W6,2014-09,6.72
+Himachal Pradesh,W6,2014-10,6.81
+Himachal Pradesh,W6,2014-11,6.51
+Himachal Pradesh,W6,2014-12,6.67
+Himachal Pradesh,W6,2015-01,6.94
+Himachal Pradesh,W6,2015-02,7.14
+Himachal Pradesh,W6,2015-03,7.53
+Himachal Pradesh,W7,2014-04,12.81
+Himachal Pradesh,W7,2014-05,13.2
+Himachal Pradesh,W7,2014-06,13.66
+Himachal Pradesh,W7,2014-07,12.61
+Himachal Pradesh,W7,2014-08,13.53
+Himachal Pradesh,W7,2014-09,11.92
+Himachal Pradesh,W7,2014-10,11.42
+Himachal Pradesh,W7,2014-11,10.21
+Himachal Pradesh,W7,2014-12,11.2
+Himachal Pradesh,W7,2015-01,11.84
+Himachal Pradesh,W7,2015-02,11.12
+Himachal Pradesh,W7,2015-03,13.23
+Himachal Pradesh,W8,2014-04,7.2
+Himachal Pradesh,W8,2014-05,7.61
+Himachal Pradesh,W8,2014-06,8.08
+Himachal Pradesh,W8,2014-07,7.88
+Himachal Pradesh,W8,2014-08,8.1
+Himachal Pradesh,W8,2014-09,6.52
+Himachal Pradesh,W8,2014-10,7.04
+Himachal Pradesh,W8,2014-11,6.37
+Himachal Pradesh,W8,2014-12,6.07
+Himachal Pradesh,W8,2015-01,6.32
+Himachal Pradesh,W8,2015-02,6.88
+Himachal Pradesh,W8,2015-03,7.23
+Himachal Pradesh,W9,2014-04,11.17
+Himachal Pradesh,W9,2014-05,9.65
+Himachal Pradesh,W9,2014-06,11.38
+Himachal Pradesh,W9,2014-07,11.51
+Himachal Pradesh,W9,2014-08,10.5
+Himachal Pradesh,W9,2014-09,9.68
+Himachal Pradesh,W9,2014-10,10.05
+Himachal Pradesh,W9,2014-11,9.02
+Himachal Pradesh,W9,2014-12,9.75
+Himachal Pradesh,W9,2015-01,10.01
+Himachal Pradesh,W9,2015-02,10.32
+Himachal Pradesh,W9,2015-03,10.24
+Himachal Pradesh,W10,2014-04,14.52
+Himachal Pradesh,W10,2014-05,16.39
+Himachal Pradesh,W10,2014-06,16.4
+Himachal Pradesh,W10,2014-07,17.68
+Himachal Pradesh,W10,2014-08,16.37
+Himachal Pradesh,W10,2014-09,17.02
+Himachal Pradesh,W10,2014-10,14.15
+Himachal Pradesh,W10,2014-11,12.81
+Himachal Pradesh,W10,2014-12,15.11
+Himachal Pradesh,W10,2015-01,14.35
+Himachal Pradesh,W10,2015-02,13.8
+Himachal Pradesh,W10,2015-03,16.31
+Jammu & Kashmir,W1,2014-04,0.92
+Jammu & Kashmir,W1,2014-05,1.01
+Jammu & Kashmir,W1,2014-06,1.16
+Jammu & Kashmir,W1,2014-07,1.03
+Jammu & Kashmir,W1,2014-08,1.11
+Jammu & Kashmir,W1,2014-09,0.92
+Jammu & Kashmir,W1,2014-10,0.87
+Jammu & Kashmir,W1,2014-11,0.86
+Jammu & Kashmir,W1,2014-12,0.81
+Jammu & Kashmir,W1,2015-01,0.92
+Jammu & Kashmir,W1,2015-02,0.94
+Jammu & Kashmir,W1,2015-03,1.1
+Jammu & Kashmir,W2,2014-04,7.46
+Jammu & Kashmir,W2,2014-05,7.76
+Jammu & Kashmir,W2,2014-06,8.28
+Jammu & Kashmir,W2,2014-07,8.75
+Jammu & Kashmir,W2,2014-08,7.58
+Jammu & Kashmir,W2,2014-09,7.3
+Jammu & Kashmir,W2,2014-10,6.69
+Jammu & Kashmir,W2,2014-11,6.47
+Jammu & Kashmir,W2,2014-12,6.56
+Jammu & Kashmir,W2,2015-01,7.36
+Jammu & Kashmir,W2,2015-02,7.38
+Jammu & Kashmir,W2,2015-03,8.11
+Jammu & Kashmir,W3,2014-04,0.55
+Jammu & Kashmir,W3,2014-05,0.55
+Jammu & Kashmir,W3,2014-06,0.58
+Jammu & Kashmir,W3,2014-07,0.5
+Jammu & Kashmir,W3,2014-08,0.55
+Jammu & Kashmir,W3,2014-09,0.52
+Jammu & Kashmir,W3,2014-10,0.52
+Jammu & Kashmir,W3,2014-11,0.47
+Jammu & Kashmir,W3,2014-12,0.48
+Jammu & Kashmir,W3,2015-01,0.49
+Jammu & Kashmir,W3,2015-02,0.49
+Jammu & Kashmir,W3,2015-03,0.54
+Jammu & Kashmir,W4,2014-04,42.16
+Jammu & Kashmir,W4,2014-05,48.7
+Jammu & Kashmir,W4,2014-06,46.31
+Jammu & Kashmir,W4,2014-07,43.59
+Jammu & Kashmir,W4,2014-08,48.98
+Jammu & Kashmir,W4,2014-09,47.25
+Jammu & Kashmir,W4,2014-10,38.81
+Jammu & Kashmir,W4,2014-11,35.99
+Jammu & Kashmir,W4,2014-12,35.32
+Jammu & Kashmir,W4,2015-01,40.82
+Jammu & Kashmir,W4,2015-02,40.54
+Jammu & Kashmir,W4,2015-03,44.65
+Jammu & Kashmir,W5,2014-04,2.48
+Jammu & Kashmir,W5,2014-05,2.42
+Jammu & Kashmir,W5,2014-06,2.62
+Jammu & Kashmir,W5,2014-07,2.37
+Jammu & Kashmir,W5,2014-08,2.34
+Jammu & Kashmir,W5,2014-09,2.23
+Jammu & Kashmir,W5,2014-10,2.33
+Jammu & Kashmir,W5,2014-11,2.07
+Jammu & Kashmir,W5,2014-12,2.16
+Jammu & Kashmir,W5,2015-01,2.25
+Jammu & Kashmir,W5,2015-02,2.07
+Jammu & Kashmir,W5,2015-03,2.47
+Jammu & Kashmir,W6,2014-04,0.68
+Jammu & Kashmir,W6,2014-05,0.7
+Jammu & Kashmir,W6,2014-06,0.85
+Jammu & Kashmir,W6,2014-07,0.8
+Jammu & Kashmir,W6,2014-08,0.77
+Jammu & Kashmir,W6,2014-09,0.76
+Jammu & Kashmir,W6,2014-10,0.62
+Jammu & Kashmir,W6,2014-11,0.6
+Jammu & Kashmir,W6,2014-12,0.61
+Jammu & Kashmir,W6,2015-01,0.66
+Jammu & Kashmir,W6,2015-02,0.64
+Jammu & Kashmir,W6,2015-03,0.72
+Jammu & Kashmir,W7,2014-04,7.41
+Jammu & Kashmir,W7,2014-05,7.58
+Jammu & Kashmir,W7,2014-06,7.49
+Jammu & Kashmir,W7,2014-07,7.98
+Jammu & Kashmir,W7,2014-08,7.73
+Jammu & Kashmir,W7,2014-09,6.16
+Jammu & Kashmir,W7,2014-10,6.09
+Jammu & Kashmir,W7,2014-11,5.93
+Jammu & Kashmir,W7,2014-12,6.8
+Jammu & Kashmir,W7,2015-01,6.37
+Jammu & Kashmir,W7,2015-02,7.2
+Jammu & Kashmir,W7,2015-03,7.09
+Jammu & Kashmir,W8,2014-04,27.84
+Jammu & Kashmir,W8,2014-05,28.53
+Jammu & Kashmir,W8,2014-06,28.46
+Jammu & Kashmir,W8,2014-07,28.93
+Jammu & Kashmir,W8,2014-08,28.32
+Jammu & Kashmir,W8,2014-09,22.12
+Jammu & Kashmir,W8,2014-10,24.97
+Jammu & Kashmir,W8,2014-11,23.44
+Jammu & Kashmir,W8,2014-12,23.97
+Jammu & Kashmir,W8,2015-01,23.01
+Jammu & Kashmir,W8,2015-02,25.68
+Jammu & Kashmir,W8,2015-03,24.37
+Jammu & Kashmir,W9,2014-04,9.8
+Jammu & Kashmir,W9,2014-05,10.35
+Jammu & Kashmir,W9,2014-06,9.66
+Jammu & Kashmir,W9,2014-07,11.7
+Jammu & Kashmir,W9,2014-08,11.56
+Jammu & Kashmir,W9,2014-09,9.21
+Jammu & Kashmir,W9,2014-10,9.84
+Jammu & Kashmir,W9,2014-11,9.1
+Jammu & Kashmir,W9,2014-12,9.15
+Jammu & Kashmir,W9,2015-01,8.86
+Jammu & Kashmir,W9,2015-02,9.82
+Jammu & Kashmir,W9,2015-03,10.68
+Jammu & Kashmir,W10,2014-04,0.94
+Jammu & Kashmir,W10,2014-05,0.95
+Jammu & Kashmir,W10,2014-06,0.99
+Jammu & Kashmir,W10,2014-07,0.99
+Jammu & Kashmir,W10,2014-08,0.96
+Jammu & Kashmir,W10,2014-09,0.98
+Jammu & Kashmir,W10,2014-10,0.82
+Jammu & Kashmir,W10,2014-11,0.82
+Jammu & Kashmir,W10,2014-12,0.76
+Jammu & Kashmir,W10,2015-01,0.83
+Jammu & Kashmir,W10,2015-02,0.91
+Jammu & Kashmir,W10,2015-03,0.95
+Punjab,W1,2014-04,1.46
+Punjab,W1,2014-05,1.56
+Punjab,W1,2014-06,1.6
+Punjab,W1,2014-07,1.65
+Punjab,W1,2014-08,1.48
+Punjab,W1,2014-09,1.38
+Punjab,W1,2014-10,1.31
+Punjab,W1,2014-11,1.28
+Punjab,W1,2014-12,1.35
+Punjab,W1,2015-01,1.46
+Punjab,W1,2015-02,1.41
+Punjab,W1,2015-03,1.46
+Punjab,W2,2014-04,12.56
+Punjab,W2,2014-05,11.83
+Punjab,W2,2014-06,12.54
+Punjab,W2,2014-07,10.42
+Punjab,W2,2014-08,12.79
+Punjab,W2,2014-09,11.81
+Punjab,W2,2014-10,9.49
+Punjab,W2,2014-11,9.5
+Punjab,W2,2014-12,9.43
+Punjab,W2,2015-01,10.33
+Punjab,W2,2015-02,10.44
+Punjab,W2,2015-03,11.5
+Punjab,W3,2014-04,10.66
+Punjab,W3,2014-05,10.37
+Punjab,W3,2014-06,10.92
+Punjab,W3,2014-07,12.58
+Punjab,W3,2014-08,10.59
+Punjab,W3,2014-09,10.53
+Punjab,W3,2014-10,10.37
+Punjab,W3,2014-11,8.81
+Punjab,W3,2014-12,8.67
+Punjab,W3,2015-01,9.43
+Punjab,W3,2015-02,9.89
+Punjab,W3,2015-03,9.69
+Punjab,W4,2014-04,37.33
+Punjab,W4,2014-05,38.77
+Punjab,W4,2014-06,40.48
+Punjab,W4,2014-07,42.77
+Punjab,W4,2014-08,41.21
+Punjab,W4,2014-09,37.78
+Punjab,W4,2014-10,34.64
+Punjab,W4,2014-11,35.16
+Punjab,W4,2014-12,29.08
+Punjab,W4,2015-01,34.11
+Punjab,W4,2015-02,35.7
+Punjab,W4,2015-03,42.58
+Punjab,W5,2014-04,1.22
+Punjab,W5,2014-05,1.27
+Punjab,W5,2014-06,1.33
+Punjab,W5,2014-07,1.42
+Punjab,W5,2014-08,1.22
+Punjab,W5,2014-09,1.18
+Punjab,W5,2014-10,1.09
+Punjab,W5,2014-11,1.01
+Punjab,W5,2014-12,1.14
+Punjab,W5,2015-01,1.17
+Punjab,W5,2015-02,1.18
+Punjab,W5,2015-03,1.24
+Punjab,W6,2014-04,9.31
+Punjab,W6,2014-05,8.53
+Punjab,W6,2014-06,10.48
+Punjab,W6,2014-07,8.77
+Punjab,W6,2014-08,8.49
+Punjab,W6,2014-09,8.58
+Punjab,W6,2014-10,7.18
+Punjab,W6,2014-11,7.7
+Punjab,W6,2014-12,7.9
+Punjab,W6,2015-01,8.81
+Punjab,W6,2015-02,8.08
+Punjab,W6,2015-03,8.47
+Punjab,W7,2014-04,34.53
+Punjab,W7,2014-05,36.0
+Punjab,W7,2014-06,37.35
+Punjab,W7,2014-07,35.79
+Punjab,W7,2014-08,39.01
+Punjab,W7,2014-09,32.0
+Punjab,W7,2014-10,33.18
+Punjab,W7,2014-11,30.76
+Punjab,W7,2014-12,29.98
+Punjab,W7,2015-01,31.24
+Punjab,W7,2015-02,32.86
+Punjab,W7,2015-03,36.09
+Punjab,W8,2014-04,27.15
+Punjab,W8,2014-05,31.48
+Punjab,W8,2014-06,28.77
+Punjab,W8,2014-07,31.77
+Punjab,W8,2014-08,28.51
+Punjab,W8,2014-09,25.83
+Punjab,W8,2014-10,24.68
+Punjab,W8,2014-11,26.27
+Punjab,W8,2014-12,26.28
+Punjab,W8,2015-01,23.68
+Punjab,W8,2015-02,25.72
+Punjab,W8,2015-03,27.42
+Punjab,W9,2014-04,21.19
+Punjab,W9,2014-05,18.79
+Punjab,W9,2014-06,22.78
+Punjab,W9,2014-07,23.93
+Punjab,W9,2014-08,20.98
+Punjab,W9,2014-09,20.23
+Punjab,W9,2014-10,18.72
+Punjab,W9,2014-11,17.94
+Punjab,W9,2014-12,17.88
+Punjab,W9,2015-01,19.65
+Punjab,W9,2015-02,21.33
+Punjab,W9,2015-03,20.82
+Punjab,W10,2014-04,3.93
+Punjab,W10,2014-05,3.89
+Punjab,W10,2014-06,4.06
+Punjab,W10,2014-07,4.6
+Punjab,W10,2014-08,4.06
+Punjab,W10,2014-09,3.62
+Punjab,W10,2014-10,3.33
+Punjab,W10,2014-11,3.25
+Punjab,W10,2014-12,3.05
+Punjab,W10,2015-01,3.43
+Punjab,W10,2015-02,3.61
+Punjab,W10,2015-03,3.86
+Rajasthan,W1,2014-04,23.57
+Rajasthan,W1,2014-05,26.24
+Rajasthan,W1,2014-06,26.07
+Rajasthan,W1,2014-07,23.41
+Rajasthan,W1,2014-08,22.88
+Rajasthan,W1,2014-09,23.01
+Rajasthan,W1,2014-10,22.32
+Rajasthan,W1,2014-11,21.43
+Rajasthan,W1,2014-12,20.98
+Rajasthan,W1,2015-01,22.29
+Rajasthan,W1,2015-02,22.06
+Rajasthan,W1,2015-03,24.67
+Rajasthan,W2,2014-04,6.05
+Rajasthan,W2,2014-05,6.3
+Rajasthan,W2,2014-06,6.98
+Rajasthan,W2,2014-07,6.54
+Rajasthan,W2,2014-08,6.27
+Rajasthan,W2,2014-09,5.68
+Rajasthan,W2,2014-10,5.55
+Rajasthan,W2,2014-11,5.47
+Rajasthan,W2,2014-12,5.86
+Rajasthan,W2,2015-01,5.96
+Rajasthan,W2,2015-02,5.89
+Rajasthan,W2,2015-03,6.12
+Rajasthan,W3,2014-04,10.79
+Rajasthan,W3,2014-05,10.28
+Rajasthan,W3,2014-06,10.96
+Rajasthan,W3,2014-07,11.5
+Rajasthan,W3,2014-08,11.04
+Rajasthan,W3,2014-09,9.79
+Rajasthan,W3,2014-10,8.89
+Rajasthan,W3,2014-11,8.66
+Rajasthan,W3,2014-12,8.16
+Rajasthan,W3,2015-01,9.84
+Rajasthan,W3,2015-02,9.51
+Rajasthan,W3,2015-03,10.93
+Rajasthan,W4,2014-04,20.05
+Rajasthan,W4,2014-05,20.58
+Rajasthan,W4,2014-06,21.29
+Rajasthan,W4,2014-07,22.89
+Rajasthan,W4,2014-08,19.1
+Rajasthan,W4,2014-09,19.56
+Rajasthan,W4,2014-10,18.1
+Rajasthan,W4,2014-11,17.83
+Rajasthan,W4,2014-12,17.32
+Rajasthan,W4,2015-01,17.74
+Rajasthan,W4,2015-02,20.2
+Rajasthan,W4,2015-03,19.56
+Rajasthan,W5,2014-04,3.47
+Rajasthan,W5,2014-05,3.43
+Rajasthan,W5,2014-06,3.62
+Rajasthan,W5,2014-07,3.42
+Rajasthan,W5,2014-08,3.41
+Rajasthan,W5,2014-09,3.19
+Rajasthan,W5,2014-10,2.86
+Rajasthan,W5,2014-11,2.8
+Rajasthan,W5,2014-12,2.78
+Rajasthan,W5,2015-01,3.06
+Rajasthan,W5,2015-02,3.01
+Rajasthan,W5,2015-03,3.44
+Rajasthan,W6,2014-04,2.19
+Rajasthan,W6,2014-05,2.43
+Rajasthan,W6,2014-06,2.25
+Rajasthan,W6,2014-07,2.75
+Rajasthan,W6,2014-08,2.13
+Rajasthan,W6,2014-09,2.29
+Rajasthan,W6,2014-10,1.93
+Rajasthan,W6,2014-11,1.98
+Rajasthan,W6,2014-12,2.14
+Rajasthan,W6,2015-01,2.07
+Rajasthan,W6,2015-02,2.16
+Rajasthan,W6,2015-03,2.31
+Rajasthan,W7,2014-04,8.82
+Rajasthan,W7,2014-05,9.1
+Rajasthan,W7,2014-06,9.69
+Rajasthan,W7,2014-07,9.4
+Rajasthan,W7,2014-08,9.16
+Rajasthan,W7,2014-09,8.38
+Rajasthan,W7,2014-10,8.26
+Rajasthan,W7,2014-11,7.2
+Rajasthan,W7,2014-12,8.05
+Rajasthan,W7,2015-01,8.51
+Rajasthan,W7,2015-02,8.84
+Rajasthan,W7,2015-03,8.81
+Rajasthan,W8,2014-04,3.68
+Rajasthan,W8,2014-05,3.71
+Rajasthan,W8,2014-06,3.82
+Rajasthan,W8,2014-07,4.1
+Rajasthan,W8,2014-08,3.72
+Rajasthan,W8,2014-09,3.6
+Rajasthan,W8,2014-10,3.29
+Rajasthan,W8,2014-11,3.1
+Rajasthan,W8,2014-12,3.37
+Rajasthan,W8,2015-01,3.35
+Rajasthan,W8,2015-02,3.35
+Rajasthan,W8,2015-03,3.52
+Rajasthan,W9,2014-04,1.75
+Rajasthan,W9,2014-05,1.82
+Rajasthan,W9,2014-06,1.86
+Rajasthan,W9,2014-07,1.84
+Rajasthan,W9,2014-08,1.81
+Rajasthan,W9,2014-09,1.73
+Rajasthan,W9,2014-10,1.45
+Rajasthan,W9,2014-11,1.51
+Rajasthan,W9,2014-12,1.5
+Rajasthan,W9,2015-01,1.51
+Rajasthan,W9,2015-02,1.59
+Rajasthan,W9,2015-03,1.7
+Rajasthan,W10,2014-04,15.43
+Rajasthan,W10,2014-05,15.85
+Rajasthan,W10,2014-06,16.97
+Rajasthan,W10,2014-07,15.3
+Rajasthan,W10,2014-08,15.57
+Rajasthan,W10,2014-09,14.47
+Rajasthan,W10,2014-10,13.67
+Rajasthan,W10,2014-11,13.69
+Rajasthan,W10,2014-12,14.2
+Rajasthan,W10,2015-01,13.95
+Rajasthan,W10,2015-02,15.91
+Rajasthan,W10,2015-03,15.51
+Uttar Pradesh,W1,2014-04,4.48
+Uttar Pradesh,W1,2014-05,5.21
+Uttar Pradesh,W1,2014-06,4.62
+Uttar Pradesh,W1,2014-07,4.9
+Uttar Pradesh,W1,2014-08,4.71
+Uttar Pradesh,W1,2014-09,4.36
+Uttar Pradesh,W1,2014-10,3.91
+Uttar Pradesh,W1,2014-11,4.23
+Uttar Pradesh,W1,2014-12,4.26
+Uttar Pradesh,W1,2015-01,4.07
+Uttar Pradesh,W1,2015-02,4.0
+Uttar Pradesh,W1,2015-03,4.55
+Uttar Pradesh,W2,2014-04,0.58
+Uttar Pradesh,W2,2014-05,0.6
+Uttar Pradesh,W2,2014-06,0.64
+Uttar Pradesh,W2,2014-07,0.56
+Uttar Pradesh,W2,2014-08,0.59
+Uttar Pradesh,W2,2014-09,0.57
+Uttar Pradesh,W2,2014-10,0.52
+Uttar Pradesh,W2,2014-11,0.51
+Uttar Pradesh,W2,2014-12,0.46
+Uttar Pradesh,W2,2015-01,0.49
+Uttar Pradesh,W2,2015-02,0.54
+Uttar Pradesh,W2,2015-03,0.57
+Uttar Pradesh,W3,2014-04,1.4
+Uttar Pradesh,W3,2014-05,1.38
+Uttar Pradesh,W3,2014-06,1.57
+Uttar Pradesh,W3,2014-07,1.54
+Uttar Pradesh,W3,2014-08,1.43
+Uttar Pradesh,W3,2014-09,1.29
+Uttar Pradesh,W3,2014-10,1.21
+Uttar Pradesh,W3,2014-11,1.16
+Uttar Pradesh,W3,2014-12,1.21
+Uttar Pradesh,W3,2015-01,1.32
+Uttar Pradesh,W3,2015-02,1.23
+Uttar Pradesh,W3,2015-03,1.36
+Uttar Pradesh,W4,2014-04,6.6
+Uttar Pradesh,W4,2014-05,7.5
+Uttar Pradesh,W4,2014-06,7.82
+Uttar Pradesh,W4,2014-07,7.05
+Uttar Pradesh,W4,2014-08,7.18
+Uttar Pradesh,W4,2014-09,6.51
+Uttar Pradesh,W4,2014-10,5.63
+Uttar Pradesh,W4,2014-11,5.75
+Uttar Pradesh,W4,2014-12,6.2
+Uttar Pradesh,W4,2015-01,5.79
+Uttar Pradesh,W4,2015-02,6.48
+Uttar Pradesh,W4,2015-03,6.57
+Uttar Pradesh,W5,2014-04,5.2
+Uttar Pradesh,W5,2014-05,4.99
+Uttar Pradesh,W5,2014-06,4.55
+Uttar Pradesh,W5,2014-07,5.14
+Uttar Pradesh,W5,2014-08,4.7
+Uttar Pradesh,W5,2014-09,4.42
+Uttar Pradesh,W5,2014-10,4.34
+Uttar Pradesh,W5,2014-11,4.32
+Uttar Pradesh,W5,2014-12,4.21
+Uttar Pradesh,W5,2015-01,4.32
+Uttar Pradesh,W5,2015-02,4.47
+Uttar Pradesh,W5,2015-03,5.05
+Uttar Pradesh,W6,2014-04,4.55
+Uttar Pradesh,W6,2014-05,4.65
+Uttar Pradesh,W6,2014-06,5.51
+Uttar Pradesh,W6,2014-07,5.06
+Uttar Pradesh,W6,2014-08,4.78
+Uttar Pradesh,W6,2014-09,4.43
+Uttar Pradesh,W6,2014-10,4.26
+Uttar Pradesh,W6,2014-11,4.06
+Uttar Pradesh,W6,2014-12,4.29
+Uttar Pradesh,W6,2015-01,4.46
+Uttar Pradesh,W6,2015-02,4.67
+Uttar Pradesh,W6,2015-03,4.78
+Uttar Pradesh,W7,2014-04,2.32
+Uttar Pradesh,W7,2014-05,2.26
+Uttar Pradesh,W7,2014-06,2.51
+Uttar Pradesh,W7,2014-07,2.33
+Uttar Pradesh,W7,2014-08,2.24
+Uttar Pradesh,W7,2014-09,2.22
+Uttar Pradesh,W7,2014-10,2.05
+Uttar Pradesh,W7,2014-11,1.93
+Uttar Pradesh,W7,2014-12,2.06
+Uttar Pradesh,W7,2015-01,2.11
+Uttar Pradesh,W7,2015-02,2.2
+Uttar Pradesh,W7,2015-03,2.28
+Uttar Pradesh,W8,2014-04,0.09
+Uttar Pradesh,W8,2014-05,0.1
+Uttar Pradesh,W8,2014-06,0.1
+Uttar Pradesh,W8,2014-07,0.1
+Uttar Pradesh,W8,2014-08,0.1
+Uttar Pradesh,W8,2014-09,0.09
+Uttar Pradesh,W8,2014-10,0.08
+Uttar Pradesh,W8,2014-11,0.08
+Uttar Pradesh,W8,2014-12,0.08
+Uttar Pradesh,W8,2015-01,0.08
+Uttar Pradesh,W8,2015-02,0.09
+Uttar Pradesh,W8,2015-03,0.1
+Uttar Pradesh,W9,2014-04,16.08
+Uttar Pradesh,W9,2014-05,16.69
+Uttar Pradesh,W9,2014-06,16.24
+Uttar Pradesh,W9,2014-07,17.04
+Uttar Pradesh,W9,2014-08,15.37
+Uttar Pradesh,W9,2014-09,14.22
+Uttar Pradesh,W9,2014-10,15.16
+Uttar Pradesh,W9,2014-11,12.83
+Uttar Pradesh,W9,2014-12,14.92
+Uttar Pradesh,W9,2015-01,15.31
+Uttar Pradesh,W9,2015-02,15.43
+Uttar Pradesh,W9,2015-03,15.37
+Uttar Pradesh,W10,2014-04,2.05
+Uttar Pradesh,W10,2014-05,2.03
+Uttar Pradesh,W10,2014-06,2.08
+Uttar Pradesh,W10,2014-07,2.19
+Uttar Pradesh,W10,2014-08,2.08
+Uttar Pradesh,W10,2014-09,1.66
+Uttar Pradesh,W10,2014-10,1.7
+Uttar Pradesh,W10,2014-11,1.64
+Uttar Pradesh,W10,2014-12,1.84
+Uttar Pradesh,W10,2015-01,1.85
+Uttar Pradesh,W10,2015-02,1.75
+Uttar Pradesh,W10,2015-03,1.88
+Uttarakhand,W1,2014-04,25.06
+Uttarakhand,W1,2014-05,24.63
+Uttarakhand,W1,2014-06,29.21
+Uttarakhand,W1,2014-07,28.35
+Uttarakhand,W1,2014-08,25.7
+Uttarakhand,W1,2014-09,23.7
+Uttarakhand,W1,2014-10,21.44
+Uttarakhand,W1,2014-11,21.15
+Uttarakhand,W1,2014-12,21.48
+Uttarakhand,W1,2015-01,24.55
+Uttarakhand,W1,2015-02,26.44
+Uttarakhand,W1,2015-03,25.73
+Uttarakhand,W2,2014-04,17.26
+Uttarakhand,W2,2014-05,18.59
+Uttarakhand,W2,2014-06,17.31
+Uttarakhand,W2,2014-07,18.34
+Uttarakhand,W2,2014-08,18.65
+Uttarakhand,W2,2014-09,15.9
+Uttarakhand,W2,2014-10,15.13
+Uttarakhand,W2,2014-11,15.55
+Uttarakhand,W2,2014-12,15.63
+Uttarakhand,W2,2015-01,16.29
+Uttarakhand,W2,2015-02,16.49
+Uttarakhand,W2,2015-03,18.37
+Uttarakhand,W3,2014-04,0.21
+Uttarakhand,W3,2014-05,0.22
+Uttarakhand,W3,2014-06,0.22
+Uttarakhand,W3,2014-07,0.2
+Uttarakhand,W3,2014-08,0.23
+Uttarakhand,W3,2014-09,0.2
+Uttarakhand,W3,2014-10,0.17
+Uttarakhand,W3,2014-11,0.17
+Uttarakhand,W3,2014-12,0.19
+Uttarakhand,W3,2015-01,0.2
+Uttarakhand,W3,2015-02,0.21
+Uttarakhand,W3,2015-03,0.21
+Uttarakhand,W4,2014-04,8.94
+Uttarakhand,W4,2014-05,9.12
+Uttarakhand,W4,2014-06,9.24
+Uttarakhand,W4,2014-07,10.65
+Uttarakhand,W4,2014-08,9.8
+Uttarakhand,W4,2014-09,8.35
+Uttarakhand,W4,2014-10,8.02
+Uttarakhand,W4,2014-11,8.16
+Uttarakhand,W4,2014-12,7.61
+Uttarakhand,W4,2015-01,8.75
+Uttarakhand,W4,2015-02,8.16
+Uttarakhand,W4,2015-03,9.28
+Uttarakhand,W5,2014-04,2.26
+Uttarakhand,W5,2014-05,2.48
+Uttarakhand,W5,2014-06,2.53
+Uttarakhand,W5,2014-07,2.64
+Uttarakhand,W5,2014-08,2.46
+Uttarakhand,W5,2014-09,2.31
+Uttarakhand,W5,2014-10,2.07
+Uttarakhand,W5,2014-11,2.1
+Uttarakhand,W5,2014-12,1.92
+Uttarakhand,W5,2015-01,2.1
+Uttarakhand,W5,2015-02,2.16
+Uttarakhand,W5,2015-03,2.34
+Uttarakhand,W6,2014-04,5.29
+Uttarakhand,W6,2014-05,5.73
+Uttarakhand,W6,2014-06,5.91
+Uttarakhand,W6,2014-07,6.66
+Uttarakhand,W6,2014-08,6.34
+Uttarakhand,W6,2014-09,5.3
+Uttarakhand,W6,2014-10,5.06
+Uttarakhand,W6,2014-11,4.7
+Uttarakhand,W6,2014-12,5.39
+Uttarakhand,W6,2015-01,4.9
+Uttarakhand,W6,2015-02,5.84
+Uttarakhand,W6,2015-03,5.62
+Uttarakhand,W7,2014-04,28.63
+Uttarakhand,W7,2014-05,27.24
+Uttarakhand,W7,2014-06,31.27
+Uttarakhand,W7,2014-07,31.54
+Uttarakhand,W7,2014-08,28.6
+Uttarakhand,W7,2014-09,24.85
+Uttarakhand,W7,2014-10,24.83
+Uttarakhand,W7,2014-11,23.26
+Uttarakhand,W7,2014-12,22.52
+Uttarakhand,W7,2015-01,23.16
+Uttarakhand,W7,2015-02,25.24
+Uttarakhand,W7,2015-03,27.66
+Uttarakhand,W8,2014-04,22.34
+Uttarakhand,W8,2014-05,22.65
+Uttarakhand,W8,2014-06,23.08
+Uttarakhand,W8,2014-07,25.06
+Uttarakhand,W8,2014-08,25.67
+Uttarakhand,W8,2014-09,23.09
+Uttarakhand,W8,2014-10,20.03
+Uttarakhand,W8,2014-11,18.94
+Uttarakhand,W8,2014-12,18.14
+Uttarakhand,W8,2015-01,22.71
+Uttarakhand,W8,2015-02,21.92
+Uttarakhand,W8,2015-03,22.85
+Uttarakhand,W9,2014-04,5.23
+Uttarakhand,W9,2014-05,4.54
+Uttarakhand,W9,2014-06,5.48
+Uttarakhand,W9,2014-07,5.62
+Uttarakhand,W9,2014-08,4.76
+Uttarakhand,W9,2014-09,5.16
+Uttarakhand,W9,2014-10,4.57
+Uttarakhand,W9,2014-11,4.45
+Uttarakhand,W9,2014-12,4.43
+Uttarakhand,W9,2015-01,4.51
+Uttarakhand,W9,2015-02,5.08
+Uttarakhand,W9,2015-03,4.98
+Uttarakhand,W10,2014-04,1.53
+Uttarakhand,W10,2014-05,1.56
+Uttarakhand,W10,2014-06,1.42
+Uttarakhand,W10,2014-07,1.59
+Uttarakhand,W10,2014-08,1.66
+Uttarakhand,W10,2014-09,1.38
+Uttarakhand,W10,2014-10,1.33
+Uttarakhand,W10,2014-11,1.25
+Uttarakhand,W10,2014-12,1.35
+Uttarakhand,W10,2015-01,1.35
+Uttarakhand,W10,2015-02,1.3
+Uttarakhand,W10,2015-03,1.42
+Chhattisgarh,W1,2014-04,8.36
+Chhattisgarh,W1,2014-05,9.2
+Chhattisgarh,W1,2014-06,8.08
+Chhattisgarh,W1,2014-07,9.82
+Chhattisgarh,W1,2014-08,8.78
+Chhattisgarh,W1,2014-09,8.45
+Chhattisgarh,W1,2014-10,7.08
+Chhattisgarh,W1,2014-11,6.92
+Chhattisgarh,W1,2014-12,6.92
+Chhattisgarh,W1,2015-01,7.92
+Chhattisgarh,W1,2015-02,8.54
+Chhattisgarh,W1,2015-03,8.43
+Chhattisgarh,W2,2014-04,2.39
+Chhattisgarh,W2,2014-05,2.51
+Chhattisgarh,W2,2014-06,2.38
+Chhattisgarh,W2,2014-07,2.35
+Chhattisgarh,W2,2014-08,2.48
+Chhattisgarh,W2,2014-09,2.22
+Chhattisgarh,W2,2014-10,2.06
+Chhattisgarh,W2,2014-11,2.12
+Chhattisgarh,W2,2014-12,1.97
+Chhattisgarh,W2,2015-01,2.12
+Chhattisgarh,W2,2015-02,2.22
+Chhattisgarh,W2,2015-03,2.39
+Chhattisgarh,W3,2014-04,5.77
+Chhattisgarh,W3,2014-05,6.17
+Chhattisgarh,W3,2014-06,5.9
+Chhattisgarh,W3,2014-07,6.33
+Chhattisgarh,W3,2014-08,6.45
+Chhattisgarh,W3,2014-09,5.52
+Chhattisgarh,W3,2014-10,5.53
+Chhattisgarh,W3,2014-11,4.86
+Chhattisgarh,W3,2014-12,4.75
+Chhattisgarh,W3,2015-01,5.7
+Chhattisgarh,W3,2015-02,5.69
+Chhattisgarh,W3,2015-03,5.66
+Chhattisgarh,W4,2014-04,11.35
+Chhattisgarh,W4,2014-05,12.04
+Chhattisgarh,W4,2014-06,12.26
+Chhattisgarh,W4,2014-07,13.45
+Chhattisgarh,W4,2014-08,12.01
+Chhattisgarh,W4,2014-09,11.09
+Chhattisgarh,W4,2014-10,11.03
+Chhattisgarh,W4,2014-11,9.27
+Chhattisgarh,W4,2014-12,9.86
+Chhattisgarh,W4,2015-01,10.77
+Chhattisgarh,W4,2015-02,9.88
+Chhattisgarh,W4,2015-03,11.44
+Chhattisgarh,W5,2014-04,44.26
+Chhattisgarh,W5,2014-05,46.98
+Chhattisgarh,W5,2014-06,47.46
+Chhattisgarh,W5,2014-07,48.77
+Chhattisgarh,W5,2014-08,46.13
+Chhattisgarh,W5,2014-09,39.52
+Chhattisgarh,W5,2014-10,41.01
+Chhattisgarh,W5,2014-11,35.23
+Chhattisgarh,W5,2014-12,38.25
+Chhattisgarh,W5,2015-01,44.03
+Chhattisgarh,W5,2015-02,38.16
+Chhattisgarh,W5,2015-03,41.17
+Chhattisgarh,W6,2014-04,8.71
+Chhattisgarh,W6,2014-05,9.39
+Chhattisgarh,W6,2014-06,10.58
+Chhattisgarh,W6,2014-07,9.8
+Chhattisgarh,W6,2014-08,9.57
+Chhattisgarh,W6,2014-09,8.8
+Chhattisgarh,W6,2014-10,8.55
+Chhattisgarh,W6,2014-11,7.51
+Chhattisgarh,W6,2014-12,7.96
+Chhattisgarh,W6,2015-01,9.45
+Chhattisgarh,W6,2015-02,8.33
+Chhattisgarh,W6,2015-03,9.3
+Chhattisgarh,W7,2014-04,32.63
+Chhattisgarh,W7,2014-05,36.16
+Chhattisgarh,W7,2014-06,34.84
+Chhattisgarh,W7,2014-07,38.48
+Chhattisgarh,W7,2014-08,36.98
+Chhattisgarh,W7,2014-09,36.75
+Chhattisgarh,W7,2014-10,32.85
+Chhattisgarh,W7,2014-11,29.89
+Chhattisgarh,W7,2014-12,27.9
+Chhattisgarh,W7,2015-01,32.71
+Chhattisgarh,W7,2015-02,31.21
+Chhattisgarh,W7,2015-03,34.45
+Chhattisgarh,W8,2014-04,16.45
+Chhattisgarh,W8,2014-05,18.18
+Chhattisgarh,W8,2014-06,15.57
+Chhattisgarh,W8,2014-07,18.24
+Chhattisgarh,W8,2014-08,17.4
+Chhattisgarh,W8,2014-09,14.96
+Chhattisgarh,W8,2014-10,13.93
+Chhattisgarh,W8,2014-11,14.25
+Chhattisgarh,W8,2014-12,13.49
+Chhattisgarh,W8,2015-01,14.78
+Chhattisgarh,W8,2015-02,14.66
+Chhattisgarh,W8,2015-03,16.43
+Chhattisgarh,W9,2014-04,5.21
+Chhattisgarh,W9,2014-05,5.27
+Chhattisgarh,W9,2014-06,5.54
+Chhattisgarh,W9,2014-07,5.93
+Chhattisgarh,W9,2014-08,5.69
+Chhattisgarh,W9,2014-09,4.79
+Chhattisgarh,W9,2014-10,4.81
+Chhattisgarh,W9,2014-11,4.63
+Chhattisgarh,W9,2014-12,4.88
+Chhattisgarh,W9,2015-01,5.24
+Chhattisgarh,W9,2015-02,4.64
+Chhattisgarh,W9,2015-03,5.05
+Chhattisgarh,W10,2014-04,9.17
+Chhattisgarh,W10,2014-05,10.0
+Chhattisgarh,W10,2014-06,11.24
+Chhattisgarh,W10,2014-07,11.72
+Chhattisgarh,W10,2014-08,9.78
+Chhattisgarh,W10,2014-09,9.63
+Chhattisgarh,W10,2014-10,8.75
+Chhattisgarh,W10,2014-11,8.27
+Chhattisgarh,W10,2014-12,8.51
+Chhattisgarh,W10,2015-01,8.72
+Chhattisgarh,W10,2015-02,9.75
+Chhattisgarh,W10,2015-03,9.77
+Gujarat,W1,2014-04,5.2
+Gujarat,W1,2014-05,5.86
+Gujarat,W1,2014-06,5.55
+Gujarat,W1,2014-07,6.61
+Gujarat,W1,2014-08,5.6
+Gujarat,W1,2014-09,4.82
+Gujarat,W1,2014-10,4.8
+Gujarat,W1,2014-11,4.82
+Gujarat,W1,2014-12,5.05
+Gujarat,W1,2015-01,5.51
+Gujarat,W1,2015-02,5.0
+Gujarat,W1,2015-03,5.33
+Gujarat,W2,2014-04,5.01
+Gujarat,W2,2014-05,5.58
+Gujarat,W2,2014-06,4.95
+Gujarat,W2,2014-07,5.61
+Gujarat,W2,2014-08,5.2
+Gujarat,W2,2014-09,4.73
+Gujarat,W2,2014-10,4.35
+Gujarat,W2,2014-11,4.18
+Gujarat,W2,2014-12,4.73
+Gujarat,W2,2015-01,4.34
+Gujarat,W2,2015-02,4.66
+Gujarat,W2,2015-03,5.66
+Gujarat,W3,2014-04,18.02
+Gujarat,W3,2014-05,17.95
+Gujarat,W3,2014-06,18.94
+Gujarat,W3,2014-07,17.95
+Gujarat,W3,2014-08,17.86
+Gujarat,W3,2014-09,17.38
+Gujarat,W3,2014-10,16.23
+Gujarat,W3,2014-11,14.02
+Gujarat,W3,2014-12,14.2
+Gujarat,W3,2015-01,15.96
+Gujarat,W3,2015-02,15.7
+Gujarat,W3,2015-03,16.5
+Gujarat,W4,2014-04,4.04
+Gujarat,W4,2014-05,4.76
+Gujarat,W4,2014-06,5.05
+Gujarat,W4,2014-07,5.5
+Gujarat,W4,2014-08,5.04
+Gujarat,W4,2014-09,4.96
+Gujarat,W4,2014-10,4.07
+Gujarat,W4,2014-11,4.13
+Gujarat,W4,2014-12,4.13
+Gujarat,W4,2015-01,3.87
+Gujarat,W4,2015-02,4.19
+Gujarat,W4,2015-03,4.39
+Gujarat,W5,2014-04,26.68
+Gujarat,W5,2014-05,30.2
+Gujarat,W5,2014-06,30.63
+Gujarat,W5,2014-07,31.95
+Gujarat,W5,2014-08,30.71
+Gujarat,W5,2014-09,26.52
+Gujarat,W5,2014-10,25.11
+Gujarat,W5,2014-11,24.9
+Gujarat,W5,2014-12,24.2
+Gujarat,W5,2015-01,24.87
+Gujarat,W5,2015-02,29.25
+Gujarat,W5,2015-03,28.16
+Gujarat,W6,2014-04,77.97
+Gujarat,W6,2014-05,81.82
+Gujarat,W6,2014-06,84.04
+Gujarat,W6,2014-07,81.6
+Gujarat,W6,2014-08,83.72
+Gujarat,W6,2014-09,76.81
+Gujarat,W6,2014-10,67.39
+Gujarat,W6,2014-11,74.76
+Gujarat,W6,2014-12,73.5
+Gujarat,W6,2015-01,75.46
+Gujarat,W6,2015-02,81.71
+Gujarat,W6,2015-03,77.91
+Gujarat,W7,2014-04,19.26
+Gujarat,W7,2014-05,19.93
+Gujarat,W7,2014-06,20.09
+Gujarat,W7,2014-07,20.97
+Gujarat,W7,2014-08,20.17
+Gujarat,W7,2014-09,17.16
+Gujarat,W7,2014-10,17.36
+Gujarat,W7,2014-11,15.83
+Gujarat,W7,2014-12,16.53
+Gujarat,W7,2015-01,17.53
+Gujarat,W7,2015-02,19.51
+Gujarat,W7,2015-03,18.35
+Gujarat,W8,2014-04,0.35
+Gujarat,W8,2014-05,0.35
+Gujarat,W8,2014-06,0.39
+Gujarat,W8,2014-07,0.39
+Gujarat,W8,2014-08,0.34
+Gujarat,W8,2014-09,0.35
+Gujarat,W8,2014-10,0.32
+Gujarat,W8,2014-11,0.31
+Gujarat,W8,2014-12,0.32
+Gujarat,W8,2015-01,0.32
+Gujarat,W8,2015-02,0.32
+Gujarat,W8,2015-03,0.32
+Gujarat,W9,2014-04,3.58
+Gujarat,W9,2014-05,3.97
+Gujarat,W9,2014-06,4.29
+Gujarat,W9,2014-07,4.28
+Gujarat,W9,2014-08,4.24
+Gujarat,W9,2014-09,3.91
+Gujarat,W9,2014-10,3.58
+Gujarat,W9,2014-11,3.58
+Gujarat,W9,2014-12,3.37
+Gujarat,W9,2015-01,3.72
+Gujarat,W9,2015-02,4.04
+Gujarat,W9,2015-03,4.18
+Gujarat,W10,2014-04,16.43
+Gujarat,W10,2014-05,16.66
+Gujarat,W10,2014-06,17.61
+Gujarat,W10,2014-07,17.24
+Gujarat,W10,2014-08,18.07
+Gujarat,W10,2014-09,14.46
+Gujarat,W10,2014-10,13.74
+Gujarat,W10,2014-11,14.4
+Gujarat,W10,2014-12,12.59
+Gujarat,W10,2015-01,15.48
+Gujarat,W10,2015-02,15.67
+Gujarat,W10,2015-03,14.71
+Madhya Pradesh,W1,2014-04,9.45
+Madhya Pradesh,W1,2014-05,9.55
+Madhya Pradesh,W1,2014-06,10.97
+Madhya Pradesh,W1,2014-07,10.62
+Madhya Pradesh,W1,2014-08,10.58
+Madhya Pradesh,W1,2014-09,9.1
+Madhya Pradesh,W1,2014-10,8.21
+Madhya Pradesh,W1,2014-11,7.68
+Madhya Pradesh,W1,2014-12,8.2
+Madhya Pradesh,W1,2015-01,9.54
+Madhya Pradesh,W1,2015-02,8.65
+Madhya Pradesh,W1,2015-03,8.28
+Madhya Pradesh,W2,2014-04,21.63
+Madhya Pradesh,W2,2014-05,24.58
+Madhya Pradesh,W2,2014-06,26.12
+Madhya Pradesh,W2,2014-07,26.75
+Madhya Pradesh,W2,2014-08,27.16
+Madhya Pradesh,W2,2014-09,22.8
+Madhya Pradesh,W2,2014-10,22.19
+Madhya Pradesh,W2,2014-11,21.59
+Madhya Pradesh,W2,2014-12,20.28
+Madhya Pradesh,W2,2015-01,22.67
+Madhya Pradesh,W2,2015-02,24.08
+Madhya Pradesh,W2,2015-03,23.09
+Madhya Pradesh,W3,2014-04,2.11
+Madhya Pradesh,W3,2014-05,2.11
+Madhya Pradesh,W3,2014-06,1.9
+Madhya Pradesh,W3,2014-07,2.12
+Madhya Pradesh,W3,2014-08,2.1
+Madhya Pradesh,W3,2014-09,2.02
+Madhya Pradesh,W3,2014-10,1.63
+Madhya Pradesh,W3,2014-11,1.64
+Madhya Pradesh,W3,2014-12,1.68
+Madhya Pradesh,W3,2015-01,1.82
+Madhya Pradesh,W3,2015-02,1.91
+Madhya Pradesh,W3,2015-03,1.9
+Madhya Pradesh,W4,2014-04,4.25
+Madhya Pradesh,W4,2014-05,4.14
+Madhya Pradesh,W4,2014-06,4.67
+Madhya Pradesh,W4,2014-07,4.41
+Madhya Pradesh,W4,2014-08,4.59
+Madhya Pradesh,W4,2014-09,4.07
+Madhya Pradesh,W4,2014-10,3.6
+Madhya Pradesh,W4,2014-11,3.18
+Madhya Pradesh,W4,2014-12,3.57
+Madhya Pradesh,W4,2015-01,3.44
+Madhya Pradesh,W4,2015-02,3.78
+Madhya Pradesh,W4,2015-03,3.93
+Madhya Pradesh,W5,2014-04,13.58
+Madhya Pradesh,W5,2014-05,13.01
+Madhya Pradesh,W5,2014-06,13.55
+Madhya Pradesh,W5,2014-07,14.67
+Madhya Pradesh,W5,2014-08,12.93
+Madhya Pradesh,W5,2014-09,12.64
+Madhya Pradesh,W5,2014-10,11.86
+Madhya Pradesh,W5,2014-11,11.78
+Madhya Pradesh,W5,2014-12,10.46
+Madhya Pradesh,W5,2015-01,12.86
+Madhya Pradesh,W5,2015-02,12.28
+Madhya Pradesh,W5,2015-03,13.1
+Madhya Pradesh,W6,2014-04,0.38
+Madhya Pradesh,W6,2014-05,0.36
+Madhya Pradesh,W6,2014-06,0.38
+Madhya Pradesh,W6,2014-07,0.38
+Madhya Pradesh,W6,2014-08,0.38
+Madhya Pradesh,W6,2014-09,0.33
+Madhya Pradesh,W6,2014-10,0.31
+Madhya Pradesh,W6,2014-11,0.31
+Madhya Pradesh,W6,2014-12,0.29
+Madhya Pradesh,W6,2015-01,0.29
+Madhya Pradesh,W6,2015-02,0.36
+Madhya Pradesh,W6,2015-03,0.32
+Madhya Pradesh,W7,2014-04,3.21
+Madhya Pradesh,W7,2014-05,3.22
+Madhya Pradesh,W7,2014-06,3.2
+Madhya Pradesh,W7,2014-07,3.25
+Madhya Pradesh,W7,2014-08,3.15
+Madhya Pradesh,W7,2014-09,2.89
+Madhya Pradesh,W7,2014-10,2.63
+Madhya Pradesh,W7,2014-11,2.9
+Madhya Pradesh,W7,2014-12,2.67
+Madhya Pradesh,W7,2015-01,2.57
+Madhya Pradesh,W7,2015-02,3.11
+Madhya Pradesh,W7,2015-03,2.89
+Madhya Pradesh,W8,2014-04,2.47
+Madhya Pradesh,W8,2014-05,2.7
+Madhya Pradesh,W8,2014-06,2.52
+Madhya Pradesh,W8,2014-07,3.06
+Madhya Pradesh,W8,2014-08,2.73
+Madhya Pradesh,W8,2014-09,2.39
+Madhya Pradesh,W8,2014-10,2.52
+Madhya Pradesh,W8,2014-11,2.24
+Madhya Pradesh,W8,2014-12,2.44
+Madhya Pradesh,W8,2015-01,2.25
+Madhya Pradesh,W8,2015-02,2.66
+Madhya Pradesh,W8,2015-03,2.6
+Madhya Pradesh,W9,2014-04,9.68
+Madhya Pradesh,W9,2014-05,10.78
+Madhya Pradesh,W9,2014-06,11.18
+Madhya Pradesh,W9,2014-07,10.5
+Madhya Pradesh,W9,2014-08,9.96
+Madhya Pradesh,W9,2014-09,8.72
+Madhya Pradesh,W9,2014-10,8.66
+Madhya Pradesh,W9,2014-11,8.35
+Madhya Pradesh,W9,2014-12,8.78
+Madhya Pradesh,W9,2015-01,8.69
+Madhya Pradesh,W9,2015-02,9.26
+Madhya Pradesh,W9,2015-03,10.31
+Madhya Pradesh,W10,2014-04,0.63
+Madhya Pradesh,W10,2014-05,0.66
+Madhya Pradesh,W10,2014-06,0.66
+Madhya Pradesh,W10,2014-07,0.67
+Madhya Pradesh,W10,2014-08,0.68
+Madhya Pradesh,W10,2014-09,0.61
+Madhya Pradesh,W10,2014-10,0.59
+Madhya Pradesh,W10,2014-11,0.52
+Madhya Pradesh,W10,2014-12,0.59
+Madhya Pradesh,W10,2015-01,0.55
+Madhya Pradesh,W10,2015-02,0.6
+Madhya Pradesh,W10,2015-03,0.65
+Maharashtra,W1,2014-04,7.83
+Maharashtra,W1,2014-05,8.73
+Maharashtra,W1,2014-06,8.09
+Maharashtra,W1,2014-07,8.83
+Maharashtra,W1,2014-08,7.88
+Maharashtra,W1,2014-09,8.19
+Maharashtra,W1,2014-10,7.21
+Maharashtra,W1,2014-11,7.36
+Maharashtra,W1,2014-12,7.51
+Maharashtra,W1,2015-01,7.17
+Maharashtra,W1,2015-02,8.26
+Maharashtra,W1,2015-03,7.61
+Maharashtra,W2,2014-04,4.15
+Maharashtra,W2,2014-05,4.72
+Maharashtra,W2,2014-06,4.69
+Maharashtra,W2,2014-07,4.87
+Maharashtra,W2,2014-08,5.11
+Maharashtra,W2,2014-09,4.3
+Maharashtra,W2,2014-10,3.72
+Maharashtra,W2,2014-11,3.6
+Maharashtra,W2,2014-12,3.61
+Maharashtra,W2,2015-01,4.08
+Maharashtra,W2,2015-02,4.22
+Maharashtra,W2,2015-03,4.44
+Maharashtra,W3,2014-04,15.33
+Maharashtra,W3,2014-05,15.75
+Maharashtra,W3,2014-06,16.25
+Maharashtra,W3,2014-07,16.9
+Maharashtra,W3,2014-08,15.68
+Maharashtra,W3,2014-09,15.15
+Maharashtra,W3,2014-10,13.5
+Maharashtra,W3,2014-11,12.43
+Maharashtra,W3,2014-12,14.13
+Maharashtra,W3,2015-01,15.74
+Maharashtra,W3,2015-02,15.37
+Maharashtra,W3,2015-03,15.44
+Maharashtra,W4,2014-04,11.4
+Maharashtra,W4,2014-05,12.08
+Maharashtra,W4,2014-06,12.38
+Maharashtra,W4,2014-07,12.59
+Maharashtra,W4,2014-08,12.51
+Maharashtra,W4,2014-09,11.59
+Maharashtra,W4,2014-10,11.29
+Maharashtra,W4,2014-11,9.32
+Maharashtra,W4,2014-12,9.3
+Maharashtra,W4,2015-01,11.6
+Maharashtra,W4,2015-02,11.03
+Maharashtra,W4,2015-03,11.33
+Maharashtra,W5,2014-04,10.93
+Maharashtra,W5,2014-05,11.81
+Maharashtra,W5,2014-06,13.32
+Maharashtra,W5,2014-07,11.73
+Maharashtra,W5,2014-08,11.15
+Maharashtra,W5,2014-09,10.35
+Maharashtra,W5,2014-10,9.97
+Maharashtra,W5,2014-11,10.35
+Maharashtra,W5,2014-12,10.44
+Maharashtra,W5,2015-01,10.49
+Maharashtra,W5,2015-02,11.08
+Maharashtra,W5,2015-03,12.04
+Maharashtra,W6,2014-04,15.82
+Maharashtra,W6,2014-05,15.92
+Maharashtra,W6,2014-06,17.23
+Maharashtra,W6,2014-07,16.91
+Maharashtra,W6,2014-08,17.18
+Maharashtra,W6,2014-09,15.15
+Maharashtra,W6,2014-10,13.41
+Maharashtra,W6,2014-11,12.89
+Maharashtra,W6,2014-12,13.36
+Maharashtra,W6,2015-01,13.79
+Maharashtra,W6,2015-02,13.73
+Maharashtra,W6,2015-03,16.85
+Maharashtra,W7,2014-04,11.64
+Maharashtra,W7,2014-05,12.12
+Maharashtra,W7,2014-06,13.14
+Maharashtra,W7,2014-07,11.34
+Maharashtra,W7,2014-08,12.22
+Maharashtra,W7,2014-09,11.03
+Maharashtra,W7,2014-10,10.18
+Maharashtra,W7,2014-11,9.65
+Maharashtra,W7,2014-12,10.78
+Maharashtra,W7,2015-01,11.52
+Maharashtra,W7,2015-02,10.58
+Maharashtra,W7,2015-03,12.25
+Maharashtra,W8,2014-04,20.28
+Maharashtra,W8,2014-05,25.37
+Maharashtra,W8,2014-06,24.07
+Maharashtra,W8,2014-07,24.9
+Maharashtra,W8,2014-08,22.38
+Maharashtra,W8,2014-09,22.0
+Maharashtra,W8,2014-10,20.6
+Maharashtra,W8,2014-11,18.1
+Maharashtra,W8,2014-12,20.56
+Maharashtra,W8,2015-01,20.64
+Maharashtra,W8,2015-02,21.45
+Maharashtra,W8,2015-03,23.13
+Maharashtra,W9,2014-04,0.46
+Maharashtra,W9,2014-05,0.47
+Maharashtra,W9,2014-06,0.46
+Maharashtra,W9,2014-07,0.49
+Maharashtra,W9,2014-08,0.46
+Maharashtra,W9,2014-09,0.42
+Maharashtra,W9,2014-10,0.4
+Maharashtra,W9,2014-11,0.36
+Maharashtra,W9,2014-12,0.4
+Maharashtra,W9,2015-01,0.43
+Maharashtra,W9,2015-02,0.41
+Maharashtra,W9,2015-03,0.5
+Maharashtra,W10,2014-04,6.41
+Maharashtra,W10,2014-05,6.31
+Maharashtra,W10,2014-06,5.87
+Maharashtra,W10,2014-07,6.27
+Maharashtra,W10,2014-08,6.39
+Maharashtra,W10,2014-09,5.97
+Maharashtra,W10,2014-10,5.24
+Maharashtra,W10,2014-11,4.97
+Maharashtra,W10,2014-12,5.28
+Maharashtra,W10,2015-01,5.73
+Maharashtra,W10,2015-02,6.13
+Maharashtra,W10,2015-03,6.15
+Daman & Diu,W1,2014-04,23.08
+Daman & Diu,W1,2014-05,25.86
+Daman & Diu,W1,2014-06,25.55
+Daman & Diu,W1,2014-07,26.88
+Daman & Diu,W1,2014-08,24.75
+Daman & Diu,W1,2014-09,22.1
+Daman & Diu,W1,2014-10,21.43
+Daman & Diu,W1,2014-11,20.27
+Daman & Diu,W1,2014-12,22.79
+Daman & Diu,W1,2015-01,22.14
+Daman & Diu,W1,2015-02,22.63
+Daman & Diu,W1,2015-03,24.7
+Daman & Diu,W2,2014-04,62.41
+Daman & Diu,W2,2014-05,60.53
+Daman & Diu,W2,2014-06,67.87
+Daman & Diu,W2,2014-07,71.06
+Daman & Diu,W2,2014-08,69.36
+Daman & Diu,W2,2014-09,58.23
+Daman & Diu,W2,2014-10,59.01
+Daman & Diu,W2,2014-11,47.4
+Daman & Diu,W2,2014-12,54.21
+Daman & Diu,W2,2015-01,60.72
+Daman & Diu,W2,2015-02,51.64
+Daman & Diu,W2,2015-03,64.85
+Daman & Diu,W3,2014-04,121.41
+Daman & Diu,W3,2014-05,117.99
+Daman & Diu,W3,2014-06,124.18
+Daman & Diu,W3,2014-07,123.25
+Daman & Diu,W3,2014-08,123.63
+Daman & Diu,W3,2014-09,109.75
+Daman & Diu,W3,2014-10,102.82
+Daman & Diu,W3,2014-11,108.06
+Daman & Diu,W3,2014-12,104.81
+Daman & Diu,W3,2015-01,111.53
+Daman & Diu,W3,2015-02,111.68
+Daman & Diu,W3,2015-03,119.52
+Daman & Diu,W4,2014-04,27.32
+Daman & Diu,W4,2014-05,26.73
+Daman & Diu,W4,2014-06,27.51
+Daman & Diu,W4,2014-07,28.12
+Daman & Diu,W4,2014-08,30.33
+Daman & Diu,W4,2014-09,27.16
+Daman & Diu,W4,2014-10,24.97
+Daman & Diu,W4,2014-11,21.58
+Daman & Diu,W4,2014-12,24.78
+Daman & Diu,W4,2015-01,27.7
+Daman & Diu,W4,2015-02,27.47
+Daman & Diu,W4,2015-03,26.52
+Daman & Diu,W5,2014-04,25.69
+Daman & Diu,W5,2014-05,25.86
+Daman & Diu,W5,2014-06,30.7
+Daman & Diu,W5,2014-07,26.31
+Daman & Diu,W5,2014-08,30.29
+Daman & Diu,W5,2014-09,23.73
+Daman & Diu,W5,2014-10,25.25
+Daman & Diu,W5,2014-11,21.88
+Daman & Diu,W5,2014-12,23.97
+Daman & Diu,W5,2015-01,24.79
+Daman & Diu,W5,2015-02,26.12
+Daman & Diu,W5,2015-03,25.44
+Daman & Diu,W6,2014-04,53.35
+Daman & Diu,W6,2014-05,61.58
+Daman & Diu,W6,2014-06,63.34
+Daman & Diu,W6,2014-07,55.52
+Daman & Diu,W6,2014-08,61.69
+Daman & Diu,W6,2014-09,58.52
+Daman & Diu,W6,2014-10,47.57
+Daman & Diu,W6,2014-11,48.17
+Daman & Diu,W6,2014-12,51.06
+Daman & Diu,W6,2015-01,51.4
+Daman & Diu,W6,2015-02,55.41
+Daman & Diu,W6,2015-03,51.27
+Daman & Diu,W7,2014-04,35.96
+Daman & Diu,W7,2014-05,37.86
+Daman & Diu,W7,2014-06,34.35
+Daman & Diu,W7,2014-07,41.58
+Daman & Diu,W7,2014-08,41.57
+Daman & Diu,W7,2014-09,35.1
+Daman & Diu,W7,2014-10,33.02
+Daman & Diu,W7,2014-11,33.46
+Daman & Diu,W7,2014-12,33.64
+Daman & Diu,W7,2015-01,34.36
+Daman & Diu,W7,2015-02,35.57
+Daman & Diu,W7,2015-03,32.65
+Daman & Diu,W8,2014-04,70.99
+Daman & Diu,W8,2014-05,73.8
+Daman & Diu,W8,2014-06,84.66
+Daman & Diu,W8,2014-07,80.31
+Daman & Diu,W8,2014-08,80.52
+Daman & Diu,W8,2014-09,69.92
+Daman & Diu,W8,2014-10,67.68
+Daman & Diu,W8,2014-11,58.57
+Daman & Diu,W8,2014-12,69.7
+Daman & Diu,W8,2015-01,66.72
+Daman & Diu,W8,2015-02,74.23
+Daman & Diu,W8,2015-03,73.24
+Daman & Diu,W9,2014-04,82.11
+Daman & Diu,W9,2014-05,83.97
+Daman & Diu,W9,2014-06,84.07
+Daman & Diu,W9,2014-07,96.47
+Daman & Diu,W9,2014-08,83.99
+Daman & Diu,W9,2014-09,72.81
+Daman & Diu,W9,2014-10,72.69
+Daman & Diu,W9,2014-11,62.74
+Daman & Diu,W9,2014-12,75.62
+Daman & Diu,W9,2015-01,75.4
+Daman & Diu,W9,2015-02,83.88
+Daman & Diu,W9,2015-03,79.55
+Daman & Diu,W10,2014-04,90.13
+Daman & Diu,W10,2014-05,86.96
+Daman & Diu,W10,2014-06,100.65
+Daman & Diu,W10,2014-07,93.83
+Daman & Diu,W10,2014-08,87.32
+Daman & Diu,W10,2014-09,84.25
+Daman & Diu,W10,2014-10,83.6
+Daman & Diu,W10,2014-11,75.42
+Daman & Diu,W10,2014-12,73.06
+Daman & Diu,W10,2015-01,91.85
+Daman & Diu,W10,2015-02,79.95
+Daman & Diu,W10,2015-03,87.55
+D. & N. Haveli,W1,2014-04,569.99
+D. & N. Haveli,W1,2014-05,567.32
+D. & N. Haveli,W1,2014-06,523.23
+D. & N. Haveli,W1,2014-07,595.23
+D. & N. Haveli,W1,2014-08,541.47
+D. & N. Haveli,W1,2014-09,438.43
+D. & N. Haveli,W1,2014-10,475.11
+D. & N. Haveli,W1,2014-11,493.5
+D. & N. Haveli,W1,2014-12,469.52
+D. & N. Haveli,W1,2015-01,455.31
+D. & N. Haveli,W1,2015-02,514.1
+D. & N. Haveli,W1,2015-03,527.82
+D. & N. Haveli,W2,2014-04,59.34
+D. & N. Haveli,W2,2014-05,63.25
+D. & N. Haveli,W2,2014-06,66.64
+D. & N. Haveli,W2,2014-07,72.93
+D. & N. Haveli,W2,2014-08,62.59
+D. & N. Haveli,W2,2014-09,56.68
+D. & N. Haveli,W2,2014-10,54.42
+D. & N. Haveli,W2,2014-11,53.8
+D. & N. Haveli,W2,2014-12,50.78
+D. & N. Haveli,W2,2015-01,59.73
+D. & N. Haveli,W2,2015-02,54.01
+D. & N. Haveli,W2,2015-03,58.89
+D. & N. Haveli,W3,2014-04,100.54
+D. & N. Haveli,W3,2014-05,95.43
+D. & N. Haveli,W3,2014-06,106.29
+D. & N. Haveli,W3,2014-07,102.72
+D. & N. Haveli,W3,2014-08,95.08
+D. & N. Haveli,W3,2014-09,75.82
+D. & N. Haveli,W3,2014-10,88.37
+D. & N. Haveli,W3,2014-11,73.86
+D. & N. Haveli,W3,2014-12,74.38
+D. & N. Haveli,W3,2015-01,87.54
+D. & N. Haveli,W3,2015-02,91.9
+D. & N. Haveli,W3,2015-03,91.98
+D. & N. Haveli,W4,2014-04,6.08
+D. & N. Haveli,W4,2014-05,6.65
+D. & N. Haveli,W4,2014-06,6.58
+D. & N. Haveli,W4,2014-07,7.4
+D. & N. Haveli,W4,2014-08,6.57
+D. & N. Haveli,W4,2014-09,5.88
+D. & N. Haveli,W4,2014-10,5.72
+D. & N. Haveli,W4,2014-11,5.54
+D. & N. Haveli,W4,2014-12,5.74
+D. & N. Haveli,W4,2015-01,6.32
+D. & N. Haveli,W4,2015-02,5.73
+D. & N. Haveli,W4,2015-03,6.25
+D. & N. Haveli,W5,2014-04,134.48
+D. & N. Haveli,W5,2014-05,151.15
+D. & N. Haveli,W5,2014-06,136.16
+D. & N. Haveli,W5,2014-07,150.15
+D. & N. Haveli,W5,2014-08,157.81
+D. & N. Haveli,W5,2014-09,132.43
+D. & N. Haveli,W5,2014-10,121.77
+D. & N. Haveli,W5,2014-11,115.95
+D. & N. Haveli,W5,2014-12,123.02
+D. & N. Haveli,W5,2015-01,127.41
+D. & N. Haveli,W5,2015-02,122.63
+D. & N. Haveli,W5,2015-03,135.56
+D. & N. Haveli,W6,2014-04,70.8
+D. & N. Haveli,W6,2014-05,73.16
+D. & N. Haveli,W6,2014-06,75.65
+D. & N. Haveli,W6,2014-07,72.95
+D. & N. Haveli,W6,2014-08,81.54
+D. & N. Haveli,W6,2014-09,67.29
+D. & N. Haveli,W6,2014-10,59.9
+D. & N. Haveli,W6,2014-11,60.89
+D. & N. Haveli,W6,2014-12,61.53
+D. & N. Haveli,W6,2015-01,62.46
+D. & N. Haveli,W6,2015-02,66.45
+D. & N. Haveli,W6,2015-03,74.08
+D. & N. Haveli,W7,2014-04,84.94
+D. & N. Haveli,W7,2014-05,82.13
+D. & N. Haveli,W7,2014-06,84.55
+D. & N. Haveli,W7,2014-07,94.72
+D. & N. Haveli,W7,2014-08,86.24
+D. & N. Haveli,W7,2014-09,79.25
+D. & N. Haveli,W7,2014-10,73.65
+D. & N. Haveli,W7,2014-11,68.82
+D. & N. Haveli,W7,2014-12,71.78
+D. & N. Haveli,W7,2015-01,77.18
+D. & N. Haveli,W7,2015-02,79.92
+D. & N. Haveli,W7,2015-03,68.45
+D. & N. Haveli,W8,2014-04,38.37
+D. & N. Haveli,W8,2014-05,35.92
+D. & N. Haveli,W8,2014-06,40.16
+D. & N. Haveli,W8,2014-07,36.88
+D. & N. Haveli,W8,2014-08,37.87
+D. & N. Haveli,W8,2014-09,31.42
+D. & N. Haveli,W8,2014-10,31.9
+D. & N. Haveli,W8,2014-11,29.25
+D. & N. Haveli,W8,2014-12,32.29
+D. & N. Haveli,W8,2015-01,33.04
+D. & N. Haveli,W8,2015-02,33.02
+D. & N. Haveli,W8,2015-03,34.72
+D. & N. Haveli,W9,2014-04,158.58
+D. & N. Haveli,W9,2014-05,174.66
+D. & N. Haveli,W9,2014-06,167.01
+D. & N. Haveli,W9,2014-07,172.53
+D. & N. Haveli,W9,2014-08,156.22
+D. & N. Haveli,W9,2014-09,149.87
+D. & N. Haveli,W9,2014-10,121.8
+D. & N. Haveli,W9,2014-11,142.28
+D. & N. Haveli,W9,2014-12,140.53
+D. & N. Haveli,W9,2015-01,137.89
+D. & N. Haveli,W9,2015-02,146.31
+D. & N. Haveli,W9,2015-03,159.77
+D. & N. Haveli,W10,2014-04,2.12
+D. & N. Haveli,W10,2014-05,2.23
+D. & N. Haveli,W10,2014-06,2.38
+D. & N. Haveli,W10,2014-07,2.41
+D. & N. Haveli,W10,2014-08,2.38
+D. & N. Haveli,W10,2014-09,2.05
+D. & N. Haveli,W10,2014-10,2.03
+D. & N. Haveli,W10,2014-11,1.91
+D. & N. Haveli,W10,2014-12,1.75
+D. & N. Haveli,W10,2015-01,2.12
+D. & N. Haveli,W10,2015-02,2.19
+D. & N. Haveli,W10,2015-03,2.36
+Goa,W1,2014-04,24.28
+Goa,W1,2014-05,25.02
+Goa,W1,2014-06,25.78
+Goa,W1,2014-07,24.62
+Goa,W1,2014-08,24.92
+Goa,W1,2014-09,23.53
+Goa,W1,2014-10,21.4
+Goa,W1,2014-11,20.51
+Goa,W1,2014-12,20.46
+Goa,W1,2015-01,21.63
+Goa,W1,2015-02,23.13
+Goa,W1,2015-03,25.77
+Goa,W2,2014-04,1.07
+Goa,W2,2014-05,1.1
+Goa,W2,2014-06,1.16
+Goa,W2,2014-07,1.22
+Goa,W2,2014-08,1.12
+Goa,W2,2014-09,1.03
+Goa,W2,2014-10,1.03
+Goa,W2,2014-11,0.86
+Goa,W2,2014-12,0.97
+Goa,W2,2015-01,1.1
+Goa,W2,2015-02,1.04
+Goa,W2,2015-03,1.08
+Goa,W3,2014-04,21.97
+Goa,W3,2014-05,23.8
+Goa,W3,2014-06,22.24
+Goa,W3,2014-07,26.78
+Goa,W3,2014-08,24.77
+Goa,W3,2014-09,22.54
+Goa,W3,2014-10,20.87
+Goa,W3,2014-11,18.62
+Goa,W3,2014-12,19.91
+Goa,W3,2015-01,21.86
+Goa,W3,2015-02,19.36
+Goa,W3,2015-03,23.91
+Goa,W4,2014-04,22.42
+Goa,W4,2014-05,21.06
+Goa,W4,2014-06,21.43
+Goa,W4,2014-07,22.46
+Goa,W4,2014-08,19.74
+Goa,W4,2014-09,19.56
+Goa,W4,2014-10,19.19
+Goa,W4,2014-11,18.86
+Goa,W4,2014-12,18.9
+Goa,W4,2015-01,20.53
+Goa,W4,2015-02,19.9
+Goa,W4,2015-03,20.14
+Goa,W5,2014-04,32.38
+Goa,W5,2014-05,26.87
+Goa,W5,2014-06,33.2
+Goa,W5,2014-07,32.38
+Goa,W5,2014-08,31.64
+Goa,W5,2014-09,29.6
+Goa,W5,2014-10,28.25
+Goa,W5,2014-11,26.38
+Goa,W5,2014-12,25.82
+Goa,W5,2015-01,28.58
+Goa,W5,2015-02,28.29
+Goa,W5,2015-03,33.21
+Goa,W6,2014-04,5.06
+Goa,W6,2014-05,4.83
+Goa,W6,2014-06,5.25
+Goa,W6,2014-07,5.52
+Goa,W6,2014-08,4.73
+Goa,W6,2014-09,4.73
+Goa,W6,2014-10,4.25
+Goa,W6,2014-11,4.09
+Goa,W6,2014-12,4.41
+Goa,W6,2015-01,4.7
+Goa,W6,2015-02,4.36
+Goa,W6,2015-03,4.77
+Goa,W7,2014-04,17.19
+Goa,W7,2014-05,15.28
+Goa,W7,2014-06,15.8
+Goa,W7,2014-07,17.07
+Goa,W7,2014-08,16.56
+Goa,W7,2014-09,16.02
+Goa,W7,2014-10,13.05
+Goa,W7,2014-11,13.8
+Goa,W7,2014-12,14.6
+Goa,W7,2015-01,14.68
+Goa,W7,2015-02,15.95
+Goa,W7,2015-03,17.31
+Goa,W8,2014-04,1.99
+Goa,W8,2014-05,2.11
+Goa,W8,2014-06,1.84
+Goa,W8,2014-07,2.3
+Goa,W8,2014-08,2.17
+Goa,W8,2014-09,1.86
+Goa,W8,2014-10,1.73
+Goa,W8,2014-11,1.67
+Goa,W8,2014-12,1.8
+Goa,W8,2015-01,1.85
+Goa,W8,2015-02,1.85
+Goa,W8,2015-03,2.1
+Goa,W9,2014-04,9.63
+Goa,W9,2014-05,9.99
+Goa,W9,2014-06,9.72
+Goa,W9,2014-07,9.91
+Goa,W9,2014-08,9.3
+Goa,W9,2014-09,8.74
+Goa,W9,2014-10,8.76
+Goa,W9,2014-11,7.1
+Goa,W9,2014-12,8.0
+Goa,W9,2015-01,8.57
+Goa,W9,2015-02,8.6
+Goa,W9,2015-03,9.05
+Goa,W10,2014-04,21.22
+Goa,W10,2014-05,24.25
+Goa,W10,2014-06,24.3
+Goa,W10,2014-07,25.34
+Goa,W10,2014-08,23.71
+Goa,W10,2014-09,22.49
+Goa,W10,2014-10,22.15
+Goa,W10,2014-11,19.17
+Goa,W10,2014-12,20.4
+Goa,W10,2015-01,22.43
+Goa,W10,2015-02,22.67
+Goa,W10,2015-03,23.66
+Andhra Pradesh,W1,2014-04,1.43
+Andhra Pradesh,W1,2014-05,1.53
+Andhra Pradesh,W1,2014-06,1.41
+Andhra Pradesh,W1,2014-07,1.57
+Andhra Pradesh,W1,2014-08,1.57
+Andhra Pradesh,W1,2014-09,1.3
+Andhra Pradesh,W1,2014-10,1.25
+Andhra Pradesh,W1,2014-11,1.25
+Andhra Pradesh,W1,2014-12,1.21
+Andhra Pradesh,W1,2015-01,1.29
+Andhra Pradesh,W1,2015-02,1.3
+Andhra Pradesh,W1,2015-03,1.43
+Andhra Pradesh,W2,2014-04,16.27
+Andhra Pradesh,W2,2014-05,17.74
+Andhra Pradesh,W2,2014-06,19.19
+Andhra Pradesh,W2,2014-07,19.36
+Andhra Pradesh,W2,2014-08,17.16
+Andhra Pradesh,W2,2014-09,15.86
+Andhra Pradesh,W2,2014-10,15.43
+Andhra Pradesh,W2,2014-11,13.65
+Andhra Pradesh,W2,2014-12,15.1
+Andhra Pradesh,W2,2015-01,16.62
+Andhra Pradesh,W2,2015-02,16.64
+Andhra Pradesh,W2,2015-03,15.98
+Andhra Pradesh,W3,2014-04,0.73
+Andhra Pradesh,W3,2014-05,0.8
+Andhra Pradesh,W3,2014-06,0.74
+Andhra Pradesh,W3,2014-07,0.84
+Andhra Pradesh,W3,2014-08,0.79
+Andhra Pradesh,W3,2014-09,0.64
+Andhra Pradesh,W3,2014-10,0.61
+Andhra Pradesh,W3,2014-11,0.66
+Andhra Pradesh,W3,2014-12,0.63
+Andhra Pradesh,W3,2015-01,0.74
+Andhra Pradesh,W3,2015-02,0.76
+Andhra Pradesh,W3,2015-03,0.75
+Andhra Pradesh,W4,2014-04,9.52
+Andhra Pradesh,W4,2014-05,10.38
+Andhra Pradesh,W4,2014-06,10.14
+Andhra Pradesh,W4,2014-07,10.65
+Andhra Pradesh,W4,2014-08,9.89
+Andhra Pradesh,W4,2014-09,9.39
+Andhra Pradesh,W4,2014-10,8.32
+Andhra Pradesh,W4,2014-11,8.77
+Andhra Pradesh,W4,2014-12,9.36
+Andhra Pradesh,W4,2015-01,9.15
+Andhra Pradesh,W4,2015-02,9.23
+Andhra Pradesh,W4,2015-03,10.07
+Andhra Pradesh,W5,2014-04,28.13
+Andhra Pradesh,W5,2014-05,26.19
+Andhra Pradesh,W5,2014-06,30.23
+Andhra Pradesh,W5,2014-07,32.38
+Andhra Pradesh,W5,2014-08,30.01
+Andhra Pradesh,W5,2014-09,26.35
+Andhra Pradesh,W5,2014-10,25.81
+Andhra Pradesh,W5,2014-11,24.75
+Andhra Pradesh,W5,2014-12,25.99
+Andhra Pradesh,W5,2015-01,28.82
+Andhra Pradesh,W5,2015-02,28.15
+Andhra Pradesh,W5,2015-03,27.24
+Andhra Pradesh,W6,2014-04,6.32
+Andhra Pradesh,W6,2014-05,6.78
+Andhra Pradesh,W6,2014-06,6.85
+Andhra Pradesh,W6,2014-07,6.7
+Andhra Pradesh,W6,2014-08,7.35
+Andhra Pradesh,W6,2014-09,6.06
+Andhra Pradesh,W6,2014-10,6.05
+Andhra Pradesh,W6,2014-11,5.77
+Andhra Pradesh,W6,2014-12,5.53
+Andhra Pradesh,W6,2015-01,5.85
+Andhra Pradesh,W6,2015-02,6.32
+Andhra Pradesh,W6,2015-03,6.67
+Andhra Pradesh,W7,2014-04,4.16
+Andhra Pradesh,W7,2014-05,4.5
+Andhra Pradesh,W7,2014-06,4.88
+Andhra Pradesh,W7,2014-07,4.67
+Andhra Pradesh,W7,2014-08,4.56
+Andhra Pradesh,W7,2014-09,4.34
+Andhra Pradesh,W7,2014-10,3.31
+Andhra Pradesh,W7,2014-11,3.33
+Andhra Pradesh,W7,2014-12,3.52
+Andhra Pradesh,W7,2015-01,4.03
+Andhra Pradesh,W7,2015-02,4.39
+Andhra Pradesh,W7,2015-03,4.1
+Andhra Pradesh,W8,2014-04,14.46
+Andhra Pradesh,W8,2014-05,14.0
+Andhra Pradesh,W8,2014-06,15.41
+Andhra Pradesh,W8,2014-07,15.7
+Andhra Pradesh,W8,2014-08,13.32
+Andhra Pradesh,W8,2014-09,13.01
+Andhra Pradesh,W8,2014-10,10.72
+Andhra Pradesh,W8,2014-11,11.52
+Andhra Pradesh,W8,2014-12,11.49
+Andhra Pradesh,W8,2015-01,12.26
+Andhra Pradesh,W8,2015-02,12.46
+Andhra Pradesh,W8,2015-03,14.24
+Andhra Pradesh,W9,2014-04,2.37
+Andhra Pradesh,W9,2014-05,2.66
+Andhra Pradesh,W9,2014-06,2.76
+Andhra Pradesh,W9,2014-07,2.89
+Andhra Pradesh,W9,2014-08,2.41
+Andhra Pradesh,W9,2014-09,2.5
+Andhra Pradesh,W9,2014-10,2.34
+Andhra Pradesh,W9,2014-11,2.14
+Andhra Pradesh,W9,2014-12,2.12
+Andhra Pradesh,W9,2015-01,2.35
+Andhra Pradesh,W9,2015-02,2.38
+Andhra Pradesh,W9,2015-03,2.5
+Andhra Pradesh,W10,2014-04,3.88
+Andhra Pradesh,W10,2014-05,4.02
+Andhra Pradesh,W10,2014-06,4.0
+Andhra Pradesh,W10,2014-07,4.21
+Andhra Pradesh,W10,2014-08,3.7
+Andhra Pradesh,W10,2014-09,3.83
+Andhra Pradesh,W10,2014-10,3.39
+Andhra Pradesh,W10,2014-11,3.32
+Andhra Pradesh,W10,2014-12,3.53
+Andhra Pradesh,W10,2015-01,3.59
+Andhra Pradesh,W10,2015-02,3.68
+Andhra Pradesh,W10,2015-03,3.95
+Telangana,W1,2014-04,3.64
+Telangana,W1,2014-05,3.64
+Telangana,W1,2014-06,3.76
+Telangana,W1,2014-07,4.28
+Telangana,W1,2014-08,4.03
+Telangana,W1,2014-09,3.61
+Telangana,W1,2014-10,3.57
+Telangana,W1,2014-11,3.57
+Telangana,W1,2014-12,3.08
+Telangana,W1,2015-01,3.39
+Telangana,W1,2015-02,3.63
+Telangana,W1,2015-03,3.55
+Telangana,W2,2014-04,15.4
+Telangana,W2,2014-05,15.76
+Telangana,W2,2014-06,16.62
+Telangana,W2,2014-07,15.92
+Telangana,W2,2014-08,15.24
+Telangana,W2,2014-09,14.73
+Telangana,W2,2014-10,15.16
+Telangana,W2,2014-11,11.06
+Telangana,W2,2014-12,14.41
+Telangana,W2,2015-01,15.8
+Telangana,W2,2015-02,13.8
+Telangana,W2,2015-03,15.13
+Telangana,W3,2014-04,0.41
+Telangana,W3,2014-05,0.47
+Telangana,W3,2014-06,0.46
+Telangana,W3,2014-07,0.5
+Telangana,W3,2014-08,0.46
+Telangana,W3,2014-09,0.39
+Telangana,W3,2014-10,0.39
+Telangana,W3,2014-11,0.36
+Telangana,W3,2014-12,0.39
+Telangana,W3,2015-01,0.43
+Telangana,W3,2015-02,0.47
+Telangana,W3,2015-03,0.4
+Telangana,W4,2014-04,1.87
+Telangana,W4,2014-05,1.96
+Telangana,W4,2014-06,1.8
+Telangana,W4,2014-07,1.86
+Telangana,W4,2014-08,1.73
+Telangana,W4,2014-09,1.57
+Telangana,W4,2014-10,1.51
+Telangana,W4,2014-11,1.45
+Telangana,W4,2014-12,1.52
+Telangana,W4,2015-01,1.64
+Telangana,W4,2015-02,1.49
+Telangana,W4,2015-03,1.66
+Telangana,W5,2014-04,7.48
+Telangana,W5,2014-05,7.46
+Telangana,W5,2014-06,7.75
+Telangana,W5,2014-07,7.91
+Telangana,W5,2014-08,7.53
+Telangana,W5,2014-09,6.12
+Telangana,W5,2014-10,6.71
+Telangana,W5,2014-11,6.43
+Telangana,W5,2014-12,6.93
+Telangana,W5,2015-01,7.84
+Telangana,W5,2015-02,7.35
+Telangana,W5,2015-03,7.43
+Telangana,W6,2014-04,20.29
+Telangana,W6,2014-05,21.74
+Telangana,W6,2014-06,24.11
+Telangana,W6,2014-07,21.75
+Telangana,W6,2014-08,21.19
+Telangana,W6,2014-09,19.51
+Telangana,W6,2014-10,18.75
+Telangana,W6,2014-11,16.96
+Telangana,W6,2014-12,19.81
+Telangana,W6,2015-01,18.31
+Telangana,W6,2015-02,19.12
+Telangana,W6,2015-03,19.64
+Telangana,W7,2014-04,39.3
+Telangana,W7,2014-05,44.39
+Telangana,W7,2014-06,43.26
+Telangana,W7,2014-07,43.06
+Telangana,W7,2014-08,42.87
+Telangana,W7,2014-09,38.31
+Telangana,W7,2014-10,37.65
+Telangana,W7,2014-11,34.7
+Telangana,W7,2014-12,34.02
+Telangana,W7,2015-01,34.8
+Telangana,W7,2015-02,37.2
+Telangana,W7,2015-03,40.23
+Telangana,W8,2014-04,13.33
+Telangana,W8,2014-05,15.15
+Telangana,W8,2014-06,15.0
+Telangana,W8,2014-07,14.43
+Telangana,W8,2014-08,15.22
+Telangana,W8,2014-09,13.09
+Telangana,W8,2014-10,11.75
+Telangana,W8,2014-11,11.75
+Telangana,W8,2014-12,12.43
+Telangana,W8,2015-01,13.34
+Telangana,W8,2015-02,13.73
+Telangana,W8,2015-03,13.41
+Telangana,W9,2014-04,3.68
+Telangana,W9,2014-05,3.69
+Telangana,W9,2014-06,3.67
+Telangana,W9,2014-07,3.74
+Telangana,W9,2014-08,3.7
+Telangana,W9,2014-09,3.2
+Telangana,W9,2014-10,3.3
+Telangana,W9,2014-11,3.22
+Telangana,W9,2014-12,2.91
+Telangana,W9,2015-01,3.31
+Telangana,W9,2015-02,3.06
+Telangana,W9,2015-03,3.09
+Telangana,W10,2014-04,11.17
+Telangana,W10,2014-05,11.14
+Telangana,W10,2014-06,11.9
+Telangana,W10,2014-07,12.6
+Telangana,W10,2014-08,10.73
+Telangana,W10,2014-09,10.9
+Telangana,W10,2014-10,9.46
+Telangana,W10,2014-11,9.23
+Telangana,W10,2014-12,9.07
+Telangana,W10,2015-01,9.26
+Telangana,W10,2015-02,11.47
+Telangana,W10,2015-03,11.49
+Karnataka,W1,2014-04,16.99
+Karnataka,W1,2014-05,19.72
+Karnataka,W1,2014-06,18.9
+Karnataka,W1,2014-07,21.56
+Karnataka,W1,2014-08,19.26
+Karnataka,W1,2014-09,18.92
+Karnataka,W1,2014-10,18.8
+Karnataka,W1,2014-11,16.52
+Karnataka,W1,2014-12,16.64
+Karnataka,W1,2015-01,14.9
+Karnataka,W1,2015-02,18.56
+Karnataka,W1,2015-03,18.44
+Karnataka,W2,2014-04,7.37
+Karnataka,W2,2014-05,7.1
+Karnataka,W2,2014-06,7.27
+Karnataka,W2,2014-07,7.94
+Karnataka,W2,2014-08,6.89
+Karnataka,W2,2014-09,7.01
+Karnataka,W2,2014-10,6.42
+Karnataka,W2,2014-11,5.61
+Karnataka,W2,2014-12,5.63
+Karnataka,W2,2015-01,6.11
+Karnataka,W2,2015-02,6.55
+Karnataka,W2,2015-03,6.95
+Karnataka,W3,2014-04,6.05
+Karnataka,W3,2014-05,6.13
+Karnataka,W3,2014-06,7.31
+Karnataka,W3,2014-07,7.09
+Karnataka,W3,2014-08,6.36
+Karnataka,W3,2014-09,5.71
+Karnataka,W3,2014-10,5.35
+Karnataka,W3,2014-11,5.65
+Karnataka,W3,2014-12,5.35
+Karnataka,W3,2015-01,5.14
+Karnataka,W3,2015-02,5.68
+Karnataka,W3,2015-03,6.5
+Karnataka,W4,2014-04,19.37
+Karnataka,W4,2014-05,17.63
+Karnataka,W4,2014-06,21.79
+Karnataka,W4,2014-07,20.72
+Karnataka,W4,2014-08,21.42
+Karnataka,W4,2014-09,17.99
+Karnataka,W4,2014-10,18.33
+Karnataka,W4,2014-11,18.19
+Karnataka,W4,2014-12,17.49
+Karnataka,W4,2015-01,17.6
+Karnataka,W4,2015-02,19.17
+Karnataka,W4,2015-03,17.32
+Karnataka,W5,2014-04,4.25
+Karnataka,W5,2014-05,4.07
+Karnataka,W5,2014-06,4.46
+Karnataka,W5,2014-07,4.03
+Karnataka,W5,2014-08,4.62
+Karnataka,W5,2014-09,3.81
+Karnataka,W5,2014-10,3.81
+Karnataka,W5,2014-11,3.36
+Karnataka,W5,2014-12,3.4
+Karnataka,W5,2015-01,3.79
+Karnataka,W5,2015-02,3.89
+Karnataka,W5,2015-03,3.96
+Karnataka,W6,2014-04,9.24
+Karnataka,W6,2014-05,9.64
+Karnataka,W6,2014-06,10.78
+Karnataka,W6,2014-07,10.05
+Karnataka,W6,2014-08,10.42
+Karnataka,W6,2014-09,9.52
+Karnataka,W6,2014-10,8.47
+Karnataka,W6,2014-11,8.32
+Karnataka,W6,2014-12,8.66
+Karnataka,W6,2015-01,9.53
+Karnataka,W6,2015-02,8.79
+Karnataka,W6,2015-03,9.13
+Karnataka,W7,2014-04,25.74
+Karnataka,W7,2014-05,26.86
+Karnataka,W7,2014-06,31.35
+Karnataka,W7,2014-07,30.49
+Karnataka,W7,2014-08,28.7
+Karnataka,W7,2014-09,27.13
+Karnataka,W7,2014-10,24.03
+Karnataka,W7,2014-11,20.93
+Karnataka,W7,2014-12,24.02
+Karnataka,W7,2015-01,24.78
+Karnataka,W7,2015-02,27.39
+Karnataka,W7,2015-03,26.64
+Karnataka,W8,2014-04,9.5
+Karnataka,W8,2014-05,10.61
+Karnataka,W8,2014-06,10.26
+Karnataka,W8,2014-07,12.25
+Karnataka,W8,2014-08,10.91
+Karnataka,W8,2014-09,9.27
+Karnataka,W8,2014-10,9.22
+Karnataka,W8,2014-11,8.54
+Karnataka,W8,2014-12,8.94
+Karnataka,W8,2015-01,8.6
+Karnataka,W8,2015-02,9.79
+Karnataka,W8,2015-03,10.49
+Karnataka,W9,2014-04,1.01
+Karnataka,W9,2014-05,1.02
+Karnataka,W9,2014-06,1.03
+Karnataka,W9,2014-07,1.23
+Karnataka,W9,2014-08,1.03
+Karnataka,W9,2014-09,0.88
+Karnataka,W9,2014-10,0.91
+Karnataka,W9,2014-11,0.91
+Karnataka,W9,2014-12,0.83
+Karnataka,W9,2015-01,1.0
+Karnataka,W9,2015-02,1.0
+Karnataka,W9,2015-03,1.03
+Karnataka,W10,2014-04,1.35
+Karnataka,W10,2014-05,1.45
+Karnataka,W10,2014-06,1.38
+Karnataka,W10,2014-07,1.41
+Karnataka,W10,2014-08,1.29
+Karnataka,W10,2014-09,1.31
+Karnataka,W10,2014-10,1.23
+Karnataka,W10,2014-11,1.13
+Karnataka,W10,2014-12,1.07
+Karnataka,W10,2015-01,1.3
+Karnataka,W10,2015-02,1.32
+Karnataka,W10,2015-03,1.33
+Kerala,W1,2014-04,0.39
+Kerala,W1,2014-05,0.39
+Kerala,W1,2014-06,0.42
+Kerala,W1,2014-07,0.44
+Kerala,W1,2014-08,0.39
+Kerala,W1,2014-09,0.41
+Kerala,W1,2014-10,0.4
+Kerala,W1,2014-11,0.38
+Kerala,W1,2014-12,0.34
+Kerala,W1,2015-01,0.39
+Kerala,W1,2015-02,0.41
+Kerala,W1,2015-03,0.4
+Kerala,W2,2014-04,3.55
+Kerala,W2,2014-05,4.26
+Kerala,W2,2014-06,3.78
+Kerala,W2,2014-07,4.25
+Kerala,W2,2014-08,4.05
+Kerala,W2,2014-09,3.63
+Kerala,W2,2014-10,3.33
+Kerala,W2,2014-11,3.36
+Kerala,W2,2014-12,3.3
+Kerala,W2,2015-01,3.42
+Kerala,W2,2015-02,3.89
+Kerala,W2,2015-03,3.77
+Kerala,W3,2014-04,3.88
+Kerala,W3,2014-05,4.07
+Kerala,W3,2014-06,4.12
+Kerala,W3,2014-07,4.12
+Kerala,W3,2014-08,4.39
+Kerala,W3,2014-09,3.84
+Kerala,W3,2014-10,3.85
+Kerala,W3,2014-11,3.21
+Kerala,W3,2014-12,3.63
+Kerala,W3,2015-01,3.58
+Kerala,W3,2015-02,3.73
+Kerala,W3,2015-03,3.91
+Kerala,W4,2014-04,2.93
+Kerala,W4,2014-05,2.99
+Kerala,W4,2014-06,2.89
+Kerala,W4,2014-07,3.19
+Kerala,W4,2014-08,3.02
+Kerala,W4,2014-09,2.64
+Kerala,W4,2014-10,2.59
+Kerala,W4,2014-11,2.29
+Kerala,W4,2014-12,2.49
+Kerala,W4,2015-01,2.45
+Kerala,W4,2015-02,2.64
+Kerala,W4,2015-03,3.06
+Kerala,W5,2014-04,5.61
+Kerala,W5,2014-05,5.31
+Kerala,W5,2014-06,5.63
+Kerala,W5,2014-07,5.85
+Kerala,W5,2014-08,5.61
+Kerala,W5,2014-09,5.22
+Kerala,W5,2014-10,4.67
+Kerala,W5,2014-11,4.49
+Kerala,W5,2014-12,4.89
+Kerala,W5,2015-01,5.35
+Kerala,W5,2015-02,5.08
+Kerala,W5,2015-03,5.44
+Kerala,W6,2014-04,2.93
+Kerala,W6,2014-05,2.97
+Kerala,W6,2014-06,2.97
+Kerala,W6,2014-07,3.25
+Kerala,W6,2014-08,2.97
+Kerala,W6,2014-09,2.61
+Kerala,W6,2014-10,2.57
+Kerala,W6,2014-11,2.31
+Kerala,W6,2014-12,2.5
+Kerala,W6,2015-01,2.55
+Kerala,W6,2015-02,2.63
+Kerala,W6,2015-03,2.88
+Kerala,W7,2014-04,17.18
+Kerala,W7,2014-05,19.43
+Kerala,W7,2014-06,18.96
+Kerala,W7,2014-07,18.38
+Kerala,W7,2014-08,17.17
+Kerala,W7,2014-09,17.07
+Kerala,W7,2014-10,15.0
+Kerala,W7,2014-11,15.02
+Kerala,W7,2014-12,15.46
+Kerala,W7,2015-01,17.8
+Kerala,W7,2015-02,16.56
+Kerala,W7,2015-03,17.43
+Kerala,W8,2014-04,2.05
+Kerala,W8,2014-05,2.11
+Kerala,W8,2014-06,2.08
+Kerala,W8,2014-07,2.44
+Kerala,W8,2014-08,2.2
+Kerala,W8,2014-09,2.03
+Kerala,W8,2014-10,2.07
+Kerala,W8,2014-11,1.8
+Kerala,W8,2014-12,2.02
+Kerala,W8,2015-01,2.01
+Kerala,W8,2015-02,2.15
+Kerala,W8,2015-03,1.99
+Kerala,W9,2014-04,11.75
+Kerala,W9,2014-05,12.88
+Kerala,W9,2014-06,13.33
+Kerala,W9,2014-07,13.66
+Kerala,W9,2014-08,13.32
+Kerala,W9,2014-09,12.48
+Kerala,W9,2014-10,10.91
+Kerala,W9,2014-11,9.53
+Kerala,W9,2014-12,10.85
+Kerala,W9,2015-01,11.78
+Kerala,W9,2015-02,11.45
+Kerala,W9,2015-03,11.8
+Kerala,W10,2014-04,6.51
+Kerala,W10,2014-05,6.35
+Kerala,W10,2014-06,6.79
+Kerala,W10,2014-07,6.91
+Kerala,W10,2014-08,6.02
+Kerala,W10,2014-09,6.07
+Kerala,W10,2014-10,6.01
+Kerala,W10,2014-11,5.31
+Kerala,W10,2014-12,5.16
+Kerala,W10,2015-01,6.18
+Kerala,W10,2015-02,6.24
+Kerala,W10,2015-03,6.71
+Tamil Nadu,W1,2014-04,5.3
+Tamil Nadu,W1,2014-05,5.08
+Tamil Nadu,W1,2014-06,5.9
+Tamil Nadu,W1,2014-07,5.82
+Tamil Nadu,W1,2014-08,5.24
+Tamil Nadu,W1,2014-09,5.65
+Tamil Nadu,W1,2014-10,4.53
+Tamil Nadu,W1,2014-11,4.73
+Tamil Nadu,W1,2014-12,5.05
+Tamil Nadu,W1,2015-01,4.71
+Tamil Nadu,W1,2015-02,4.84
+Tamil Nadu,W1,2015-03,5.65
+Tamil Nadu,W2,2014-04,0.66
+Tamil Nadu,W2,2014-05,0.71
+Tamil Nadu,W2,2014-06,0.74
+Tamil Nadu,W2,2014-07,0.71
+Tamil Nadu,W2,2014-08,0.71
+Tamil Nadu,W2,2014-09,0.67
+Tamil Nadu,W2,2014-10,0.61
+Tamil Nadu,W2,2014-11,0.58
+Tamil Nadu,W2,2014-12,0.56
+Tamil Nadu,W2,2015-01,0.63
+Tamil Nadu,W2,2015-02,0.63
+Tamil Nadu,W2,2015-03,0.73
+Tamil Nadu,W3,2014-04,18.1
+Tamil Nadu,W3,2014-05,20.06
+Tamil Nadu,W3,2014-06,20.97
+Tamil Nadu,W3,2014-07,21.68
+Tamil Nadu,W3,2014-08,19.76
+Tamil Nadu,W3,2014-09,17.64
+Tamil Nadu,W3,2014-10,17.09
+Tamil Nadu,W3,2014-11,15.79
+Tamil Nadu,W3,2014-12,17.44
+Tamil Nadu,W3,2015-01,16.76
+Tamil Nadu,W3,2015-02,18.22
+Tamil Nadu,W3,2015-03,19.19
+Tamil Nadu,W4,2014-04,0.46
+Tamil Nadu,W4,2014-05,0.47
+Tamil Nadu,W4,2014-06,0.51
+Tamil Nadu,W4,2014-07,0.51
+Tamil Nadu,W4,2014-08,0.48
+Tamil Nadu,W4,2014-09,0.4
+Tamil Nadu,W4,2014-10,0.38
+Tamil Nadu,W4,2014-11,0.4
+Tamil Nadu,W4,2014-12,0.43
+Tamil Nadu,W4,2015-01,0.42
+Tamil Nadu,W4,2015-02,0.46
+Tamil Nadu,W4,2015-03,0.44
+Tamil Nadu,W5,2014-04,49.26
+Tamil Nadu,W5,2014-05,52.39
+Tamil Nadu,W5,2014-06,51.65
+Tamil Nadu,W5,2014-07,56.27
+Tamil Nadu,W5,2014-08,52.08
+Tamil Nadu,W5,2014-09,49.87
+Tamil Nadu,W5,2014-10,48.63
+Tamil Nadu,W5,2014-11,42.99
+Tamil Nadu,W5,2014-12,43.63
+Tamil Nadu,W5,2015-01,50.15
+Tamil Nadu,W5,2015-02,45.52
+Tamil Nadu,W5,2015-03,49.23
+Tamil Nadu,W6,2014-04,3.26
+Tamil Nadu,W6,2014-05,3.94
+Tamil Nadu,W6,2014-06,4.18
+Tamil Nadu,W6,2014-07,4.07
+Tamil Nadu,W6,2014-08,3.98
+Tamil Nadu,W6,2014-09,3.57
+Tamil Nadu,W6,2014-10,3.21
+Tamil Nadu,W6,2014-11,3.36
+Tamil Nadu,W6,2014-12,3.02
+Tamil Nadu,W6,2015-01,3.28
+Tamil Nadu,W6,2015-02,3.68
+Tamil Nadu,W6,2015-03,4.12
+Tamil Nadu,W7,2014-04,7.56
+Tamil Nadu,W7,2014-05,8.39
+Tamil Nadu,W7,2014-06,7.66
+Tamil Nadu,W7,2014-07,9.15
+Tamil Nadu,W7,2014-08,8.82
+Tamil Nadu,W7,2014-09,7.77
+Tamil Nadu,W7,2014-10,7.0
+Tamil Nadu,W7,2014-11,6.84
+Tamil Nadu,W7,2014-12,6.15
+Tamil Nadu,W7,2015-01,7.2
+Tamil Nadu,W7,2015-02,7.65
+Tamil Nadu,W7,2015-03,7.45
+Tamil Nadu,W8,2014-04,28.46
+Tamil Nadu,W8,2014-05,31.99
+Tamil Nadu,W8,2014-06,31.79
+Tamil Nadu,W8,2014-07,30.8
+Tamil Nadu,W8,2014-08,30.65
+Tamil Nadu,W8,2014-09,28.22
+Tamil Nadu,W8,2014-10,25.06
+Tamil Nadu,W8,2014-11,23.74
+Tamil Nadu,W8,2014-12,25.15
+Tamil Nadu,W8,2015-01,25.32
+Tamil Nadu,W8,2015-02,27.78
+Tamil Nadu,W8,2015-03,27.48
+Tamil Nadu,W9,2014-04,0.69
+Tamil Nadu,W9,2014-05,0.72
+Tamil Nadu,W9,2014-06,0.74
+Tamil Nadu,W9,2014-07,0.73
+Tamil Nadu,W9,2014-08,0.82
+Tamil Nadu,W9,2014-09,0.69
+Tamil Nadu,W9,2014-10,0.64
+Tamil Nadu,W9,2014-11,0.63
+Tamil Nadu,W9,2014-12,0.62
+Tamil Nadu,W9,2015-01,0.67
+Tamil Nadu,W9,2015-02,0.6
+Tamil Nadu,W9,2015-03,0.64
+Tamil Nadu,W10,2014-04,23.01
+Tamil Nadu,W10,2014-05,21.5
+Tamil Nadu,W10,2014-06,25.43
+Tamil Nadu,W10,2014-07,26.29
+Tamil Nadu,W10,2014-08,22.18
+Tamil Nadu,W10,2014-09,20.03
+Tamil Nadu,W10,2014-10,18.79
+Tamil Nadu,W10,2014-11,18.37
+Tamil Nadu,W10,2014-12,17.42
+Tamil Nadu,W10,2015-01,19.09
+Tamil Nadu,W10,2015-02,22.15
+Tamil Nadu,W10,2015-03,23.53
+Puducherry,W1,2014-04,14.16
+Puducherry,W1,2014-05,14.19
+Puducherry,W1,2014-06,15.2
+Puducherry,W1,2014-07,14.33
+Puducherry,W1,2014-08,15.34
+Puducherry,W1,2014-09,13.12
+Puducherry,W1,2014-10,12.73
+Puducherry,W1,2014-11,12.29
+Puducherry,W1,2014-12,11.72
+Puducherry,W1,2015-01,13.47
+Puducherry,W1,2015-02,13.32
+Puducherry,W1,2015-03,14.25
+Puducherry,W2,2014-04,5.32
+Puducherry,W2,2014-05,5.47
+Puducherry,W2,2014-06,5.66
+Puducherry,W2,2014-07,5.82
+Puducherry,W2,2014-08,5.77
+Puducherry,W2,2014-09,5.46
+Puducherry,W2,2014-10,4.99
+Puducherry,W2,2014-11,4.86
+Puducherry,W2,2014-12,5.44
+Puducherry,W2,2015-01,5.23
+Puducherry,W2,2015-02,5.83
+Puducherry,W2,2015-03,6.12
+Puducherry,W3,2014-04,9.46
+Puducherry,W3,2014-05,10.0
+Puducherry,W3,2014-06,9.74
+Puducherry,W3,2014-07,10.33
+Puducherry,W3,2014-08,9.21
+Puducherry,W3,2014-09,9.25
+Puducherry,W3,2014-10,8.54
+Puducherry,W3,2014-11,8.45
+Puducherry,W3,2014-12,8.43
+Puducherry,W3,2015-01,7.86
+Puducherry,W3,2015-02,8.51
+Puducherry,W3,2015-03,8.85
+Puducherry,W4,2014-04,15.01
+Puducherry,W4,2014-05,14.6
+Puducherry,W4,2014-06,15.86
+Puducherry,W4,2014-07,16.27
+Puducherry,W4,2014-08,13.79
+Puducherry,W4,2014-09,13.65
+Puducherry,W4,2014-10,13.67
+Puducherry,W4,2014-11,11.49
+Puducherry,W4,2014-12,12.43
+Puducherry,W4,2015-01,12.89
+Puducherry,W4,2015-02,13.61
+Puducherry,W4,2015-03,14.68
+Puducherry,W5,2014-04,18.38
+Puducherry,W5,2014-05,19.99
+Puducherry,W5,2014-06,20.49
+Puducherry,W5,2014-07,21.14
+Puducherry,W5,2014-08,20.68
+Puducherry,W5,2014-09,16.52
+Puducherry,W5,2014-10,18.66
+Puducherry,W5,2014-11,15.68
+Puducherry,W5,2014-12,16.95
+Puducherry,W5,2015-01,16.74
+Puducherry,W5,2015-02,19.17
+Puducherry,W5,2015-03,19.72
+Puducherry,W6,2014-04,36.37
+Puducherry,W6,2014-05,35.96
+Puducherry,W6,2014-06,38.79
+Puducherry,W6,2014-07,42.01
+Puducherry,W6,2014-08,36.99
+Puducherry,W6,2014-09,34.6
+Puducherry,W6,2014-10,33.89
+Puducherry,W6,2014-11,29.99
+Puducherry,W6,2014-12,30.47
+Puducherry,W6,2015-01,33.5
+Puducherry,W6,2015-02,36.12
+Puducherry,W6,2015-03,33.79
+Puducherry,W7,2014-04,13.5
+Puducherry,W7,2014-05,14.11
+Puducherry,W7,2014-06,14.72
+Puducherry,W7,2014-07,15.16
+Puducherry,W7,2014-08,14.68
+Puducherry,W7,2014-09,12.01
+Puducherry,W7,2014-10,12.73
+Puducherry,W7,2014-11,12.3
+Puducherry,W7,2014-12,13.03
+Puducherry,W7,2015-01,12.53
+Puducherry,W7,2015-02,13.47
+Puducherry,W7,2015-03,13.63
+Puducherry,W8,2014-04,14.27
+Puducherry,W8,2014-05,15.46
+Puducherry,W8,2014-06,14.2
+Puducherry,W8,2014-07,15.34
+Puducherry,W8,2014-08,15.24
+Puducherry,W8,2014-09,13.1
+Puducherry,W8,2014-10,12.16
+Puducherry,W8,2014-11,11.96
+Puducherry,W8,2014-12,12.18
+Puducherry,W8,2015-01,13.57
+Puducherry,W8,2015-02,12.48
+Puducherry,W8,2015-03,13.57
+Puducherry,W9,2014-04,4.28
+Puducherry,W9,2014-05,4.18
+Puducherry,W9,2014-06,4.66
+Puducherry,W9,2014-07,4.65
+Puducherry,W9,2014-08,4.29
+Puducherry,W9,2014-09,4.0
+Puducherry,W9,2014-10,3.57
+Puducherry,W9,2014-11,3.27
+Puducherry,W9,2014-12,3.96
+Puducherry,W9,2015-01,4.14
+Puducherry,W9,2015-02,3.71
+Puducherry,W9,2015-03,4.39
+Puducherry,W10,2014-04,10.97
+Puducherry,W10,2014-05,10.7
+Puducherry,W10,2014-06,11.69
+Puducherry,W10,2014-07,10.2
+Puducherry,W10,2014-08,10.79
+Puducherry,W10,2014-09,11.37
+Puducherry,W10,2014-10,10.4
+Puducherry,W10,2014-11,9.3
+Puducherry,W10,2014-12,8.98
+Puducherry,W10,2015-01,10.28
+Puducherry,W10,2015-02,11.07
+Puducherry,W10,2015-03,11.79
+Lakshadweep,W1,2014-04,9.48
+Lakshadweep,W1,2014-05,9.08
+Lakshadweep,W1,2014-06,9.28
+Lakshadweep,W1,2014-07,9.18
+Lakshadweep,W1,2014-08,9.26
+Lakshadweep,W1,2014-09,8.76
+Lakshadweep,W1,2014-10,7.81
+Lakshadweep,W1,2014-11,7.29
+Lakshadweep,W1,2014-12,8.03
+Lakshadweep,W1,2015-01,8.48
+Lakshadweep,W1,2015-02,8.82
+Lakshadweep,W1,2015-03,9.26
+Lakshadweep,W2,2014-04,1.41
+Lakshadweep,W2,2014-05,1.55
+Lakshadweep,W2,2014-06,1.54
+Lakshadweep,W2,2014-07,1.47
+Lakshadweep,W2,2014-08,1.57
+Lakshadweep,W2,2014-09,1.34
+Lakshadweep,W2,2014-10,1.36
+Lakshadweep,W2,2014-11,1.23
+Lakshadweep,W2,2014-12,1.28
+Lakshadweep,W2,2015-01,1.33
+Lakshadweep,W2,2015-02,1.35
+Lakshadweep,W2,2015-03,1.49
+Lakshadweep,W3,2014-04,4.14
+Lakshadweep,W3,2014-05,4.43
+Lakshadweep,W3,2014-06,4.57
+Lakshadweep,W3,2014-07,4.49
+Lakshadweep,W3,2014-08,4.13
+Lakshadweep,W3,2014-09,4.23
+Lakshadweep,W3,2014-10,4.01
+Lakshadweep,W3,2014-11,3.53
+Lakshadweep,W3,2014-12,3.73
+Lakshadweep,W3,2015-01,3.87
+Lakshadweep,W3,2015-02,3.91
+Lakshadweep,W3,2015-03,4.28
+Lakshadweep,W4,2014-04,0.85
+Lakshadweep,W4,2014-05,1.03
+Lakshadweep,W4,2014-06,1.02
+Lakshadweep,W4,2014-07,1.08
+Lakshadweep,W4,2014-08,0.89
+Lakshadweep,W4,2014-09,0.85
+Lakshadweep,W4,2014-10,0.8
+Lakshadweep,W4,2014-11,0.69
+Lakshadweep,W4,2014-12,0.82
+Lakshadweep,W4,2015-01,0.83
+Lakshadweep,W4,2015-02,0.86
+Lakshadweep,W4,2015-03,0.82
+Lakshadweep,W5,2014-04,13.52
+Lakshadweep,W5,2014-05,12.98
+Lakshadweep,W5,2014-06,15.15
+Lakshadweep,W5,2014-07,14.06
+Lakshadweep,W5,2014-08,13.38
+Lakshadweep,W5,2014-09,12.83
+Lakshadweep,W5,2014-10,11.36
+Lakshadweep,W5,2014-11,11.12
+Lakshadweep,W5,2014-12,11.9
+Lakshadweep,W5,2015-01,11.89
+Lakshadweep,W5,2015-02,11.28
+Lakshadweep,W5,2015-03,12.54
+Lakshadweep,W6,2014-04,6.66
+Lakshadweep,W6,2014-05,7.22
+Lakshadweep,W6,2014-06,7.2
+Lakshadweep,W6,2014-07,7.44
+Lakshadweep,W6,2014-08,7.09
+Lakshadweep,W6,2014-09,6.44
+Lakshadweep,W6,2014-10,6.32
+Lakshadweep,W6,2014-11,5.99
+Lakshadweep,W6,2014-12,6.25
+Lakshadweep,W6,2015-01,6.48
+Lakshadweep,W6,2015-02,6.67
+Lakshadweep,W6,2015-03,7.05
+Lakshadweep,W7,2014-04,4.59
+Lakshadweep,W7,2014-05,5.0
+Lakshadweep,W7,2014-06,5.17
+Lakshadweep,W7,2014-07,4.96
+Lakshadweep,W7,2014-08,4.57
+Lakshadweep,W7,2014-09,4.52
+Lakshadweep,W7,2014-10,4.06
+Lakshadweep,W7,2014-11,3.84
+Lakshadweep,W7,2014-12,4.25
+Lakshadweep,W7,2015-01,3.99
+Lakshadweep,W7,2015-02,4.44
+Lakshadweep,W7,2015-03,4.56
+Lakshadweep,W8,2014-04,1.8
+Lakshadweep,W8,2014-05,1.81
+Lakshadweep,W8,2014-06,2.12
+Lakshadweep,W8,2014-07,1.98
+Lakshadweep,W8,2014-08,1.78
+Lakshadweep,W8,2014-09,1.6
+Lakshadweep,W8,2014-10,1.63
+Lakshadweep,W8,2014-11,1.47
+Lakshadweep,W8,2014-12,1.52
+Lakshadweep,W8,2015-01,1.76
+Lakshadweep,W8,2015-02,1.74
+Lakshadweep,W8,2015-03,1.96
+Lakshadweep,W9,2014-04,10.94
+Lakshadweep,W9,2014-05,11.99
+Lakshadweep,W9,2014-06,10.77
+Lakshadweep,W9,2014-07,11.57
+Lakshadweep,W9,2014-08,11.19
+Lakshadweep,W9,2014-09,9.46
+Lakshadweep,W9,2014-10,8.94
+Lakshadweep,W9,2014-11,10.02
+Lakshadweep,W9,2014-12,9.45
+Lakshadweep,W9,2015-01,9.24
+Lakshadweep,W9,2015-02,9.86
+Lakshadweep,W9,2015-03,11.3
+Lakshadweep,W10,2014-04,3.73
+Lakshadweep,W10,2014-05,3.93
+Lakshadweep,W10,2014-06,4.45
+Lakshadweep,W10,2014-07,3.99
+Lakshadweep,W10,2014-08,4.02
+Lakshadweep,W10,2014-09,3.65
+Lakshadweep,W10,2014-10,3.61
+Lakshadweep,W10,2014-11,3.2
+Lakshadweep,W10,2014-12,3.23
+Lakshadweep,W10,2015-01,3.44
+Lakshadweep,W10,2015-02,3.73
+Lakshadweep,W10,2015-03,3.84
+Bihar,W1,2014-04,0.85
+Bihar,W1,2014-05,0.79
+Bihar,W1,2014-06,0.77
+Bihar,W1,2014-07,0.85
+Bihar,W1,2014-08,0.76
+Bihar,W1,2014-09,0.72
+Bihar,W1,2014-10,0.65
+Bihar,W1,2014-11,0.66
+Bihar,W1,2014-12,0.64
+Bihar,W1,2015-01,0.72
+Bihar,W1,2015-02,0.68
+Bihar,W1,2015-03,0.76
+Bihar,W2,2014-04,3.45
+Bihar,W2,2014-05,4.17
+Bihar,W2,2014-06,4.14
+Bihar,W2,2014-07,4.39
+Bihar,W2,2014-08,4.37
+Bihar,W2,2014-09,3.93
+Bihar,W2,2014-10,3.4
+Bihar,W2,2014-11,3.39
+Bihar,W2,2014-12,3.2
+Bihar,W2,2015-01,3.42
+Bihar,W2,2015-02,3.87
+Bihar,W2,2015-03,3.73
+Bihar,W3,2014-04,0.73
+Bihar,W3,2014-05,0.74
+Bihar,W3,2014-06,0.79
+Bihar,W3,2014-07,0.76
+Bihar,W3,2014-08,0.77
+Bihar,W3,2014-09,0.67
+Bihar,W3,2014-10,0.65
+Bihar,W3,2014-11,0.67
+Bihar,W3,2014-12,0.67
+Bihar,W3,2015-01,0.69
+Bihar,W3,2015-02,0.73
+Bihar,W3,2015-03,0.77
+Bihar,W4,2014-04,2.32
+Bihar,W4,2014-05,2.24
+Bihar,W4,2014-06,2.24
+Bihar,W4,2014-07,2.41
+Bihar,W4,2014-08,2.23
+Bihar,W4,2014-09,2.15
+Bihar,W4,2014-10,2.04
+Bihar,W4,2014-11,2.0
+Bihar,W4,2014-12,1.84
+Bihar,W4,2015-01,2.07
+Bihar,W4,2015-02,2.05
+Bihar,W4,2015-03,2.35
+Bihar,W5,2014-04,0.83
+Bihar,W5,2014-05,0.86
+Bihar,W5,2014-06,0.87
+Bihar,W5,2014-07,0.92
+Bihar,W5,2014-08,0.85
+Bihar,W5,2014-09,0.78
+Bihar,W5,2014-10,0.71
+Bihar,W5,2014-11,0.72
+Bihar,W5,2014-12,0.74
+Bihar,W5,2015-01,0.74
+Bihar,W5,2015-02,0.7
+Bihar,W5,2015-03,0.82
+Bihar,W6,2014-04,3.56
+Bihar,W6,2014-05,3.48
+Bihar,W6,2014-06,3.71
+Bihar,W6,2014-07,4.08
+Bihar,W6,2014-08,3.31
+Bihar,W6,2014-09,3.25
+Bihar,W6,2014-10,2.76
+Bihar,W6,2014-11,3.25
+Bihar,W6,2014-12,3.17
+Bihar,W6,2015-01,3.35
+Bihar,W6,2015-02,3.31
+Bihar,W6,2015-03,3.48
+Bihar,W7,2014-04,2.69
+Bihar,W7,2014-05,2.89
+Bihar,W7,2014-06,3.49
+Bihar,W7,2014-07,3.25
+Bihar,W7,2014-08,3.22
+Bihar,W7,2014-09,2.77
+Bihar,W7,2014-10,2.76
+Bihar,W7,2014-11,2.6
+Bihar,W7,2014-12,2.75
+Bihar,W7,2015-01,2.76
+Bihar,W7,2015-02,2.74
+Bihar,W7,2015-03,2.95
+Bihar,W8,2014-04,1.01
+Bihar,W8,2014-05,1.02
+Bihar,W8,2014-06,1.07
+Bihar,W8,2014-07,1.02
+Bihar,W8,2014-08,1.15
+Bihar,W8,2014-09,1.01
+Bihar,W8,2014-10,0.96
+Bihar,W8,2014-11,0.91
+Bihar,W8,2014-12,0.96
+Bihar,W8,2015-01,1.06
+Bihar,W8,2015-02,1.0
+Bihar,W8,2015-03,1.04
+Bihar,W9,2014-04,0.65
+Bihar,W9,2014-05,0.61
+Bihar,W9,2014-06,0.68
+Bihar,W9,2014-07,0.67
+Bihar,W9,2014-08,0.61
+Bihar,W9,2014-09,0.54
+Bihar,W9,2014-10,0.51
+Bihar,W9,2014-11,0.47
+Bihar,W9,2014-12,0.54
+Bihar,W9,2015-01,0.55
+Bihar,W9,2015-02,0.55
+Bihar,W9,2015-03,0.57
+Bihar,W10,2014-04,0.85
+Bihar,W10,2014-05,0.89
+Bihar,W10,2014-06,0.95
+Bihar,W10,2014-07,0.96
+Bihar,W10,2014-08,0.91
+Bihar,W10,2014-09,0.83
+Bihar,W10,2014-10,0.75
+Bihar,W10,2014-11,0.77
+Bihar,W10,2014-12,0.8
+Bihar,W10,2015-01,0.77
+Bihar,W10,2015-02,0.72
+Bihar,W10,2015-03,0.87
+Jharkhand,W1,2014-04,0.07
+Jharkhand,W1,2014-05,0.09
+Jharkhand,W1,2014-06,0.09
+Jharkhand,W1,2014-07,0.08
+Jharkhand,W1,2014-08,0.09
+Jharkhand,W1,2014-09,0.08
+Jharkhand,W1,2014-10,0.08
+Jharkhand,W1,2014-11,0.08
+Jharkhand,W1,2014-12,0.07
+Jharkhand,W1,2015-01,0.08
+Jharkhand,W1,2015-02,0.08
+Jharkhand,W1,2015-03,0.08
+Jharkhand,W2,2014-04,1.7
+Jharkhand,W2,2014-05,1.77
+Jharkhand,W2,2014-06,1.93
+Jharkhand,W2,2014-07,1.93
+Jharkhand,W2,2014-08,1.68
+Jharkhand,W2,2014-09,1.47
+Jharkhand,W2,2014-10,1.55
+Jharkhand,W2,2014-11,1.56
+Jharkhand,W2,2014-12,1.53
+Jharkhand,W2,2015-01,1.58
+Jharkhand,W2,2015-02,1.68
+Jharkhand,W2,2015-03,1.67
+Jharkhand,W3,2014-04,11.59
+Jharkhand,W3,2014-05,11.13
+Jharkhand,W3,2014-06,11.67
+Jharkhand,W3,2014-07,11.46
+Jharkhand,W3,2014-08,10.77
+Jharkhand,W3,2014-09,10.56
+Jharkhand,W3,2014-10,10.1
+Jharkhand,W3,2014-11,9.26
+Jharkhand,W3,2014-12,9.09
+Jharkhand,W3,2015-01,9.67
+Jharkhand,W3,2015-02,10.04
+Jharkhand,W3,2015-03,10.93
+Jharkhand,W4,2014-04,7.93
+Jharkhand,W4,2014-05,8.59
+Jharkhand,W4,2014-06,8.55
+Jharkhand,W4,2014-07,8.23
+Jharkhand,W4,2014-08,8.38
+Jharkhand,W4,2014-09,7.17
+Jharkhand,W4,2014-10,6.4
+Jharkhand,W4,2014-11,6.83
+Jharkhand,W4,2014-12,6.99
+Jharkhand,W4,2015-01,6.54
+Jharkhand,W4,2015-02,7.53
+Jharkhand,W4,2015-03,7.28
+Jharkhand,W5,2014-04,9.28
+Jharkhand,W5,2014-05,8.13
+Jharkhand,W5,2014-06,8.71
+Jharkhand,W5,2014-07,9.17
+Jharkhand,W5,2014-08,8.4
+Jharkhand,W5,2014-09,7.44
+Jharkhand,W5,2014-10,8.42
+Jharkhand,W5,2014-11,6.82
+Jharkhand,W5,2014-12,7.22
+Jharkhand,W5,2015-01,7.8
+Jharkhand,W5,2015-02,7.27
+Jharkhand,W5,2015-03,8.32
+Jharkhand,W6,2014-04,0.56
+Jharkhand,W6,2014-05,0.6
+Jharkhand,W6,2014-06,0.64
+Jharkhand,W6,2014-07,0.62
+Jharkhand,W6,2014-08,0.66
+Jharkhand,W6,2014-09,0.6
+Jharkhand,W6,2014-10,0.56
+Jharkhand,W6,2014-11,0.51
+Jharkhand,W6,2014-12,0.51
+Jharkhand,W6,2015-01,0.57
+Jharkhand,W6,2015-02,0.57
+Jharkhand,W6,2015-03,0.59
+Jharkhand,W7,2014-04,6.93
+Jharkhand,W7,2014-05,7.25
+Jharkhand,W7,2014-06,6.71
+Jharkhand,W7,2014-07,6.87
+Jharkhand,W7,2014-08,6.55
+Jharkhand,W7,2014-09,6.38
+Jharkhand,W7,2014-10,5.85
+Jharkhand,W7,2014-11,5.3
+Jharkhand,W7,2014-12,5.36
+Jharkhand,W7,2015-01,6.12
+Jharkhand,W7,2015-02,6.42
+Jharkhand,W7,2015-03,7.17
+Jharkhand,W8,2014-04,13.8
+Jharkhand,W8,2014-05,13.74
+Jharkhand,W8,2014-06,14.83
+Jharkhand,W8,2014-07,13.95
+Jharkhand,W8,2014-08,13.37
+Jharkhand,W8,2014-09,13.6
+Jharkhand,W8,2014-10,12.3
+Jharkhand,W8,2014-11,12.16
+Jharkhand,W8,2014-12,11.62
+Jharkhand,W8,2015-01,12.11
+Jharkhand,W8,2015-02,13.15
+Jharkhand,W8,2015-03,13.54
+Jharkhand,W9,2014-04,12.22
+Jharkhand,W9,2014-05,11.21
+Jharkhand,W9,2014-06,12.23
+Jharkhand,W9,2014-07,13.5
+Jharkhand,W9,2014-08,12.73
+Jharkhand,W9,2014-09,10.5
+Jharkhand,W9,2014-10,10.59
+Jharkhand,W9,2014-11,9.57
+Jharkhand,W9,2014-12,10.17
+Jharkhand,W9,2015-01,10.3
+Jharkhand,W9,2015-02,10.19
+Jharkhand,W9,2015-03,11.28
+Jharkhand,W10,2014-04,10.66
+Jharkhand,W10,2014-05,11.03
+Jharkhand,W10,2014-06,10.93
+Jharkhand,W10,2014-07,11.92
+Jharkhand,W10,2014-08,10.21
+Jharkhand,W10,2014-09,9.17
+Jharkhand,W10,2014-10,9.74
+Jharkhand,W10,2014-11,9.21
+Jharkhand,W10,2014-12,9.16
+Jharkhand,W10,2015-01,9.75
+Jharkhand,W10,2015-02,9.81
+Jharkhand,W10,2015-03,10.08
+Odisha,W1,2014-04,25.25
+Odisha,W1,2014-05,25.9
+Odisha,W1,2014-06,28.91
+Odisha,W1,2014-07,25.79
+Odisha,W1,2014-08,23.59
+Odisha,W1,2014-09,23.73
+Odisha,W1,2014-10,23.03
+Odisha,W1,2014-11,19.91
+Odisha,W1,2014-12,20.35
+Odisha,W1,2015-01,25.09
+Odisha,W1,2015-02,24.5
+Odisha,W1,2015-03,24.42
+Odisha,W2,2014-04,17.09
+Odisha,W2,2014-05,15.6
+Odisha,W2,2014-06,17.52
+Odisha,W2,2014-07,17.3
+Odisha,W2,2014-08,17.93
+Odisha,W2,2014-09,14.59
+Odisha,W2,2014-10,14.28
+Odisha,W2,2014-11,13.9
+Odisha,W2,2014-12,13.45
+Odisha,W2,2015-01,13.89
+Odisha,W2,2015-02,12.79
+Odisha,W2,2015-03,14.5
+Odisha,W3,2014-04,11.43
+Odisha,W3,2014-05,12.87
+Odisha,W3,2014-06,13.63
+Odisha,W3,2014-07,14.29
+Odisha,W3,2014-08,13.54
+Odisha,W3,2014-09,12.45
+Odisha,W3,2014-10,11.07
+Odisha,W3,2014-11,10.27
+Odisha,W3,2014-12,9.8
+Odisha,W3,2015-01,12.26
+Odisha,W3,2015-02,11.35
+Odisha,W3,2015-03,13.46
+Odisha,W4,2014-04,8.11
+Odisha,W4,2014-05,8.41
+Odisha,W4,2014-06,9.77
+Odisha,W4,2014-07,9.22
+Odisha,W4,2014-08,9.17
+Odisha,W4,2014-09,7.57
+Odisha,W4,2014-10,7.89
+Odisha,W4,2014-11,7.22
+Odisha,W4,2014-12,7.6
+Odisha,W4,2015-01,7.76
+Odisha,W4,2015-02,7.79
+Odisha,W4,2015-03,8.68
+Odisha,W5,2014-04,8.85
+Odisha,W5,2014-05,9.0
+Odisha,W5,2014-06,8.92
+Odisha,W5,2014-07,9.4
+Odisha,W5,2014-08,8.84
+Odisha,W5,2014-09,8.32
+Odisha,W5,2014-10,7.79
+Odisha,W5,2014-11,6.76
+Odisha,W5,2014-12,7.55
+Odisha,W5,2015-01,8.31
+Odisha,W5,2015-02,8.78
+Odisha,W5,2015-03,8.53
+Odisha,W6,2014-04,6.5
+Odisha,W6,2014-05,7.32
+Odisha,W6,2014-06,8.21
+Odisha,W6,2014-07,7.84
+Odisha,W6,2014-08,7.71
+Odisha,W6,2014-09,7.33
+Odisha,W6,2014-10,6.87
+Odisha,W6,2014-11,6.54
+Odisha,W6,2014-12,7.12
+Odisha,W6,2015-01,7.14
+Odisha,W6,2015-02,7.05
+Odisha,W6,2015-03,7.49
+Odisha,W7,2014-04,2.19
+Odisha,W7,2014-05,2.37
+Odisha,W7,2014-06,2.17
+Odisha,W7,2014-07,2.33
+Odisha,W7,2014-08,2.29
+Odisha,W7,2014-09,2.19
+Odisha,W7,2014-10,1.99
+Odisha,W7,2014-11,1.71
+Odisha,W7,2014-12,1.86
+Odisha,W7,2015-01,1.87
+Odisha,W7,2015-02,1.91
+Odisha,W7,2015-03,2.1
+Odisha,W8,2014-04,19.57
+Odisha,W8,2014-05,20.5
+Odisha,W8,2014-06,21.07
+Odisha,W8,2014-07,21.78
+Odisha,W8,2014-08,19.61
+Odisha,W8,2014-09,17.67
+Odisha,W8,2014-10,16.54
+Odisha,W8,2014-11,16.0
+Odisha,W8,2014-12,17.75
+Odisha,W8,2015-01,16.9
+Odisha,W8,2015-02,19.21
+Odisha,W8,2015-03,19.84
+Odisha,W9,2014-04,1.18
+Odisha,W9,2014-05,1.25
+Odisha,W9,2014-06,1.63
+Odisha,W9,2014-07,1.42
+Odisha,W9,2014-08,1.38
+Odisha,W9,2014-09,1.29
+Odisha,W9,2014-10,1.14
+Odisha,W9,2014-11,1.09
+Odisha,W9,2014-12,1.17
+Odisha,W9,2015-01,1.19
+Odisha,W9,2015-02,1.11
+Odisha,W9,2015-03,1.24
+Odisha,W10,2014-04,23.99
+Odisha,W10,2014-05,22.68
+Odisha,W10,2014-06,21.99
+Odisha,W10,2014-07,23.77
+Odisha,W10,2014-08,22.68
+Odisha,W10,2014-09,20.56
+Odisha,W10,2014-10,19.62
+Odisha,W10,2014-11,19.77
+Odisha,W10,2014-12,18.65
+Odisha,W10,2015-01,18.21
+Odisha,W10,2015-02,19.84
+Odisha,W10,2015-03,22.38
+West Bengal,W1,2014-04,4.97
+West Bengal,W1,2014-05,5.54
+West Bengal,W1,2014-06,5.34
+West Bengal,W1,2014-07,5.61
+West Bengal,W1,2014-08,5.68
+West Bengal,W1,2014-09,4.46
+West Bengal,W1,2014-10,4.21
+West Bengal,W1,2014-11,4.54
+West Bengal,W1,2014-12,4.76
+West Bengal,W1,2015-01,4.78
+West Bengal,W1,2015-02,4.73
+West Bengal,W1,2015-03,4.96
+West Bengal,W2,2014-04,4.67
+West Bengal,W2,2014-05,4.71
+West Bengal,W2,2014-06,5.05
+West Bengal,W2,2014-07,4.55
+West Bengal,W2,2014-08,5.25
+West Bengal,W2,2014-09,5.04
+West Bengal,W2,2014-10,4.56
+West Bengal,W2,2014-11,4.44
+West Bengal,W2,2014-12,4.22
+West Bengal,W2,2015-01,4.14
+West Bengal,W2,2015-02,4.86
+West Bengal,W2,2015-03,4.9
+West Bengal,W3,2014-04,1.83
+West Bengal,W3,2014-05,2.01
+West Bengal,W3,2014-06,2.28
+West Bengal,W3,2014-07,2.05
+West Bengal,W3,2014-08,2.23
+West Bengal,W3,2014-09,2.03
+West Bengal,W3,2014-10,1.68
+West Bengal,W3,2014-11,1.58
+West Bengal,W3,2014-12,1.67
+West Bengal,W3,2015-01,1.73
+West Bengal,W3,2015-02,1.76
+West Bengal,W3,2015-03,1.98
+West Bengal,W4,2014-04,1.47
+West Bengal,W4,2014-05,1.61
+West Bengal,W4,2014-06,1.81
+West Bengal,W4,2014-07,1.86
+West Bengal,W4,2014-08,1.56
+West Bengal,W4,2014-09,1.46
+West Bengal,W4,2014-10,1.35
+West Bengal,W4,2014-11,1.37
+West Bengal,W4,2014-12,1.38
+West Bengal,W4,2015-01,1.54
+West Bengal,W4,2015-02,1.48
+West Bengal,W4,2015-03,1.51
+West Bengal,W5,2014-04,3.72
+West Bengal,W5,2014-05,3.41
+West Bengal,W5,2014-06,3.74
+West Bengal,W5,2014-07,3.89
+West Bengal,W5,2014-08,3.79
+West Bengal,W5,2014-09,3.43
+West Bengal,W5,2014-10,3.35
+West Bengal,W5,2014-11,2.98
+West Bengal,W5,2014-12,3.12
+West Bengal,W5,2015-01,3.27
+West Bengal,W5,2015-02,3.6
+West Bengal,W5,2015-03,3.6
+West Bengal,W6,2014-04,1.9
+West Bengal,W6,2014-05,2.27
+West Bengal,W6,2014-06,2.43
+West Bengal,W6,2014-07,2.51
+West Bengal,W6,2014-08,2.29
+West Bengal,W6,2014-09,2.29
+West Bengal,W6,2014-10,2.0
+West Bengal,W6,2014-11,1.91
+West Bengal,W6,2014-12,1.9
+West Bengal,W6,2015-01,1.98
+West Bengal,W6,2015-02,2.18
+West Bengal,W6,2015-03,2.34
+West Bengal,W7,2014-04,8.7
+West Bengal,W7,2014-05,8.07
+West Bengal,W7,2014-06,9.15
+West Bengal,W7,2014-07,8.42
+West Bengal,W7,2014-08,9.37
+West Bengal,W7,2014-09,7.81
+West Bengal,W7,2014-10,7.55
+West Bengal,W7,2014-11,6.96
+West Bengal,W7,2014-12,7.9
+West Bengal,W7,2015-01,8.34
+West Bengal,W7,2015-02,8.59
+West Bengal,W7,2015-03,8.44
+West Bengal,W8,2014-04,9.93
+West Bengal,W8,2014-05,9.77
+West Bengal,W8,2014-06,9.75
+West Bengal,W8,2014-07,10.49
+West Bengal,W8,2014-08,9.97
+West Bengal,W8,2014-09,8.23
+West Bengal,W8,2014-10,8.87
+West Bengal,W8,2014-11,7.46
+West Bengal,W8,2014-12,8.82
+West Bengal,W8,2015-01,8.61
+West Bengal,W8,2015-02,9.02
+West Bengal,W8,2015-03,9.18
+West Bengal,W9,2014-04,1.01
+West Bengal,W9,2014-05,1.16
+West Bengal,W9,2014-06,1.24
+West Bengal,W9,2014-07,1.23
+West Bengal,W9,2014-08,1.11
+West Bengal,W9,2014-09,1.04
+West Bengal,W9,2014-10,0.98
+West Bengal,W9,2014-11,0.93
+West Bengal,W9,2014-12,1.0
+West Bengal,W9,2015-01,1.0
+West Bengal,W9,2015-02,1.06
+West Bengal,W9,2015-03,1.11
+West Bengal,W10,2014-04,17.68
+West Bengal,W10,2014-05,16.99
+West Bengal,W10,2014-06,18.34
+West Bengal,W10,2014-07,18.78
+West Bengal,W10,2014-08,20.7
+West Bengal,W10,2014-09,16.47
+West Bengal,W10,2014-10,16.31
+West Bengal,W10,2014-11,13.97
+West Bengal,W10,2014-12,15.4
+West Bengal,W10,2015-01,16.98
+West Bengal,W10,2015-02,15.98
+West Bengal,W10,2015-03,16.23
+Sikkim,W1,2014-04,2.72
+Sikkim,W1,2014-05,2.65
+Sikkim,W1,2014-06,2.82
+Sikkim,W1,2014-07,2.72
+Sikkim,W1,2014-08,2.83
+Sikkim,W1,2014-09,2.46
+Sikkim,W1,2014-10,2.36
+Sikkim,W1,2014-11,2.35
+Sikkim,W1,2014-12,2.27
+Sikkim,W1,2015-01,2.54
+Sikkim,W1,2015-02,2.81
+Sikkim,W1,2015-03,2.57
+Sikkim,W2,2014-04,10.9
+Sikkim,W2,2014-05,10.88
+Sikkim,W2,2014-06,11.37
+Sikkim,W2,2014-07,12.14
+Sikkim,W2,2014-08,11.3
+Sikkim,W2,2014-09,11.0
+Sikkim,W2,2014-10,9.05
+Sikkim,W2,2014-11,9.79
+Sikkim,W2,2014-12,9.14
+Sikkim,W2,2015-01,9.19
+Sikkim,W2,2015-02,10.86
+Sikkim,W2,2015-03,10.18
+Sikkim,W3,2014-04,0.55
+Sikkim,W3,2014-05,0.54
+Sikkim,W3,2014-06,0.63
+Sikkim,W3,2014-07,0.62
+Sikkim,W3,2014-08,0.56
+Sikkim,W3,2014-09,0.54
+Sikkim,W3,2014-10,0.53
+Sikkim,W3,2014-11,0.52
+Sikkim,W3,2014-12,0.45
+Sikkim,W3,2015-01,0.47
+Sikkim,W3,2015-02,0.56
+Sikkim,W3,2015-03,0.54
+Sikkim,W4,2014-04,7.4
+Sikkim,W4,2014-05,7.83
+Sikkim,W4,2014-06,7.89
+Sikkim,W4,2014-07,8.38
+Sikkim,W4,2014-08,7.88
+Sikkim,W4,2014-09,6.49
+Sikkim,W4,2014-10,6.83
+Sikkim,W4,2014-11,6.52
+Sikkim,W4,2014-12,6.37
+Sikkim,W4,2015-01,6.72
+Sikkim,W4,2015-02,7.45
+Sikkim,W4,2015-03,7.96
+Sikkim,W5,2014-04,10.15
+Sikkim,W5,2014-05,11.03
+Sikkim,W5,2014-06,10.37
+Sikkim,W5,2014-07,10.79
+Sikkim,W5,2014-08,9.79
+Sikkim,W5,2014-09,10.06
+Sikkim,W5,2014-10,9.31
+Sikkim,W5,2014-11,8.69
+Sikkim,W5,2014-12,9.03
+Sikkim,W5,2015-01,9.82
+Sikkim,W5,2015-02,10.09
+Sikkim,W5,2015-03,10.33
+Sikkim,W6,2014-04,6.1
+Sikkim,W6,2014-05,6.73
+Sikkim,W6,2014-06,6.34
+Sikkim,W6,2014-07,7.0
+Sikkim,W6,2014-08,6.94
+Sikkim,W6,2014-09,6.21
+Sikkim,W6,2014-10,5.73
+Sikkim,W6,2014-11,5.17
+Sikkim,W6,2014-12,5.74
+Sikkim,W6,2015-01,5.53
+Sikkim,W6,2015-02,6.36
+Sikkim,W6,2015-03,6.12
+Sikkim,W7,2014-04,6.71
+Sikkim,W7,2014-05,7.74
+Sikkim,W7,2014-06,7.92
+Sikkim,W7,2014-07,8.04
+Sikkim,W7,2014-08,7.53
+Sikkim,W7,2014-09,7.64
+Sikkim,W7,2014-10,6.63
+Sikkim,W7,2014-11,6.7
+Sikkim,W7,2014-12,6.46
+Sikkim,W7,2015-01,6.8
+Sikkim,W7,2015-02,7.26
+Sikkim,W7,2015-03,7.26
+Sikkim,W8,2014-04,0.71
+Sikkim,W8,2014-05,0.81
+Sikkim,W8,2014-06,0.84
+Sikkim,W8,2014-07,0.84
+Sikkim,W8,2014-08,0.8
+Sikkim,W8,2014-09,0.75
+Sikkim,W8,2014-10,0.69
+Sikkim,W8,2014-11,0.66
+Sikkim,W8,2014-12,0.64
+Sikkim,W8,2015-01,0.72
+Sikkim,W8,2015-02,0.7
+Sikkim,W8,2015-03,0.74
+Sikkim,W9,2014-04,3.31
+Sikkim,W9,2014-05,3.42
+Sikkim,W9,2014-06,3.58
+Sikkim,W9,2014-07,3.44
+Sikkim,W9,2014-08,3.6
+Sikkim,W9,2014-09,2.92
+Sikkim,W9,2014-10,2.92
+Sikkim,W9,2014-11,2.63
+Sikkim,W9,2014-12,2.72
+Sikkim,W9,2015-01,3.14
+Sikkim,W9,2015-02,3.55
+Sikkim,W9,2015-03,3.12
+Sikkim,W10,2014-04,7.64
+Sikkim,W10,2014-05,9.13
+Sikkim,W10,2014-06,9.05
+Sikkim,W10,2014-07,9.63
+Sikkim,W10,2014-08,8.78
+Sikkim,W10,2014-09,7.75
+Sikkim,W10,2014-10,8.01
+Sikkim,W10,2014-11,7.71
+Sikkim,W10,2014-12,7.87
+Sikkim,W10,2015-01,7.89
+Sikkim,W10,2015-02,9.0
+Sikkim,W10,2015-03,8.35
+A.& N. Islands,W1,2014-04,0.26
+A.& N. Islands,W1,2014-05,0.25
+A.& N. Islands,W1,2014-06,0.27
+A.& N. Islands,W1,2014-07,0.26
+A.& N. Islands,W1,2014-08,0.27
+A.& N. Islands,W1,2014-09,0.24
+A.& N. Islands,W1,2014-10,0.23
+A.& N. Islands,W1,2014-11,0.21
+A.& N. Islands,W1,2014-12,0.21
+A.& N. Islands,W1,2015-01,0.23
+A.& N. Islands,W1,2015-02,0.24
+A.& N. Islands,W1,2015-03,0.24
+A.& N. Islands,W2,2014-04,0.82
+A.& N. Islands,W2,2014-05,0.95
+A.& N. Islands,W2,2014-06,0.93
+A.& N. Islands,W2,2014-07,0.95
+A.& N. Islands,W2,2014-08,0.88
+A.& N. Islands,W2,2014-09,0.77
+A.& N. Islands,W2,2014-10,0.76
+A.& N. Islands,W2,2014-11,0.7
+A.& N. Islands,W2,2014-12,0.76
+A.& N. Islands,W2,2015-01,0.83
+A.& N. Islands,W2,2015-02,0.87
+A.& N. Islands,W2,2015-03,0.83
+A.& N. Islands,W3,2014-04,0.05
+A.& N. Islands,W3,2014-05,0.06
+A.& N. Islands,W3,2014-06,0.06
+A.& N. Islands,W3,2014-07,0.06
+A.& N. Islands,W3,2014-08,0.06
+A.& N. Islands,W3,2014-09,0.06
+A.& N. Islands,W3,2014-10,0.06
+A.& N. Islands,W3,2014-11,0.05
+A.& N. Islands,W3,2014-12,0.05
+A.& N. Islands,W3,2015-01,0.05
+A.& N. Islands,W3,2015-02,0.06
+A.& N. Islands,W3,2015-03,0.06
+A.& N. Islands,W4,2014-04,1.09
+A.& N. Islands,W4,2014-05,1.0
+A.& N. Islands,W4,2014-06,1.26
+A.& N. Islands,W4,2014-07,1.23
+A.& N. Islands,W4,2014-08,1.26
+A.& N. Islands,W4,2014-09,1.09
+A.& N. Islands,W4,2014-10,1.04
+A.& N. Islands,W4,2014-11,0.97
+A.& N. Islands,W4,2014-12,1.06
+A.& N. Islands,W4,2015-01,1.02
+A.& N. Islands,W4,2015-02,1.12
+A.& N. Islands,W4,2015-03,1.11
+A.& N. Islands,W5,2014-04,1.2
+A.& N. Islands,W5,2014-05,1.25
+A.& N. Islands,W5,2014-06,1.4
+A.& N. Islands,W5,2014-07,1.29
+A.& N. Islands,W5,2014-08,1.39
+A.& N. Islands,W5,2014-09,1.18
+A.& N. Islands,W5,2014-10,1.1
+A.& N. Islands,W5,2014-11,1.08
+A.& N. Islands,W5,2014-12,1.09
+A.& N. Islands,W5,2015-01,1.25
+A.& N. Islands,W5,2015-02,1.22
+A.& N. Islands,W5,2015-03,1.25
+A.& N. Islands,W6,2014-04,6.43
+A.& N. Islands,W6,2014-05,6.82
+A.& N. Islands,W6,2014-06,6.59
+A.& N. Islands,W6,2014-07,6.12
+A.& N. Islands,W6,2014-08,6.07
+A.& N. Islands,W6,2014-09,5.58
+A.& N. Islands,W6,2014-10,5.36
+A.& N. Islands,W6,2014-11,5.24
+A.& N. Islands,W6,2014-12,5.05
+A.& N. Islands,W6,2015-01,5.86
+A.& N. Islands,W6,2015-02,5.73
+A.& N. Islands,W6,2015-03,6.18
+A.& N. Islands,W7,2014-04,4.03
+A.& N. Islands,W7,2014-05,4.4
+A.& N. Islands,W7,2014-06,5.45
+A.& N. Islands,W7,2014-07,5.21
+A.& N. Islands,W7,2014-08,4.86
+A.& N. Islands,W7,2014-09,4.36
+A.& N. Islands,W7,2014-10,3.83
+A.& N. Islands,W7,2014-11,4.01
+A.& N. Islands,W7,2014-12,4.48
+A.& N. Islands,W7,2015-01,4.43
+A.& N. Islands,W7,2015-02,4.28
+A.& N. Islands,W7,2015-03,4.23
+A.& N. Islands,W8,2014-04,11.11
+A.& N. Islands,W8,2014-05,11.29
+A.& N. Islands,W8,2014-06,11.15
+A.& N. Islands,W8,2014-07,11.99
+A.& N. Islands,W8,2014-08,11.32
+A.& N. Islands,W8,2014-09,10.7
+A.& N. Islands,W8,2014-10,10.29
+A.& N. Islands,W8,2014-11,8.9
+A.& N. Islands,W8,2014-12,8.93
+A.& N. Islands,W8,2015-01,10.43
+A.& N. Islands,W8,2015-02,10.14
+A.& N. Islands,W8,2015-03,9.84
+A.& N. Islands,W9,2014-04,1.3
+A.& N. Islands,W9,2014-05,1.3
+A.& N. Islands,W9,2014-06,1.25
+A.& N. Islands,W9,2014-07,1.44
+A.& N. Islands,W9,2014-08,1.32
+A.& N. Islands,W9,2014-09,1.17
+A.& N. Islands,W9,2014-10,1.09
+A.& N. Islands,W9,2014-11,1.02
+A.& N. Islands,W9,2014-12,1.08
+A.& N. Islands,W9,2015-01,1.17
+A.& N. Islands,W9,2015-02,1.19
+A.& N. Islands,W9,2015-03,1.19
+A.& N. Islands,W10,2014-04,5.03
+A.& N. Islands,W10,2014-05,5.23
+A.& N. Islands,W10,2014-06,4.9
+A.& N. Islands,W10,2014-07,5.72
+A.& N. Islands,W10,2014-08,4.8
+A.& N. Islands,W10,2014-09,4.17
+A.& N. Islands,W10,2014-10,4.32
+A.& N. Islands,W10,2014-11,4.33
+A.& N. Islands,W10,2014-12,4.12
+A.& N. Islands,W10,2015-01,4.27
+A.& N. Islands,W10,2015-02,4.86
+A.& N. Islands,W10,2015-03,4.94
+Arunachal Pradesh,W1,2014-04,9.17
+Arunachal Pradesh,W1,2014-05,9.7
+Arunachal Pradesh,W1,2014-06,8.83
+Arunachal Pradesh,W1,2014-07,10.62
+Arunachal Pradesh,W1,2014-08,9.3
+Arunachal Pradesh,W1,2014-09,8.89
+Arunachal Pradesh,W1,2014-10,7.51
+Arunachal Pradesh,W1,2014-11,7.3
+Arunachal Pradesh,W1,2014-12,8.4
+Arunachal Pradesh,W1,2015-01,8.1
+Arunachal Pradesh,W1,2015-02,8.77
+Arunachal Pradesh,W1,2015-03,9.35
+Arunachal Pradesh,W2,2014-04,8.52
+Arunachal Pradesh,W2,2014-05,8.38
+Arunachal Pradesh,W2,2014-06,8.95
+Arunachal Pradesh,W2,2014-07,10.05
+Arunachal Pradesh,W2,2014-08,8.78
+Arunachal Pradesh,W2,2014-09,8.03
+Arunachal Pradesh,W2,2014-10,7.15
+Arunachal Pradesh,W2,2014-11,7.74
+Arunachal Pradesh,W2,2014-12,7.58
+Arunachal Pradesh,W2,2015-01,8.28
+Arunachal Pradesh,W2,2015-02,7.97
+Arunachal Pradesh,W2,2015-03,8.78
+Arunachal Pradesh,W3,2014-04,4.79
+Arunachal Pradesh,W3,2014-05,4.55
+Arunachal Pradesh,W3,2014-06,4.45
+Arunachal Pradesh,W3,2014-07,5.11
+Arunachal Pradesh,W3,2014-08,4.69
+Arunachal Pradesh,W3,2014-09,4.39
+Arunachal Pradesh,W3,2014-10,3.89
+Arunachal Pradesh,W3,2014-11,3.83
+Arunachal Pradesh,W3,2014-12,3.87
+Arunachal Pradesh,W3,2015-01,4.38
+Arunachal Pradesh,W3,2015-02,4.29
+Arunachal Pradesh,W3,2015-03,4.39
+Arunachal Pradesh,W4,2014-04,7.91
+Arunachal Pradesh,W4,2014-05,7.7
+Arunachal Pradesh,W4,2014-06,7.79
+Arunachal Pradesh,W4,2014-07,8.45
+Arunachal Pradesh,W4,2014-08,8.02
+Arunachal Pradesh,W4,2014-09,7.06
+Arunachal Pradesh,W4,2014-10,6.82
+Arunachal Pradesh,W4,2014-11,6.44
+Arunachal Pradesh,W4,2014-12,6.81
+Arunachal Pradesh,W4,2015-01,6.74
+Arunachal Pradesh,W4,2015-02,7.56
+Arunachal Pradesh,W4,2015-03,7.51
+Arunachal Pradesh,W5,2014-04,1.98
+Arunachal Pradesh,W5,2014-05,1.9
+Arunachal Pradesh,W5,2014-06,1.87
+Arunachal Pradesh,W5,2014-07,2.0
+Arunachal Pradesh,W5,2014-08,2.01
+Arunachal Pradesh,W5,2014-09,1.84
+Arunachal Pradesh,W5,2014-10,1.71
+Arunachal Pradesh,W5,2014-11,1.53
+Arunachal Pradesh,W5,2014-12,1.65
+Arunachal Pradesh,W5,2015-01,1.82
+Arunachal Pradesh,W5,2015-02,1.77
+Arunachal Pradesh,W5,2015-03,1.8
+Arunachal Pradesh,W6,2014-04,2.38
+Arunachal Pradesh,W6,2014-05,2.67
+Arunachal Pradesh,W6,2014-06,2.73
+Arunachal Pradesh,W6,2014-07,2.64
+Arunachal Pradesh,W6,2014-08,2.51
+Arunachal Pradesh,W6,2014-09,2.49
+Arunachal Pradesh,W6,2014-10,2.23
+Arunachal Pradesh,W6,2014-11,2.12
+Arunachal Pradesh,W6,2014-12,2.08
+Arunachal Pradesh,W6,2015-01,2.25
+Arunachal Pradesh,W6,2015-02,2.38
+Arunachal Pradesh,W6,2015-03,2.54
+Arunachal Pradesh,W7,2014-04,2.19
+Arunachal Pradesh,W7,2014-05,2.13
+Arunachal Pradesh,W7,2014-06,2.3
+Arunachal Pradesh,W7,2014-07,2.34
+Arunachal Pradesh,W7,2014-08,2.13
+Arunachal Pradesh,W7,2014-09,1.97
+Arunachal Pradesh,W7,2014-10,1.87
+Arunachal Pradesh,W7,2014-11,1.89
+Arunachal Pradesh,W7,2014-12,1.76
+Arunachal Pradesh,W7,2015-01,1.89
+Arunachal Pradesh,W7,2015-02,2.11
+Arunachal Pradesh,W7,2015-03,1.97
+Arunachal Pradesh,W8,2014-04,7.98
+Arunachal Pradesh,W8,2014-05,8.25
+Arunachal Pradesh,W8,2014-06,8.0
+Arunachal Pradesh,W8,2014-07,8.42
+Arunachal Pradesh,W8,2014-08,7.78
+Arunachal Pradesh,W8,2014-09,7.34
+Arunachal Pradesh,W8,2014-10,7.26
+Arunachal Pradesh,W8,2014-11,5.97
+Arunachal Pradesh,W8,2014-12,7.28
+Arunachal Pradesh,W8,2015-01,6.97
+Arunachal Pradesh,W8,2015-02,7.47
+Arunachal Pradesh,W8,2015-03,8.14
+Arunachal Pradesh,W9,2014-04,0.6
+Arunachal Pradesh,W9,2014-05,0.59
+Arunachal Pradesh,W9,2014-06,0.54
+Arunachal Pradesh,W9,2014-07,0.64
+Arunachal Pradesh,W9,2014-08,0.59
+Arunachal Pradesh,W9,2014-09,0.51
+Arunachal Pradesh,W9,2014-10,0.52
+Arunachal Pradesh,W9,2014-11,0.46
+Arunachal Pradesh,W9,2014-12,0.47
+Arunachal Pradesh,W9,2015-01,0.51
+Arunachal Pradesh,W9,2015-02,0.56
+Arunachal Pradesh,W9,2015-03,0.57
+Arunachal Pradesh,W10,2014-04,0.3
+Arunachal Pradesh,W10,2014-05,0.27
+Arunachal Pradesh,W10,2014-06,0.3
+Arunachal Pradesh,W10,2014-07,0.28
+Arunachal Pradesh,W10,2014-08,0.3
+Arunachal Pradesh,W10,2014-09,0.25
+Arunachal Pradesh,W10,2014-10,0.26
+Arunachal Pradesh,W10,2014-11,0.22
+Arunachal Pradesh,W10,2014-12,0.25
+Arunachal Pradesh,W10,2015-01,0.25
+Arunachal Pradesh,W10,2015-02,0.25
+Arunachal Pradesh,W10,2015-03,0.27
+Assam,W1,2014-04,10.04
+Assam,W1,2014-05,9.35
+Assam,W1,2014-06,10.34
+Assam,W1,2014-07,9.91
+Assam,W1,2014-08,9.37
+Assam,W1,2014-09,8.67
+Assam,W1,2014-10,9.06
+Assam,W1,2014-11,7.79
+Assam,W1,2014-12,7.31
+Assam,W1,2015-01,9.57
+Assam,W1,2015-02,9.14
+Assam,W1,2015-03,9.3
+Assam,W2,2014-04,1.68
+Assam,W2,2014-05,1.91
+Assam,W2,2014-06,1.81
+Assam,W2,2014-07,1.98
+Assam,W2,2014-08,1.82
+Assam,W2,2014-09,1.51
+Assam,W2,2014-10,1.58
+Assam,W2,2014-11,1.59
+Assam,W2,2014-12,1.61
+Assam,W2,2015-01,1.58
+Assam,W2,2015-02,1.6
+Assam,W2,2015-03,1.71
+Assam,W3,2014-04,1.92
+Assam,W3,2014-05,1.93
+Assam,W3,2014-06,1.97
+Assam,W3,2014-07,1.87
+Assam,W3,2014-08,1.95
+Assam,W3,2014-09,1.77
+Assam,W3,2014-10,1.68
+Assam,W3,2014-11,1.5
+Assam,W3,2014-12,1.56
+Assam,W3,2015-01,1.8
+Assam,W3,2015-02,1.83
+Assam,W3,2015-03,1.8
+Assam,W4,2014-04,1.59
+Assam,W4,2014-05,1.63
+Assam,W4,2014-06,1.65
+Assam,W4,2014-07,1.77
+Assam,W4,2014-08,1.68
+Assam,W4,2014-09,1.55
+Assam,W4,2014-10,1.35
+Assam,W4,2014-11,1.42
+Assam,W4,2014-12,1.36
+Assam,W4,2015-01,1.54
+Assam,W4,2015-02,1.51
+Assam,W4,2015-03,1.67
+Assam,W5,2014-04,3.03
+Assam,W5,2014-05,3.05
+Assam,W5,2014-06,3.32
+Assam,W5,2014-07,3.42
+Assam,W5,2014-08,3.05
+Assam,W5,2014-09,2.53
+Assam,W5,2014-10,2.85
+Assam,W5,2014-11,2.59
+Assam,W5,2014-12,2.66
+Assam,W5,2015-01,2.98
+Assam,W5,2015-02,2.7
+Assam,W5,2015-03,2.94
+Assam,W6,2014-04,0.08
+Assam,W6,2014-05,0.07
+Assam,W6,2014-06,0.08
+Assam,W6,2014-07,0.08
+Assam,W6,2014-08,0.08
+Assam,W6,2014-09,0.07
+Assam,W6,2014-10,0.07
+Assam,W6,2014-11,0.07
+Assam,W6,2014-12,0.06
+Assam,W6,2015-01,0.07
+Assam,W6,2015-02,0.07
+Assam,W6,2015-03,0.08
+Assam,W7,2014-04,2.67
+Assam,W7,2014-05,2.63
+Assam,W7,2014-06,2.86
+Assam,W7,2014-07,3.19
+Assam,W7,2014-08,3.1
+Assam,W7,2014-09,2.47
+Assam,W7,2014-10,2.67
+Assam,W7,2014-11,2.39
+Assam,W7,2014-12,2.23
+Assam,W7,2015-01,2.47
+Assam,W7,2015-02,2.56
+Assam,W7,2015-03,2.61
+Assam,W8,2014-04,4.8
+Assam,W8,2014-05,4.56
+Assam,W8,2014-06,5.02
+Assam,W8,2014-07,4.97
+Assam,W8,2014-08,4.37
+Assam,W8,2014-09,4.15
+Assam,W8,2014-10,4.07
+Assam,W8,2014-11,3.99
+Assam,W8,2014-12,4.11
+Assam,W8,2015-01,3.9
+Assam,W8,2015-02,3.9
+Assam,W8,2015-03,4.39
+Assam,W9,2014-04,0.93
+Assam,W9,2014-05,0.96
+Assam,W9,2014-06,1.02
+Assam,W9,2014-07,1.08
+Assam,W9,2014-08,0.88
+Assam,W9,2014-09,0.84
+Assam,W9,2014-10,0.87
+Assam,W9,2014-11,0.9
+Assam,W9,2014-12,0.87
+Assam,W9,2015-01,0.9
+Assam,W9,2015-02,0.91
+Assam,W9,2015-03,0.97
+Assam,W10,2014-04,0.84
+Assam,W10,2014-05,0.86
+Assam,W10,2014-06,0.86
+Assam,W10,2014-07,0.95
+Assam,W10,2014-08,0.86
+Assam,W10,2014-09,0.82
+Assam,W10,2014-10,0.81
+Assam,W10,2014-11,0.69
+Assam,W10,2014-12,0.72
+Assam,W10,2015-01,0.79
+Assam,W10,2015-02,0.75
+Assam,W10,2015-03,0.87
+Manipur,W1,2014-04,0.08
+Manipur,W1,2014-05,0.08
+Manipur,W1,2014-06,0.08
+Manipur,W1,2014-07,0.09
+Manipur,W1,2014-08,0.08
+Manipur,W1,2014-09,0.07
+Manipur,W1,2014-10,0.08
+Manipur,W1,2014-11,0.07
+Manipur,W1,2014-12,0.07
+Manipur,W1,2015-01,0.08
+Manipur,W1,2015-02,0.07
+Manipur,W1,2015-03,0.08
+Manipur,W2,2014-04,2.35
+Manipur,W2,2014-05,2.31
+Manipur,W2,2014-06,2.64
+Manipur,W2,2014-07,2.31
+Manipur,W2,2014-08,2.49
+Manipur,W2,2014-09,2.22
+Manipur,W2,2014-10,2.15
+Manipur,W2,2014-11,1.92
+Manipur,W2,2014-12,1.97
+Manipur,W2,2015-01,2.48
+Manipur,W2,2015-02,2.17
+Manipur,W2,2015-03,2.37
+Manipur,W3,2014-04,0.67
+Manipur,W3,2014-05,0.74
+Manipur,W3,2014-06,0.71
+Manipur,W3,2014-07,0.74
+Manipur,W3,2014-08,0.74
+Manipur,W3,2014-09,0.72
+Manipur,W3,2014-10,0.63
+Manipur,W3,2014-11,0.65
+Manipur,W3,2014-12,0.61
+Manipur,W3,2015-01,0.64
+Manipur,W3,2015-02,0.65
+Manipur,W3,2015-03,0.67
+Manipur,W4,2014-04,3.06
+Manipur,W4,2014-05,3.34
+Manipur,W4,2014-06,3.41
+Manipur,W4,2014-07,3.84
+Manipur,W4,2014-08,3.66
+Manipur,W4,2014-09,2.91
+Manipur,W4,2014-10,2.99
+Manipur,W4,2014-11,2.7
+Manipur,W4,2014-12,2.93
+Manipur,W4,2015-01,3.33
+Manipur,W4,2015-02,3.13
+Manipur,W4,2015-03,3.38
+Manipur,W5,2014-04,3.06
+Manipur,W5,2014-05,3.28
+Manipur,W5,2014-06,3.1
+Manipur,W5,2014-07,3.73
+Manipur,W5,2014-08,3.51
+Manipur,W5,2014-09,3.12
+Manipur,W5,2014-10,2.94
+Manipur,W5,2014-11,2.56
+Manipur,W5,2014-12,2.84
+Manipur,W5,2015-01,2.84
+Manipur,W5,2015-02,2.98
+Manipur,W5,2015-03,3.01
+Manipur,W6,2014-04,3.98
+Manipur,W6,2014-05,4.03
+Manipur,W6,2014-06,3.97
+Manipur,W6,2014-07,4.42
+Manipur,W6,2014-08,4.31
+Manipur,W6,2014-09,3.76
+Manipur,W6,2014-10,3.36
+Manipur,W6,2014-11,3.4
+Manipur,W6,2014-12,3.7
+Manipur,W6,2015-01,3.6
+Manipur,W6,2015-02,4.0
+Manipur,W6,2015-03,3.85
+Manipur,W7,2014-04,0.53
+Manipur,W7,2014-05,0.58
+Manipur,W7,2014-06,0.54
+Manipur,W7,2014-07,0.6
+Manipur,W7,2014-08,0.59
+Manipur,W7,2014-09,0.5
+Manipur,W7,2014-10,0.47
+Manipur,W7,2014-11,0.46
+Manipur,W7,2014-12,0.46
+Manipur,W7,2015-01,0.5
+Manipur,W7,2015-02,0.53
+Manipur,W7,2015-03,0.61
+Manipur,W8,2014-04,4.83
+Manipur,W8,2014-05,5.02
+Manipur,W8,2014-06,5.14
+Manipur,W8,2014-07,5.06
+Manipur,W8,2014-08,4.99
+Manipur,W8,2014-09,4.15
+Manipur,W8,2014-10,4.49
+Manipur,W8,2014-11,4.16
+Manipur,W8,2014-12,3.49
+Manipur,W8,2015-01,3.98
+Manipur,W8,2015-02,4.4
+Manipur,W8,2015-03,4.46
+Manipur,W9,2014-04,6.61
+Manipur,W9,2014-05,5.41
+Manipur,W9,2014-06,6.31
+Manipur,W9,2014-07,7.15
+Manipur,W9,2014-08,6.17
+Manipur,W9,2014-09,6.35
+Manipur,W9,2014-10,5.57
+Manipur,W9,2014-11,5.5
+Manipur,W9,2014-12,5.6
+Manipur,W9,2015-01,5.76
+Manipur,W9,2015-02,6.23
+Manipur,W9,2015-03,6.22
+Manipur,W10,2014-04,0.42
+Manipur,W10,2014-05,0.44
+Manipur,W10,2014-06,0.45
+Manipur,W10,2014-07,0.46
+Manipur,W10,2014-08,0.45
+Manipur,W10,2014-09,0.38
+Manipur,W10,2014-10,0.39
+Manipur,W10,2014-11,0.37
+Manipur,W10,2014-12,0.39
+Manipur,W10,2015-01,0.38
+Manipur,W10,2015-02,0.39
+Manipur,W10,2015-03,0.42
+Meghalaya,W1,2014-04,9.11
+Meghalaya,W1,2014-05,10.17
+Meghalaya,W1,2014-06,9.64
+Meghalaya,W1,2014-07,10.07
+Meghalaya,W1,2014-08,9.46
+Meghalaya,W1,2014-09,9.28
+Meghalaya,W1,2014-10,8.57
+Meghalaya,W1,2014-11,8.0
+Meghalaya,W1,2014-12,8.06
+Meghalaya,W1,2015-01,9.14
+Meghalaya,W1,2015-02,8.94
+Meghalaya,W1,2015-03,9.31
+Meghalaya,W2,2014-04,8.91
+Meghalaya,W2,2014-05,9.31
+Meghalaya,W2,2014-06,9.29
+Meghalaya,W2,2014-07,10.13
+Meghalaya,W2,2014-08,9.61
+Meghalaya,W2,2014-09,8.7
+Meghalaya,W2,2014-10,7.78
+Meghalaya,W2,2014-11,7.28
+Meghalaya,W2,2014-12,8.13
+Meghalaya,W2,2015-01,8.38
+Meghalaya,W2,2015-02,8.42
+Meghalaya,W2,2015-03,8.74
+Meghalaya,W3,2014-04,1.93
+Meghalaya,W3,2014-05,2.16
+Meghalaya,W3,2014-06,1.98
+Meghalaya,W3,2014-07,2.31
+Meghalaya,W3,2014-08,2.11
+Meghalaya,W3,2014-09,1.9
+Meghalaya,W3,2014-10,1.76
+Meghalaya,W3,2014-11,1.82
+Meghalaya,W3,2014-12,1.74
+Meghalaya,W3,2015-01,1.86
+Meghalaya,W3,2015-02,1.97
+Meghalaya,W3,2015-03,1.89
+Meghalaya,W4,2014-04,2.39
+Meghalaya,W4,2014-05,2.4
+Meghalaya,W4,2014-06,2.58
+Meghalaya,W4,2014-07,2.58
+Meghalaya,W4,2014-08,2.58
+Meghalaya,W4,2014-09,2.29
+Meghalaya,W4,2014-10,2.07
+Meghalaya,W4,2014-11,1.91
+Meghalaya,W4,2014-12,2.17
+Meghalaya,W4,2015-01,2.32
+Meghalaya,W4,2015-02,2.3
+Meghalaya,W4,2015-03,2.3
+Meghalaya,W5,2014-04,8.17
+Meghalaya,W5,2014-05,8.68
+Meghalaya,W5,2014-06,9.58
+Meghalaya,W5,2014-07,8.8
+Meghalaya,W5,2014-08,8.02
+Meghalaya,W5,2014-09,7.44
+Meghalaya,W5,2014-10,7.85
+Meghalaya,W5,2014-11,6.76
+Meghalaya,W5,2014-12,6.97
+Meghalaya,W5,2015-01,7.94
+Meghalaya,W5,2015-02,7.88
+Meghalaya,W5,2015-03,8.0
+Meghalaya,W6,2014-04,11.52
+Meghalaya,W6,2014-05,11.26
+Meghalaya,W6,2014-06,12.99
+Meghalaya,W6,2014-07,12.45
+Meghalaya,W6,2014-08,11.89
+Meghalaya,W6,2014-09,11.1
+Meghalaya,W6,2014-10,9.54
+Meghalaya,W6,2014-11,9.03
+Meghalaya,W6,2014-12,10.2
+Meghalaya,W6,2015-01,10.34
+Meghalaya,W6,2015-02,10.91
+Meghalaya,W6,2015-03,11.34
+Meghalaya,W7,2014-04,6.42
+Meghalaya,W7,2014-05,6.19
+Meghalaya,W7,2014-06,6.35
+Meghalaya,W7,2014-07,6.85
+Meghalaya,W7,2014-08,6.25
+Meghalaya,W7,2014-09,5.65
+Meghalaya,W7,2014-10,5.48
+Meghalaya,W7,2014-11,5.72
+Meghalaya,W7,2014-12,5.19
+Meghalaya,W7,2015-01,5.88
+Meghalaya,W7,2015-02,5.69
+Meghalaya,W7,2015-03,6.31
+Meghalaya,W8,2014-04,2.94
+Meghalaya,W8,2014-05,2.97
+Meghalaya,W8,2014-06,3.13
+Meghalaya,W8,2014-07,3.59
+Meghalaya,W8,2014-08,3.11
+Meghalaya,W8,2014-09,2.89
+Meghalaya,W8,2014-10,2.55
+Meghalaya,W8,2014-11,2.66
+Meghalaya,W8,2014-12,2.8
+Meghalaya,W8,2015-01,2.73
+Meghalaya,W8,2015-02,2.9
+Meghalaya,W8,2015-03,3.05
+Meghalaya,W9,2014-04,3.42
+Meghalaya,W9,2014-05,3.9
+Meghalaya,W9,2014-06,3.9
+Meghalaya,W9,2014-07,3.67
+Meghalaya,W9,2014-08,3.62
+Meghalaya,W9,2014-09,3.63
+Meghalaya,W9,2014-10,3.36
+Meghalaya,W9,2014-11,3.08
+Meghalaya,W9,2014-12,3.23
+Meghalaya,W9,2015-01,3.19
+Meghalaya,W9,2015-02,3.46
+Meghalaya,W9,2015-03,3.53
+Meghalaya,W10,2014-04,4.97
+Meghalaya,W10,2014-05,4.44
+Meghalaya,W10,2014-06,5.22
+Meghalaya,W10,2014-07,4.71
+Meghalaya,W10,2014-08,4.79
+Meghalaya,W10,2014-09,4.46
+Meghalaya,W10,2014-10,4.28
+Meghalaya,W10,2014-11,4.13
+Meghalaya,W10,2014-12,3.96
+Meghalaya,W10,2015-01,3.97
+Meghalaya,W10,2015-02,4.53
+Meghalaya,W10,2015-03,4.16
+Mizoram,W1,2014-04,4.06
+Mizoram,W1,2014-05,4.6
+Mizoram,W1,2014-06,4.45
+Mizoram,W1,2014-07,4.51
+Mizoram,W1,2014-08,4.75
+Mizoram,W1,2014-09,4.22
+Mizoram,W1,2014-10,3.61
+Mizoram,W1,2014-11,3.93
+Mizoram,W1,2014-12,4.23
+Mizoram,W1,2015-01,3.8
+Mizoram,W1,2015-02,4.54
+Mizoram,W1,2015-03,4.39
+Mizoram,W2,2014-04,1.12
+Mizoram,W2,2014-05,1.09
+Mizoram,W2,2014-06,1.08
+Mizoram,W2,2014-07,1.09
+Mizoram,W2,2014-08,1.04
+Mizoram,W2,2014-09,0.9
+Mizoram,W2,2014-10,0.97
+Mizoram,W2,2014-11,0.84
+Mizoram,W2,2014-12,0.85
+Mizoram,W2,2015-01,0.92
+Mizoram,W2,2015-02,1.04
+Mizoram,W2,2015-03,1.08
+Mizoram,W3,2014-04,0.84
+Mizoram,W3,2014-05,0.89
+Mizoram,W3,2014-06,0.88
+Mizoram,W3,2014-07,0.99
+Mizoram,W3,2014-08,0.88
+Mizoram,W3,2014-09,0.81
+Mizoram,W3,2014-10,0.81
+Mizoram,W3,2014-11,0.77
+Mizoram,W3,2014-12,0.76
+Mizoram,W3,2015-01,0.83
+Mizoram,W3,2015-02,0.8
+Mizoram,W3,2015-03,0.87
+Mizoram,W4,2014-04,17.46
+Mizoram,W4,2014-05,16.59
+Mizoram,W4,2014-06,18.19
+Mizoram,W4,2014-07,18.98
+Mizoram,W4,2014-08,19.4
+Mizoram,W4,2014-09,18.24
+Mizoram,W4,2014-10,15.23
+Mizoram,W4,2014-11,14.62
+Mizoram,W4,2014-12,16.4
+Mizoram,W4,2015-01,15.32
+Mizoram,W4,2015-02,17.94
+Mizoram,W4,2015-03,17.88
+Mizoram,W5,2014-04,4.81
+Mizoram,W5,2014-05,5.25
+Mizoram,W5,2014-06,6.14
+Mizoram,W5,2014-07,5.96
+Mizoram,W5,2014-08,5.67
+Mizoram,W5,2014-09,4.86
+Mizoram,W5,2014-10,5.12
+Mizoram,W5,2014-11,4.95
+Mizoram,W5,2014-12,4.79
+Mizoram,W5,2015-01,4.79
+Mizoram,W5,2015-02,5.32
+Mizoram,W5,2015-03,5.72
+Mizoram,W6,2014-04,1.42
+Mizoram,W6,2014-05,1.54
+Mizoram,W6,2014-06,1.47
+Mizoram,W6,2014-07,1.54
+Mizoram,W6,2014-08,1.64
+Mizoram,W6,2014-09,1.39
+Mizoram,W6,2014-10,1.47
+Mizoram,W6,2014-11,1.19
+Mizoram,W6,2014-12,1.41
+Mizoram,W6,2015-01,1.46
+Mizoram,W6,2015-02,1.32
+Mizoram,W6,2015-03,1.46
+Mizoram,W7,2014-04,1.71
+Mizoram,W7,2014-05,1.71
+Mizoram,W7,2014-06,1.81
+Mizoram,W7,2014-07,1.74
+Mizoram,W7,2014-08,1.84
+Mizoram,W7,2014-09,1.63
+Mizoram,W7,2014-10,1.49
+Mizoram,W7,2014-11,1.38
+Mizoram,W7,2014-12,1.5
+Mizoram,W7,2015-01,1.5
+Mizoram,W7,2015-02,1.61
+Mizoram,W7,2015-03,1.67
+Mizoram,W8,2014-04,2.82
+Mizoram,W8,2014-05,3.12
+Mizoram,W8,2014-06,2.99
+Mizoram,W8,2014-07,3.52
+Mizoram,W8,2014-08,3.23
+Mizoram,W8,2014-09,2.95
+Mizoram,W8,2014-10,2.77
+Mizoram,W8,2014-11,2.32
+Mizoram,W8,2014-12,2.75
+Mizoram,W8,2015-01,2.52
+Mizoram,W8,2015-02,2.74
+Mizoram,W8,2015-03,3.03
+Mizoram,W9,2014-04,1.52
+Mizoram,W9,2014-05,1.54
+Mizoram,W9,2014-06,1.73
+Mizoram,W9,2014-07,1.81
+Mizoram,W9,2014-08,1.63
+Mizoram,W9,2014-09,1.56
+Mizoram,W9,2014-10,1.49
+Mizoram,W9,2014-11,1.52
+Mizoram,W9,2014-12,1.41
+Mizoram,W9,2015-01,1.41
+Mizoram,W9,2015-02,1.44
+Mizoram,W9,2015-03,1.48
+Mizoram,W10,2014-04,1.67
+Mizoram,W10,2014-05,1.69
+Mizoram,W10,2014-06,1.64
+Mizoram,W10,2014-07,1.87
+Mizoram,W10,2014-08,1.72
+Mizoram,W10,2014-09,1.6
+Mizoram,W10,2014-10,1.36
+Mizoram,W10,2014-11,1.37
+Mizoram,W10,2014-12,1.44
+Mizoram,W10,2015-01,1.42
+Mizoram,W10,2015-02,1.36
+Mizoram,W10,2015-03,1.68
+Nagaland,W1,2014-04,1.92
+Nagaland,W1,2014-05,1.7
+Nagaland,W1,2014-06,1.9
+Nagaland,W1,2014-07,1.81
+Nagaland,W1,2014-08,1.81
+Nagaland,W1,2014-09,1.77
+Nagaland,W1,2014-10,1.57
+Nagaland,W1,2014-11,1.64
+Nagaland,W1,2014-12,1.57
+Nagaland,W1,2015-01,1.71
+Nagaland,W1,2015-02,1.75
+Nagaland,W1,2015-03,1.75
+Nagaland,W2,2014-04,4.91
+Nagaland,W2,2014-05,4.28
+Nagaland,W2,2014-06,4.85
+Nagaland,W2,2014-07,4.66
+Nagaland,W2,2014-08,4.32
+Nagaland,W2,2014-09,4.05
+Nagaland,W2,2014-10,3.72
+Nagaland,W2,2014-11,3.57
+Nagaland,W2,2014-12,4.32
+Nagaland,W2,2015-01,4.33
+Nagaland,W2,2015-02,4.34
+Nagaland,W2,2015-03,4.34
+Nagaland,W3,2014-04,0.96
+Nagaland,W3,2014-05,0.95
+Nagaland,W3,2014-06,1.05
+Nagaland,W3,2014-07,1.11
+Nagaland,W3,2014-08,0.98
+Nagaland,W3,2014-09,0.9
+Nagaland,W3,2014-10,0.87
+Nagaland,W3,2014-11,0.79
+Nagaland,W3,2014-12,0.83
+Nagaland,W3,2015-01,0.85
+Nagaland,W3,2015-02,0.9
+Nagaland,W3,2015-03,0.98
+Nagaland,W4,2014-04,4.83
+Nagaland,W4,2014-05,5.5
+Nagaland,W4,2014-06,5.24
+Nagaland,W4,2014-07,5.51
+Nagaland,W4,2014-08,5.57
+Nagaland,W4,2014-09,4.81
+Nagaland,W4,2014-10,4.44
+Nagaland,W4,2014-11,4.1
+Nagaland,W4,2014-12,4.53
+Nagaland,W4,2015-01,4.92
+Nagaland,W4,2015-02,4.89
+Nagaland,W4,2015-03,5.72
+Nagaland,W5,2014-04,2.46
+Nagaland,W5,2014-05,2.52
+Nagaland,W5,2014-06,2.6
+Nagaland,W5,2014-07,2.66
+Nagaland,W5,2014-08,2.59
+Nagaland,W5,2014-09,2.31
+Nagaland,W5,2014-10,2.04
+Nagaland,W5,2014-11,2.03
+Nagaland,W5,2014-12,2.13
+Nagaland,W5,2015-01,2.32
+Nagaland,W5,2015-02,2.43
+Nagaland,W5,2015-03,2.58
+Nagaland,W6,2014-04,2.35
+Nagaland,W6,2014-05,1.92
+Nagaland,W6,2014-06,2.17
+Nagaland,W6,2014-07,2.42
+Nagaland,W6,2014-08,1.95
+Nagaland,W6,2014-09,2.28
+Nagaland,W6,2014-10,1.92
+Nagaland,W6,2014-11,1.65
+Nagaland,W6,2014-12,1.93
+Nagaland,W6,2015-01,1.85
+Nagaland,W6,2015-02,2.03
+Nagaland,W6,2015-03,2.11
+Nagaland,W7,2014-04,0.43
+Nagaland,W7,2014-05,0.42
+Nagaland,W7,2014-06,0.48
+Nagaland,W7,2014-07,0.48
+Nagaland,W7,2014-08,0.45
+Nagaland,W7,2014-09,0.38
+Nagaland,W7,2014-10,0.37
+Nagaland,W7,2014-11,0.35
+Nagaland,W7,2014-12,0.36
+Nagaland,W7,2015-01,0.41
+Nagaland,W7,2015-02,0.42
+Nagaland,W7,2015-03,0.47
+Nagaland,W8,2014-04,0.5
+Nagaland,W8,2014-05,0.5
+Nagaland,W8,2014-06,0.52
+Nagaland,W8,2014-07,0.52
+Nagaland,W8,2014-08,0.55
+Nagaland,W8,2014-09,0.49
+Nagaland,W8,2014-10,0.47
+Nagaland,W8,2014-11,0.44
+Nagaland,W8,2014-12,0.42
+Nagaland,W8,2015-01,0.5
+Nagaland,W8,2015-02,0.48
+Nagaland,W8,2015-03,0.47
+Nagaland,W9,2014-04,5.02
+Nagaland,W9,2014-05,5.16
+Nagaland,W9,2014-06,5.35
+Nagaland,W9,2014-07,5.83
+Nagaland,W9,2014-08,5.41
+Nagaland,W9,2014-09,5.13
+Nagaland,W9,2014-10,4.7
+Nagaland,W9,2014-11,4.2
+Nagaland,W9,2014-12,4.11
+Nagaland,W9,2015-01,4.56
+Nagaland,W9,2015-02,5.2
+Nagaland,W9,2015-03,5.62
+Nagaland,W10,2014-04,3.36
+Nagaland,W10,2014-05,3.3
+Nagaland,W10,2014-06,3.27
+Nagaland,W10,2014-07,3.77
+Nagaland,W10,2014-08,3.85
+Nagaland,W10,2014-09,3.12
+Nagaland,W10,2014-10,2.87
+Nagaland,W10,2014-11,2.81
+Nagaland,W10,2014-12,2.76
+Nagaland,W10,2015-01,3.12
+Nagaland,W10,2015-02,3.18
+Nagaland,W10,2015-03,3.59
+Tripura,W1,2014-04,1.05
+Tripura,W1,2014-05,1.08
+Tripura,W1,2014-06,0.98
+Tripura,W1,2014-07,1.18
+Tripura,W1,2014-08,1.1
+Tripura,W1,2014-09,1.07
+Tripura,W1,2014-10,1.05
+Tripura,W1,2014-11,0.92
+Tripura,W1,2014-12,0.92
+Tripura,W1,2015-01,1.0
+Tripura,W1,2015-02,1.13
+Tripura,W1,2015-03,1.01
+Tripura,W2,2014-04,1.22
+Tripura,W2,2014-05,1.22
+Tripura,W2,2014-06,1.3
+Tripura,W2,2014-07,1.5
+Tripura,W2,2014-08,1.3
+Tripura,W2,2014-09,1.33
+Tripura,W2,2014-10,1.07
+Tripura,W2,2014-11,1.03
+Tripura,W2,2014-12,1.08
+Tripura,W2,2015-01,1.16
+Tripura,W2,2015-02,1.22
+Tripura,W2,2015-03,1.17
+Tripura,W3,2014-04,2.69
+Tripura,W3,2014-05,3.0
+Tripura,W3,2014-06,3.13
+Tripura,W3,2014-07,3.05
+Tripura,W3,2014-08,3.05
+Tripura,W3,2014-09,2.79
+Tripura,W3,2014-10,2.64
+Tripura,W3,2014-11,2.31
+Tripura,W3,2014-12,2.45
+Tripura,W3,2015-01,2.57
+Tripura,W3,2015-02,2.64
+Tripura,W3,2015-03,2.72
+Tripura,W4,2014-04,0.73
+Tripura,W4,2014-05,0.76
+Tripura,W4,2014-06,0.83
+Tripura,W4,2014-07,0.89
+Tripura,W4,2014-08,0.83
+Tripura,W4,2014-09,0.73
+Tripura,W4,2014-10,0.72
+Tripura,W4,2014-11,0.61
+Tripura,W4,2014-12,0.69
+Tripura,W4,2015-01,0.7
+Tripura,W4,2015-02,0.74
+Tripura,W4,2015-03,0.79
+Tripura,W5,2014-04,2.77
+Tripura,W5,2014-05,2.91
+Tripura,W5,2014-06,3.16
+Tripura,W5,2014-07,3.0
+Tripura,W5,2014-08,2.97
+Tripura,W5,2014-09,2.66
+Tripura,W5,2014-10,2.61
+Tripura,W5,2014-11,2.33
+Tripura,W5,2014-12,2.62
+Tripura,W5,2015-01,2.71
+Tripura,W5,2015-02,2.59
+Tripura,W5,2015-03,2.84
+Tripura,W6,2014-04,0.18
+Tripura,W6,2014-05,0.2
+Tripura,W6,2014-06,0.2
+Tripura,W6,2014-07,0.18
+Tripura,W6,2014-08,0.18
+Tripura,W6,2014-09,0.18
+Tripura,W6,2014-10,0.14
+Tripura,W6,2014-11,0.16
+Tripura,W6,2014-12,0.15
+Tripura,W6,2015-01,0.16
+Tripura,W6,2015-02,0.17
+Tripura,W6,2015-03,0.18
+Tripura,W7,2014-04,3.47
+Tripura,W7,2014-05,3.57
+Tripura,W7,2014-06,3.57
+Tripura,W7,2014-07,3.94
+Tripura,W7,2014-08,3.73
+Tripura,W7,2014-09,3.16
+Tripura,W7,2014-10,3.02
+Tripura,W7,2014-11,2.68
+Tripura,W7,2014-12,3.02
+Tripura,W7,2015-01,2.92
+Tripura,W7,2015-02,3.35
+Tripura,W7,2015-03,3.3
+Tripura,W8,2014-04,1.35
+Tripura,W8,2014-05,1.33
+Tripura,W8,2014-06,1.38
+Tripura,W8,2014-07,1.42
+Tripura,W8,2014-08,1.29
+Tripura,W8,2014-09,1.13
+Tripura,W8,2014-10,1.15
+Tripura,W8,2014-11,1.11
+Tripura,W8,2014-12,1.06
+Tripura,W8,2015-01,1.22
+Tripura,W8,2015-02,1.19
+Tripura,W8,2015-03,1.3
+Tripura,W9,2014-04,6.17
+Tripura,W9,2014-05,7.86
+Tripura,W9,2014-06,7.69
+Tripura,W9,2014-07,7.45
+Tripura,W9,2014-08,7.88
+Tripura,W9,2014-09,7.03
+Tripura,W9,2014-10,5.93
+Tripura,W9,2014-11,5.87
+Tripura,W9,2014-12,5.55
+Tripura,W9,2015-01,6.46
+Tripura,W9,2015-02,6.66
+Tripura,W9,2015-03,7.36
+Tripura,W10,2014-04,5.24
+Tripura,W10,2014-05,5.25
+Tripura,W10,2014-06,5.48
+Tripura,W10,2014-07,5.46
+Tripura,W10,2014-08,5.69
+Tripura,W10,2014-09,4.49
+Tripura,W10,2014-10,4.51
+Tripura,W10,2014-11,4.74
+Tripura,W10,2014-12,4.69
+Tripura,W10,2015-01,5.27
+Tripura,W10,2015-02,4.94
+Tripura,W10,2015-03,5.42
+Total All India,W1,2014-04,24.94
+Total All India,W1,2014-05,26.17
+Total All India,W1,2014-06,26.01
+Total All India,W1,2014-07,26.01
+Total All India,W1,2014-08,29.61
+Total All India,W1,2014-09,24.08
+Total All India,W1,2014-10,22.41
+Total All India,W1,2014-11,21.69
+Total All India,W1,2014-12,23.07
+Total All India,W1,2015-01,23.16
+Total All India,W1,2015-02,22.66
+Total All India,W1,2015-03,20.96
+Total All India,W2,2014-04,3.01
+Total All India,W2,2014-05,2.92
+Total All India,W2,2014-06,3.24
+Total All India,W2,2014-07,3.35
+Total All India,W2,2014-08,3.06
+Total All India,W2,2014-09,2.85
+Total All India,W2,2014-10,2.8
+Total All India,W2,2014-11,2.66
+Total All India,W2,2014-12,2.62
+Total All India,W2,2015-01,2.73
+Total All India,W2,2015-02,2.66
+Total All India,W2,2015-03,3.05
+Total All India,W3,2014-04,8.95
+Total All India,W3,2014-05,10.28
+Total All India,W3,2014-06,10.05
+Total All India,W3,2014-07,10.26
+Total All India,W3,2014-08,10.34
+Total All India,W3,2014-09,8.4
+Total All India,W3,2014-10,9.13
+Total All India,W3,2014-11,7.57
+Total All India,W3,2014-12,8.12
+Total All India,W3,2015-01,8.05
+Total All India,W3,2015-02,8.77
+Total All India,W3,2015-03,9.08
+Total All India,W4,2014-04,9.55
+Total All India,W4,2014-05,9.94
+Total All India,W4,2014-06,10.61
+Total All India,W4,2014-07,11.27
+Total All India,W4,2014-08,9.53
+Total All India,W4,2014-09,9.55
+Total All India,W4,2014-10,8.14
+Total All India,W4,2014-11,8.09
+Total All India,W4,2014-12,8.73
+Total All India,W4,2015-01,8.61
+Total All India,W4,2015-02,8.58
+Total All India,W4,2015-03,9.96
+Total All India,W5,2014-04,16.92
+Total All India,W5,2014-05,17.66
+Total All India,W5,2014-06,16.17
+Total All India,W5,2014-07,18.07
+Total All India,W5,2014-08,15.9
+Total All India,W5,2014-09,14.15
+Total All India,W5,2014-10,14.3
+Total All India,W5,2014-11,15.81
+Total All India,W5,2014-12,12.95
+Total All India,W5,2015-01,15.15
+Total All India,W5,2015-02,16.32
+Total All India,W5,2015-03,16.55
+Total All India,W6,2014-04,1.34
+Total All India,W6,2014-05,1.22
+Total All India,W6,2014-06,1.33
+Total All India,W6,2014-07,1.3
+Total All India,W6,2014-08,1.3
+Total All India,W6,2014-09,1.21
+Total All India,W6,2014-10,1.16
+Total All India,W6,2014-11,1.09
+Total All India,W6,2014-12,1.06
+Total All India,W6,2015-01,1.14
+Total All India,W6,2015-02,1.34
+Total All India,W6,2015-03,1.16
+Total All India,W7,2014-04,3.99
+Total All India,W7,2014-05,4.36
+Total All India,W7,2014-06,4.37
+Total All India,W7,2014-07,4.87
+Total All India,W7,2014-08,4.28
+Total All India,W7,2014-09,4.01
+Total All India,W7,2014-10,4.25
+Total All India,W7,2014-11,4.17
+Total All India,W7,2014-12,3.31
+Total All India,W7,2015-01,3.78
+Total All India,W7,2015-02,3.87
+Total All India,W7,2015-03,4.46
+Total All India,W8,2014-04,10.4
+Total All India,W8,2014-05,10.16
+Total All India,W8,2014-06,11.67
+Total All India,W8,2014-07,10.66
+Total All India,W8,2014-08,11.06
+Total All India,W8,2014-09,9.88
+Total All India,W8,2014-10,10.22
+Total All India,W8,2014-11,9.43
+Total All India,W8,2014-12,9.33
+Total All India,W8,2015-01,9.02
+Total All India,W8,2015-02,9.83
+Total All India,W8,2015-03,10.61
+Total All India,W9,2014-04,0.93
+Total All India,W9,2014-05,1.0
+Total All India,W9,2014-06,0.99
+Total All India,W9,2014-07,1.01
+Total All India,W9,2014-08,0.96
+Total All India,W9,2014-09,0.89
+Total All India,W9,2014-10,0.86
+Total All India,W9,2014-11,0.8
+Total All India,W9,2014-12,0.9
+Total All India,W9,2015-01,0.91
+Total All India,W9,2015-02,0.91
+Total All India,W9,2015-03,0.95
+Total All India,W10,2014-04,5.66
+Total All India,W10,2014-05,5.77
+Total All India,W10,2014-06,6.45
+Total All India,W10,2014-07,5.94
+Total All India,W10,2014-08,5.69
+Total All India,W10,2014-09,5.71
+Total All India,W10,2014-10,5.26
+Total All India,W10,2014-11,4.82
+Total All India,W10,2014-12,4.88
+Total All India,W10,2015-01,5.21
+Total All India,W10,2015-02,5.49
+Total All India,W10,2015-03,5.39
